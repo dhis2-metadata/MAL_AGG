@@ -1,3 +1,3 @@
-# MLAG-Malaria_Aggregate
+# MAL_AGG
 
 Malaria aggregate packages
