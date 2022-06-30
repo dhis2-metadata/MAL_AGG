@@ -199,7 +199,7 @@ The table below lists only the dashboards in which there are notes of interest f
 As part of the package configuration, user groups have been created to be used to manage sharing settings in the metadata for all the modules. Core metadata that use these sharing settings include mainly the dataSets, dashboard, indicators and data Elements.
 The three user groups created include:
 
-| User group       | Dashboard         | Program Metadata  | Program data         |
+| User group       | Dashboard         | Metadata  | Data         |
 |------------------|-------------------|-------------------|----------------------|
 | MAL - Admin        | Can edit and view | Can edit and view | Can view only        |
 | MAL - Access       | Can view only     | Can view only     | Can view only        |
