@@ -4,6 +4,7 @@
     "dashboards": [
         {
             "allowedFilters": [],
+            "attributeValues": [],
             "code": "MAL_AGG_EL",
             "dashboardItems": [
                 {
@@ -403,8 +404,12 @@
                     "y": 81
                 }
             ],
+            "externalAccess": false,
+            "favorite": false,
             "id": "b8F1kKlV9Fk",
+            "itemCount": 12,
             "name": "MAL - 8.Malaria Elimination",
+            "publicAccess": "--------",
             "restrictFilters": false,
             "sharing": {
                 "external": false,
@@ -424,9 +429,32 @@
             },
             "translations": [
                 {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "MAL - 8.Malárie Potlačení"
+                },
+                {
                     "locale": "fr",
                     "property": "NAME",
                     "value": "PALU - Élimination"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "r-------",
+                    "id": "fNt8hFGEo9d",
+                    "userGroupUid": "fNt8hFGEo9d"
+                },
+                {
+                    "access": "rw------",
+                    "id": "WyU2lGUPLBv",
+                    "userGroupUid": "WyU2lGUPLBv"
                 }
             ]
         }
@@ -438,6 +466,8 @@
         {
             "attributeValues": [],
             "code": "MAL_AGG_EL",
+            "externalAccess": false,
+            "favorite": false,
             "id": "mrrlu8kux0s",
             "indicators": [
                 {
@@ -508,6 +538,7 @@
                 }
             ],
             "name": "Malaria elimination",
+            "publicAccess": "--------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -515,16 +546,37 @@
                 "userGroups": {},
                 "users": {}
             },
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Elimination du Paludisme"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         }
     ],
     "indicatorTypes": [
         {
-            "code": "NUMBER_ONLY",
+            "attributeValues": [],
+            "code": "GEN_LIB_NUMBER_ONLY",
+            "externalAccess": false,
             "factor": 1,
+            "favorite": false,
             "id": "kHy61PbChXr",
             "name": "Numerator only (number)",
             "number": true,
+            "sharing": {
+                "external": false,
+                "userGroups": {},
+                "users": {}
+            },
             "translations": [
                 {
                     "locale": "fr",
@@ -596,14 +648,24 @@
                     "property": "NAME",
                     "value": "Pouze čitatel (číslo)"
                 }
-            ]
+            ],
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
-            "code": "PERCENT",
+            "attributeValues": [],
+            "code": "GEN_LIB_PERCENT",
+            "externalAccess": false,
             "factor": 100,
+            "favorite": false,
             "id": "hmSnCXmLYwt",
             "name": "Percentage",
             "number": false,
+            "sharing": {
+                "external": false,
+                "userGroups": {},
+                "users": {}
+            },
             "translations": [
                 {
                     "locale": "uz",
@@ -680,7 +742,9 @@
                     "property": "NAME",
                     "value": "Foiz"
                 }
-            ]
+            ],
+            "userAccesses": [],
+            "userGroupAccesses": []
         }
     ],
     "indicators": [
@@ -688,10 +752,20 @@
             "annualized": false,
             "attributeValues": [],
             "code": "MAL_ANC1",
+            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "1",
             "description": "First visit by a pregnant woman to a health facility to primarily receive antenatal care. The first antenatal visit may be referred to as a ‘booking or scheduled visit’ when various processes are done as per the national policy.",
+            "dimensionItem": "hAAyWEh4Xf0",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
             "id": "hAAyWEh4Xf0",
+            "indicatorGroups": [
+                {
+                    "id": "mrrlu8kux0s"
+                }
+            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -699,6 +773,8 @@
             "name": "[CONFIG] MAL - ANC 1st visit",
             "numerator": -1,
             "numeratorDescription": "ANC 1st visit",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -707,16 +783,154 @@
                 "users": {}
             },
             "shortName": "ANC 1st visit",
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "id",
+                    "property": "DESCRIPTION",
+                    "value": "Kunjungan pertama  wanita hamil ke fasilitas kesehatan khusus untuk menerima perawatan antenatal. Kunjungan antenatal pertama dapat disebut sebagai 'booking' atau kunjungan terjadwal' ketika berbagai proses telah dilakukan sesuai kebijakan nasional."
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "id",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Kunjungan pertama ANC"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DESCRIPTION",
+                    "value": "Primeira visita de uma mulher grávida a uma unidade de saúde para receber principalmente cuidados pré-natais. A primeira visita pré-natal pode ser referida como uma \"marcação ou visita agendada\" quando vários processos são realizados de acordo com a política nacional."
+                },
+                {
+                    "locale": "ar",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "ANC 1ª visita"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Première visite d'une femme enceinte dans un établissement de santé pour y recevoir principalement des soins prénatals. La première visite prénatale peut être considérée comme une «visite de rendenz-vous ou programmée» lorsque divers processus sont effectués conformément à la politique nationale."
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "ANC 1ª visita"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "CPN 1ère viste"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "CPN 1ère viste"
+                },
+                {
+                    "locale": "ru",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DESCRIPTION",
+                    "value": "Primeira visita de uma mulher grávida a uma unidade de saúde para receber principalmente cuidados pré-natais. A primeira visita pré-natal pode ser referida como uma \"marcação ou visita agendada\" quando vários processos são realizados de acordo com a política nacional."
+                },
+                {
+                    "locale": "id",
+                    "property": "SHORT_NAME",
+                    "value": "Kunjungan pertama ANC"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "ANC 1ª visita"
+                },
+                {
+                    "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "ANC 1ª visita"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "MAL_TOT_MAL_CONF_CASES",
+            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "1",
             "description": "Number of malaria cases confirmed as positive with microscopy and/or RDT",
+            "dimensionItem": "rPYLomUceL4",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
             "id": "rPYLomUceL4",
+            "indicatorGroups": [
+                {
+                    "id": "mrrlu8kux0s"
+                }
+            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -724,6 +938,8 @@
             "name": "[CONFIG] MAL - Confirmed malaria cases (micr + RDT)",
             "numerator": -1,
             "numeratorDescription": "MAL - Microscopy positive malaria cases + MAL - RDT positive malaria cases",
+            "periodOffset": 0,
+            "publicAccess": "r-------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -744,13 +960,101 @@
             "translations": [
                 {
                     "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DESCRIPTION",
+                    "value": "Počet případů malárie potvrzených jako pozitivní mikroskopií a/nebo RDT"
+                },
+                {
+                    "locale": "es",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
                     "property": "SHORT_NAME",
                     "value": "microscopie et/ou TDR microscopie/TDR"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ru",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de cas de paludisme confirmés comme positifs par microscopie et/ou TDR"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
                 },
                 {
                     "locale": "fr",
                     "property": "NAME",
                     "value": "PALU - Cas de paludisme confirmés par microscopie et/ou TDR "
+                },
+                {
+                    "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "r-------",
+                    "id": "fNt8hFGEo9d",
+                    "userGroupUid": "fNt8hFGEo9d"
+                },
+                {
+                    "access": "rw------",
+                    "id": "WyU2lGUPLBv",
+                    "userGroupUid": "WyU2lGUPLBv"
                 }
             ]
         },
@@ -758,10 +1062,20 @@
             "annualized": false,
             "attributeValues": [],
             "code": "MAL_PROP_FOCI_CLASS",
+            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "New foci identified",
             "description": "Number of foci investigated and classified divided by total number of foci in the registry multiplied by 100 (in a year)",
+            "dimensionItem": "dKbHt6OB5x1",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
             "id": "dKbHt6OB5x1",
+            "indicatorGroups": [
+                {
+                    "id": "mrrlu8kux0s"
+                }
+            ],
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
@@ -769,6 +1083,8 @@
             "name": "[CONFIG] MAL - Foci classified (%)",
             "numerator": -1,
             "numeratorDescription": "Foci classified",
+            "periodOffset": 0,
+            "publicAccess": "r-------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -788,14 +1104,67 @@
             "shortName": "Foci classified (%)",
             "translations": [
                 {
+                    "locale": "es",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Focos clasificados"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de foyers étudiés et classifiés divisé par le nombre total de foyers dans le registre multiplié par 100 (en un an)"
+                },
+                {
                     "locale": "fr",
                     "property": "SHORT_NAME",
                     "value": "Pourcentage de foyers classifiés"
                 },
                 {
+                    "locale": "es_US",
+                    "property": "SHORT_NAME",
+                    "value": "Focos clasificados (%)"
+                },
+                {
                     "locale": "fr",
                     "property": "NAME",
                     "value": "PALU - Pourcentage de foyers classifiés"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "Focos clasificados (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Foyer classifié"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Ohniska klasifikována"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Focos clasificados"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "r-------",
+                    "id": "fNt8hFGEo9d",
+                    "userGroupUid": "fNt8hFGEo9d"
+                },
+                {
+                    "access": "rw------",
+                    "id": "WyU2lGUPLBv",
+                    "userGroupUid": "WyU2lGUPLBv"
                 }
             ]
         },
@@ -803,10 +1172,20 @@
             "annualized": false,
             "attributeValues": [],
             "code": "MAL_FOCI_IDENT_NEW_OLD",
+            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "1",
             "description": "Number of malaria foci identified (new+old) identified in the past 5 years (including current calendar year)",
+            "dimensionItem": "RLxhxT7sO0R",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
             "id": "RLxhxT7sO0R",
+            "indicatorGroups": [
+                {
+                    "id": "mrrlu8kux0s"
+                }
+            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -814,6 +1193,8 @@
             "name": "[CONFIG] MAL - Foci identified (new+old) in past 5 years (including current calendar year)",
             "numerator": -1,
             "numeratorDescription": "Foci identified (new+old) in past 5 years (including current calendar year)",
+            "periodOffset": 0,
+            "publicAccess": "r-------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -834,6 +1215,51 @@
             "translations": [
                 {
                     "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ru",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
                     "property": "NAME",
                     "value": "PALU - Nombre de foyers identifiés (total) au cours des 5 dernières années (y compris l'année civile en cours)"
                 },
@@ -843,9 +1269,42 @@
                     "value": "Nombre de foyers identifiés (total) au cours des 5 dernières années (y compris l'année civile en cours)"
                 },
                 {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
                     "locale": "fr",
                     "property": "DESCRIPTION",
                     "value": "Nombre de foyers identifiés (total) au cours des 5 dernières années (y compris l'année civile en cours)"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "r-------",
+                    "id": "fNt8hFGEo9d",
+                    "userGroupUid": "fNt8hFGEo9d"
+                },
+                {
+                    "access": "rw------",
+                    "id": "WyU2lGUPLBv",
+                    "userGroupUid": "WyU2lGUPLBv"
                 }
             ]
         },
@@ -853,10 +1312,20 @@
             "annualized": false,
             "attributeValues": [],
             "code": "MAL_PROP_FOCI_INVEST",
+            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "Malaria foci identified (new)",
             "description": "Number of foci investigated divided by total number of foci in the registry multiplied by 100 (in a year)",
+            "dimensionItem": "AdyubP1OaxP",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
             "id": "AdyubP1OaxP",
+            "indicatorGroups": [
+                {
+                    "id": "mrrlu8kux0s"
+                }
+            ],
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
@@ -864,6 +1333,8 @@
             "name": "[CONFIG] MAL - Foci investigated (%)",
             "numerator": -1,
             "numeratorDescription": "Foci investigated",
+            "periodOffset": 0,
+            "publicAccess": "r-------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -891,6 +1362,34 @@
                     "locale": "fr",
                     "property": "NAME",
                     "value": "PALU - Pourcentage de foyers investigués"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de foyers étudiés divisé par le nombre total de foyers dans le registre multiplié par 100 (en un an)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Foyé investigué "
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "r-------",
+                    "id": "fNt8hFGEo9d",
+                    "userGroupUid": "fNt8hFGEo9d"
+                },
+                {
+                    "access": "rw------",
+                    "id": "WyU2lGUPLBv",
+                    "userGroupUid": "WyU2lGUPLBv"
                 }
             ]
         },
@@ -898,10 +1397,20 @@
             "annualized": false,
             "attributeValues": [],
             "code": "MAL_PER_INFANTS_REC_ITN",
+            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "GEN - Population expected pregnant women",
             "description": "Percentage of infants received an ITN",
+            "dimensionItem": "vK4qNvAtZsG",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
             "id": "vK4qNvAtZsG",
+            "indicatorGroups": [
+                {
+                    "id": "mrrlu8kux0s"
+                }
+            ],
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
@@ -909,6 +1418,8 @@
             "name": "[CONFIG] MAL - Infants received an ITN (%)",
             "numerator": -1,
             "numeratorDescription": "LLINs distributed to infants",
+            "periodOffset": 0,
+            "publicAccess": "r-------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -920,24 +1431,66 @@
             "translations": [
                 {
                     "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "% d'enfants ayant un MILDA"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "GEN - Population attendue des femmes enceintes"
+                },
+                {
+                    "locale": "fr",
                     "property": "NAME",
                     "value": "PALU - % d'enfants ayant un MILDA"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "GEN - População esperada de gestantes"
                 },
                 {
                     "locale": "fr",
                     "property": "SHORT_NAME",
                     "value": "% d'enfants ayant un MILDA"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "GEN - População esperada de gestantes"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "MILDA distribué aux enfants"
                 }
-            ]
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "MAL_PER_CASES_CLASS",
+            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "Total malaria confirmed cases (Micr+RDT)",
             "description": "situations in which a diagnostic test cannot be performed in a timely",
+            "dimensionItem": "bZojnzkbvrZ",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
             "id": "bZojnzkbvrZ",
+            "indicatorGroups": [
+                {
+                    "id": "mrrlu8kux0s"
+                }
+            ],
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
@@ -945,6 +1498,8 @@
             "name": "[CONFIG] MAL - Malaria cases classified (%)",
             "numerator": -1,
             "numeratorDescription": "Malaria cases classified",
+            "periodOffset": 0,
+            "publicAccess": "r-------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -964,14 +1519,47 @@
             "shortName": "% of malaria cases classified",
             "translations": [
                 {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "% případů malárie klasifikováno"
+                },
+                {
                     "locale": "fr",
                     "property": "NAME",
                     "value": "PALU - Pourcentage de cas de paludisme classifiés"
                 },
                 {
+                    "locale": "cs",
+                    "property": "DESCRIPTION",
+                    "value": "situace, kdy diagnostický test nelze provést včas"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Situations dans lesquelles un test de diagnostic ne peut être effectué à temps"
+                },
+                {
                     "locale": "fr",
                     "property": "SHORT_NAME",
                     "value": "Pourcentage de cas de paludisme classifiés"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "r-------",
+                    "id": "fNt8hFGEo9d",
+                    "userGroupUid": "fNt8hFGEo9d"
+                },
+                {
+                    "access": "rw------",
+                    "id": "WyU2lGUPLBv",
+                    "userGroupUid": "WyU2lGUPLBv"
                 }
             ]
         },
@@ -979,10 +1567,20 @@
             "annualized": false,
             "attributeValues": [],
             "code": "MAL_CASES_CLASS_LOCAL",
+            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "1",
             "description": "Number of cases confirmed as malaria that are investigated and classified as either indigenous or introduced",
+            "dimensionItem": "npqu6fhBVpe",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
             "id": "npqu6fhBVpe",
+            "indicatorGroups": [
+                {
+                    "id": "mrrlu8kux0s"
+                }
+            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -990,6 +1588,8 @@
             "name": "[CONFIG] MAL - Malaria cases classified as local",
             "numerator": -1,
             "numeratorDescription": "Malaria cases classified as local",
+            "periodOffset": 0,
+            "publicAccess": "r-------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -1010,13 +1610,101 @@
             "translations": [
                 {
                     "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de cas de confirmés comme paludisme qui sont investigué et classifié comme soit autochtones ou introduits"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
                     "property": "SHORT_NAME",
                     "value": "Cas classés comme souche autochtone"
                 },
                 {
                     "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Cas paludisme Classifié comme souche autochtone "
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
                     "property": "NAME",
                     "value": "PALU - Cas classés comme souche autochtone"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ru",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "r-------",
+                    "id": "fNt8hFGEo9d",
+                    "userGroupUid": "fNt8hFGEo9d"
+                },
+                {
+                    "access": "rw------",
+                    "id": "WyU2lGUPLBv",
+                    "userGroupUid": "WyU2lGUPLBv"
                 }
             ]
         },
@@ -1024,10 +1712,20 @@
             "annualized": false,
             "attributeValues": [],
             "code": "MAL_PER_CASES_DETEC_COM_LEVEL",
+            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "Cases positive with RDT + Cases positive with microscopy",
             "description": "manner but a patient is suspected by the clinician to have malaria and is treated for the disease. The definition of a suspected may vary by country and should be based on the current National Malaria Treatment Guidelines. Where trend in this indicator is been analysed",
+            "dimensionItem": "yC9EwmnP8L0",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
             "id": "yC9EwmnP8L0",
+            "indicatorGroups": [
+                {
+                    "id": "mrrlu8kux0s"
+                }
+            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -1035,6 +1733,8 @@
             "name": "[CONFIG] MAL - Malaria cases detected in community level (%)",
             "numerator": -1,
             "numeratorDescription": "Positive (Micr) + Positive (RDT) (Community only)",
+            "periodOffset": 0,
+            "publicAccess": "r-------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -1053,17 +1753,39 @@
                     "locale": "fr",
                     "property": "SHORT_NAME",
                     "value": "Pourcentage de cas détectés au niveau communautaire (par les agents de santé communautaires)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Le clinicien soupçonne un patient d'être atteint de paludisme et le traite pour cette maladie. La définition d'une suspicion peut varier selon les pays et doit être basée sur les directives nationales de traitement du paludisme en vigueur lorsque la tendance de cet indicateur est analysée"
                 }
-            ]
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "MAL_PER_CASES_INVES",
+            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "Total positives",
             "description": "Number of positive cases detected through PCD and investigated by total number of cases detected through PCD multiplied by 00.",
+            "dimensionItem": "sl7EVPFXps8",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
             "id": "sl7EVPFXps8",
+            "indicatorGroups": [
+                {
+                    "id": "mrrlu8kux0s"
+                }
+            ],
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
@@ -1071,6 +1793,8 @@
             "name": "[CONFIG] MAL - Malaria cases investigated (%)",
             "numerator": -1,
             "numeratorDescription": "Malaria cases investigated",
+            "periodOffset": 0,
+            "publicAccess": "r-------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -1095,9 +1819,32 @@
                     "value": "PALU - Pourcentage de cas investigués"
                 },
                 {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "Celkem pozitivní"
+                },
+                {
                     "locale": "fr",
                     "property": "SHORT_NAME",
                     "value": "Pourcentage de cas investigués"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "r-------",
+                    "id": "fNt8hFGEo9d",
+                    "userGroupUid": "fNt8hFGEo9d"
+                },
+                {
+                    "access": "rw------",
+                    "id": "WyU2lGUPLBv",
+                    "userGroupUid": "WyU2lGUPLBv"
                 }
             ]
         },
@@ -1105,10 +1852,20 @@
             "annualized": false,
             "attributeValues": [],
             "code": "MAL_PER_CASES_INVEST_N2",
+            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "Number of cases positive",
             "description": "Malaria - Proportion of cases investigated within time frame (from diagnosis). Usually 4 days after diagnosis, see national guideline.",
+            "dimensionItem": "dASLnPMS8L8",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
             "id": "dASLnPMS8L8",
+            "indicatorGroups": [
+                {
+                    "id": "mrrlu8kux0s"
+                }
+            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -1116,6 +1873,8 @@
             "name": "[CONFIG] MAL - Malaria cases investigated within time frame (%)",
             "numerator": -1,
             "numeratorDescription": "Cases investigated within 4 days (from diagnosis)",
+            "periodOffset": 0,
+            "publicAccess": "r-------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -1124,16 +1883,44 @@
                 "users": {}
             },
             "shortName": "% of cases investigated within 4 timeframe",
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Paludisme - Proportion de cas enquêtés dans les délais (à partir du diagnostic). Généralement 4 jours après le diagnostic, voir la directive nationale."
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "% de cas ayant fait l'objet d'une enquête dans un délai de 4 ans"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "MAL_PER_CASES_NOTIF_24RS",
+            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "Cases detected",
             "description": "Number of confirmed malaria cases notified to national level within (N1) timeframe after confirmation, defined in the national guideline divided by total number of confirmed malaria cases through PCD multiplied by 100.",
+            "dimensionItem": "fvSA2BtaTBX",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
             "id": "fvSA2BtaTBX",
+            "indicatorGroups": [
+                {
+                    "id": "mrrlu8kux0s"
+                }
+            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -1141,6 +1928,8 @@
             "name": "[CONFIG] MAL - Malaria cases notified within time frame (%)",
             "numerator": -1,
             "numeratorDescription": "Cases notified within 2 days (from diagnosis)",
+            "periodOffset": 0,
+            "publicAccess": "r-------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -1154,17 +1943,39 @@
                     "locale": "fr",
                     "property": "NAME",
                     "value": "PALU - "
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "% de cas de paludisme notifiés dans les N1 jours"
                 }
-            ]
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "MAL_PER_CASES_SYMPT_DIAG_24HRS",
+            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "Cases detected",
             "description": "Malaria - Proportion of cases with symptoms diagnosed within time frame",
+            "dimensionItem": "JZegZ4SDzDs",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
             "id": "JZegZ4SDzDs",
+            "indicatorGroups": [
+                {
+                    "id": "mrrlu8kux0s"
+                }
+            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -1172,6 +1983,8 @@
             "name": "[CONFIG] MAL - Malaria cases with symptoms diagnosed within time frame (%)",
             "numerator": -1,
             "numeratorDescription": "Cases with symptoms diagnosed within 24 hours",
+            "periodOffset": 0,
+            "publicAccess": "r-------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -1180,15 +1993,48 @@
                 "users": {}
             },
             "shortName": "% of malaria cases diag within time frame",
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Paludisme - Proportion de cas avec les symptômes dans le délais"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "% de cas de paludisme diagnostiqué dans le délais"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Cas avec symptômes diagnostiqués dans les 24 heures"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "MAL_CONF_THRES2",
+            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "1",
+            "dimensionItem": "tIWGvDkU6lb",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
             "id": "tIWGvDkU6lb",
+            "indicatorGroups": [
+                {
+                    "id": "mrrlu8kux0s"
+                }
+            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -1196,6 +2042,8 @@
             "name": "[CONFIG] MAL - Malaria confirmed MEAN+2 STD (threshold)",
             "numerator": -1,
             "numeratorDescription": "Malaria confirmed MEDIAN+2 STD (threshold)",
+            "periodOffset": 0,
+            "publicAccess": "r-------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -1216,13 +2064,91 @@
             "translations": [
                 {
                     "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
                     "property": "NAME",
                     "value": "PALU - Cas confirmé 2 écarts-types de la moyenne"
+                },
+                {
+                    "locale": "es",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ru",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
                 },
                 {
                     "locale": "fr",
                     "property": "SHORT_NAME",
                     "value": "Cas confirmé 2 écarts-types de la moyenne"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "r-------",
+                    "id": "fNt8hFGEo9d",
+                    "userGroupUid": "fNt8hFGEo9d"
+                },
+                {
+                    "access": "rw------",
+                    "id": "WyU2lGUPLBv",
+                    "userGroupUid": "WyU2lGUPLBv"
                 }
             ]
         },
@@ -1230,10 +2156,20 @@
             "annualized": false,
             "attributeValues": [],
             "code": "MAL_CONF_THRES",
+            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "1",
             "description": "Median plus upper third quartile (75%) - upper third quartile of the range of values in the week/month of the previous year. Time period depends on the frequency of data collection.",
+            "dimensionItem": "bA6kgEyRkg0",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
             "id": "bA6kgEyRkg0",
+            "indicatorGroups": [
+                {
+                    "id": "mrrlu8kux0s"
+                }
+            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -1241,6 +2177,8 @@
             "name": "[CONFIG] MAL - Malaria confirmed MEDIAN (threshold)",
             "numerator": -1,
             "numeratorDescription": "Malaria confirmed MEDIAN (threshold)",
+            "periodOffset": 0,
+            "publicAccess": "r-------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -1261,13 +2199,101 @@
             "translations": [
                 {
                     "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "Prahová hodnota potvrzená malárií"
+                },
+                {
+                    "locale": "fr",
                     "property": "NAME",
                     "value": "PALU - Cas confirmé médiane"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
                 },
                 {
                     "locale": "fr",
                     "property": "SHORT_NAME",
                     "value": "Cas confirmé médiane"
+                },
+                {
+                    "locale": "ru",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Paludisme confirmé (médiane)"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "r-------",
+                    "id": "fNt8hFGEo9d",
+                    "userGroupUid": "fNt8hFGEo9d"
+                },
+                {
+                    "access": "rw------",
+                    "id": "WyU2lGUPLBv",
+                    "userGroupUid": "WyU2lGUPLBv"
                 }
             ]
         },
@@ -1275,11 +2301,21 @@
             "annualized": false,
             "attributeValues": [],
             "code": "MAL_PER_PF",
+            "dataSets": [],
             "decimals": 2,
             "denominator": -1,
             "denominatorDescription": "Confirmed malaria cases",
             "description": "Percentage of positive cases due to P. falciparum parasite ((number of cases due to P. falciparum only + mix infection with P. falciparum/ all positive cases)x100)",
+            "dimensionItem": "Uzmk0S9IwWn",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
             "id": "Uzmk0S9IwWn",
+            "indicatorGroups": [
+                {
+                    "id": "mrrlu8kux0s"
+                }
+            ],
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
@@ -1287,6 +2323,8 @@
             "name": "[CONFIG] MAL - P. falciparum (%)",
             "numerator": -1,
             "numeratorDescription": "Sum (Pf+mixed Micr+RDT)",
+            "periodOffset": 0,
+            "publicAccess": "r-------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -1311,9 +2349,42 @@
                     "value": "PALU - Pourcentage de P. falciparum"
                 },
                 {
+                    "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "Casos confirmados de malária"
+                },
+                {
                     "locale": "fr",
                     "property": "SHORT_NAME",
                     "value": "Pourcentage de P. falciparum"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Pourcentage de cas positifs dus au parasite P. falciparum ((nombre de cas dus à P. falciparum uniquement + infection mixte à P. falciparum/ tous les cas positifs)x100)"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "Casos confirmados de malária"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "r-------",
+                    "id": "fNt8hFGEo9d",
+                    "userGroupUid": "fNt8hFGEo9d"
+                },
+                {
+                    "access": "rw------",
+                    "id": "WyU2lGUPLBv",
+                    "userGroupUid": "WyU2lGUPLBv"
                 }
             ]
         },
@@ -1321,10 +2392,20 @@
             "annualized": true,
             "attributeValues": [],
             "code": "MAL_PER_POP_COV_BY_LLINS",
+            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "Population at risk",
             "description": "Number of LLINs distributed in past 3 years* 1.8 divided by population at risk of malaria multiplied by 100",
+            "dimensionItem": "A1o8U4zmzvA",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
             "id": "A1o8U4zmzvA",
+            "indicatorGroups": [
+                {
+                    "id": "mrrlu8kux0s"
+                }
+            ],
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
@@ -1332,6 +2413,8 @@
             "name": "[CONFIG] MAL - Population potentially covered with LLIN (%)",
             "numerator": -1,
             "numeratorDescription": "LLINs distributed",
+            "periodOffset": 0,
+            "publicAccess": "r-------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -1347,20 +2430,52 @@
                     "value": "PALU - % de la population potentiellement couverte par MILDA (%)"
                 },
                 {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "Obyvatelstvo v ohrožení"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "Population à risque"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "% populace potenciálně pokryté LLIN (%)"
+                },
+                {
                     "locale": "fr",
                     "property": "SHORT_NAME",
                     "value": "% de la population potentiellement couverte par MILDA (%)"
                 }
-            ]
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
             "annualized": true,
             "attributeValues": [],
             "code": "MAL_PER_POP_PROT_BY_IRS",
+            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "Population at risk",
             "description": "Number of people in the targeted risk group protected by IRS in the past 12 months divided by number of people in risk group multiplied by 100",
+            "dimensionItem": "IGVgCwUaaVz",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
             "id": "IGVgCwUaaVz",
+            "indicatorGroups": [
+                {
+                    "id": "mrrlu8kux0s"
+                }
+            ],
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
@@ -1368,6 +2483,8 @@
             "name": "[CONFIG] MAL - Population protected with IRS (%)",
             "numerator": -1,
             "numeratorDescription": "People protected by IRS",
+            "periodOffset": 0,
+            "publicAccess": "r-------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -1379,6 +2496,26 @@
             "translations": [
                 {
                     "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Personnes protégées par PID"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "Obyvatelstvo v ohrožení"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de personnes appartenant au groupe à risque ciblé protégé par PID au cours des 12 derniers mois divisé par le nombre de personnes appartenant au groupe à risque multiplié par 100"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "Population à risque"
+                },
+                {
+                    "locale": "fr",
                     "property": "SHORT_NAME",
                     "value": "% de la population protégé par PID"
                 },
@@ -1387,16 +2524,33 @@
                     "property": "NAME",
                     "value": "PALU - % de la population protégé par PID"
                 }
-            ]
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "MAL_PER_PW_ATTEND_ANC1",
+            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "GEN - Population expected pregnant women",
             "description": "Percentage of pregnant women attending ANC 1st visit",
+            "dimensionItem": "blS3OjRXn0c",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
             "id": "blS3OjRXn0c",
+            "indicatorGroups": [
+                {
+                    "id": "mrrlu8kux0s"
+                }
+            ],
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
@@ -1404,6 +2558,8 @@
             "name": "[CONFIG] MAL - Pregnant women attending ANC1(%)",
             "numerator": -1,
             "numeratorDescription": "MAL - ANC 1st visit (malaria)",
+            "periodOffset": 0,
+            "publicAccess": "r-------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -1412,16 +2568,64 @@
                 "users": {}
             },
             "shortName": "Pregnant women attending ANC1 (%))",
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "GEN - Population attendue des femmes enceintes"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "GEN - População esperada de gestantes"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "GEN - População esperada de gestantes"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DESCRIPTION",
+                    "value": "Procento těhotných žen, které se zúčastnily 1. návštěvy ANC"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Pourcentage de femme enceinte attendues qui ont effectué la 1ère visite de CPN"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Nombre de 1ère visites CPN"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "MAL_PER_PW_REC_ITN",
+            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "GEN - Population expected pregnant women",
             "description": "Percentage of pregnant women received an ITN",
+            "dimensionItem": "VoN285Q7FQG",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
             "id": "VoN285Q7FQG",
+            "indicatorGroups": [
+                {
+                    "id": "mrrlu8kux0s"
+                }
+            ],
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
@@ -1429,6 +2633,8 @@
             "name": "[CONFIG] MAL - Pregnant women received an ITN (%)",
             "numerator": -1,
             "numeratorDescription": "LLINs distributed to pregnant women",
+            "periodOffset": 0,
+            "publicAccess": "r-------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -1437,16 +2643,64 @@
                 "users": {}
             },
             "shortName": "Pregnant women received an ITN (%)",
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "GEN - Population attendue des femmes enceintes"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Pourcentage de femme enceinte ayant reçu un MILDA"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "GEN - População esperada de gestantes"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DESCRIPTION",
+                    "value": "Procento těhotných žen které obdrželo ITN"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "GEN - População esperada de gestantes"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "MILD distribué au Femmes enceintes"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "MAL_PER_FOCI_ZERO_LOCAL_CASES",
+            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "New foci identified",
             "description": "Proportion of foci (active, residual non-active) with zero local cases",
+            "dimensionItem": "N8S7Vnntced",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
             "id": "N8S7Vnntced",
+            "indicatorGroups": [
+                {
+                    "id": "mrrlu8kux0s"
+                }
+            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -1454,6 +2708,8 @@
             "name": "[CONFIG] MAL - Proportion of foci (active, residual non-active) with zero local cases",
             "numerator": -1,
             "numeratorDescription": "Foci classified as endemic or active (with confirmed local cases for at least the past 2 years)",
+            "periodOffset": 0,
+            "publicAccess": "r-------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -1479,8 +2735,31 @@
                 },
                 {
                     "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Proportion de foyers (actifs, résiduels non actifs) avec zéro cas autochtone"
+                },
+                {
+                    "locale": "fr",
                     "property": "NAME",
                     "value": "PALU - Proportion de foyers avec zéro cas local"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "r-------",
+                    "id": "fNt8hFGEo9d",
+                    "userGroupUid": "fNt8hFGEo9d"
+                },
+                {
+                    "access": "rw------",
+                    "id": "WyU2lGUPLBv",
+                    "userGroupUid": "WyU2lGUPLBv"
                 }
             ]
         },
@@ -1488,11 +2767,21 @@
             "annualized": false,
             "attributeValues": [],
             "code": "MAL_PER_PV",
+            "dataSets": [],
             "decimals": 2,
             "denominator": -1,
             "denominatorDescription": "Confirmed malaria cases",
             "description": "Percentage of positive cases due to P. vivax parasite ((number of cases due to P. vivax only + mix infection with P. vivax/ all positive cases)x100)",
+            "dimensionItem": "EEuvMCljxc9",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
             "id": "EEuvMCljxc9",
+            "indicatorGroups": [
+                {
+                    "id": "mrrlu8kux0s"
+                }
+            ],
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
@@ -1500,6 +2789,8 @@
             "name": "[CONFIG] MAL - P. vivax (%)",
             "numerator": -1,
             "numeratorDescription": "P. vivax (microscopy) + P. vivax (RDT)",
+            "periodOffset": 0,
+            "publicAccess": "r-------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -1520,6 +2811,16 @@
             "translations": [
                 {
                     "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Pourcentage de cas positifs dus au parasite P. vivax ((nombre de cas dus à P. vivax seulement + infection mixte avec P. vivax/ tous les cas positifs)x100)"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "Casos confirmados de malária"
+                },
+                {
+                    "locale": "fr",
                     "property": "SHORT_NAME",
                     "value": "Pourcentage de P. vivax"
                 },
@@ -1527,6 +2828,29 @@
                     "locale": "fr",
                     "property": "NAME",
                     "value": "PALU - Pourcentage de P. vivax"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "Casos confirmados de malária"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "r-------",
+                    "id": "fNt8hFGEo9d",
+                    "userGroupUid": "fNt8hFGEo9d"
+                },
+                {
+                    "access": "rw------",
+                    "id": "WyU2lGUPLBv",
+                    "userGroupUid": "WyU2lGUPLBv"
                 }
             ]
         },
@@ -1534,10 +2858,16 @@
             "annualized": false,
             "attributeValues": [],
             "code": "MAL_RPT_COMPLETENESS",
+            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "Number of health facilities expected to report",
             "description": "Number of actual reports received divided by total number of health facilities expected to report",
+            "dimensionItem": "kRM758TS6p7",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
             "id": "kRM758TS6p7",
+            "indicatorGroups": [],
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
@@ -1545,6 +2875,8 @@
             "name": "[CONFIG] MAL - Reporting Completeness (%)",
             "numerator": -1,
             "numeratorDescription": "Number of health facilities reported",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -1553,7 +2885,14 @@
                 "users": {}
             },
             "shortName": "Reporting Completeness (%)",
-            "translations": []
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         }
     ],
     "legendSets": [],
@@ -1562,8 +2901,8 @@
         "DHIS2Build": "11b58fe",
         "DHIS2Version": "2.36.11.1",
         "code": "MAL_AGG_EL",
-        "description": "",
-        "lastUpdated": "20220615T151215",
+        "description": "Malaria Elimination (dashboard)",
+        "lastUpdated": "20220630T184541",
         "locale": "en",
         "name": "MAL_AGG_EL_DSH_DHIS2.36.11.1-en",
         "type": "DSH",
@@ -1573,9 +2912,17 @@
         {
             "attributeValues": [],
             "code": "MAL_AGG_ACCESS",
+            "externalAccess": false,
+            "favorite": false,
             "id": "fNt8hFGEo9d",
+            "managedByGroups": [
+                {
+                    "id": "dO0Z6jb54LZ"
+                }
+            ],
             "managedGroups": [],
             "name": "Malaria access",
+            "publicAccess": "r-------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -1592,15 +2939,47 @@
                 },
                 "users": {}
             },
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Paludisme accès"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "r-------",
+                    "id": "fNt8hFGEo9d",
+                    "userGroupUid": "fNt8hFGEo9d"
+                },
+                {
+                    "access": "rw------",
+                    "id": "WyU2lGUPLBv",
+                    "userGroupUid": "WyU2lGUPLBv"
+                }
+            ],
             "users": []
         },
         {
             "attributeValues": [],
             "code": "MAL_AGG_ADMIN",
+            "externalAccess": false,
+            "favorite": false,
             "id": "WyU2lGUPLBv",
+            "managedByGroups": [
+                {
+                    "id": "pYKORibPZEp"
+                }
+            ],
             "managedGroups": [],
             "name": "Malaria admin",
+            "publicAccess": "r-------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -1617,15 +2996,43 @@
                 },
                 "users": {}
             },
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Paludisme admin"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "r-------",
+                    "id": "fNt8hFGEo9d",
+                    "userGroupUid": "fNt8hFGEo9d"
+                },
+                {
+                    "access": "rw------",
+                    "id": "WyU2lGUPLBv",
+                    "userGroupUid": "WyU2lGUPLBv"
+                }
+            ],
             "users": []
         },
         {
             "attributeValues": [],
             "code": "MAL_AGG_CAPTURE",
+            "externalAccess": false,
+            "favorite": false,
             "id": "vgxAJF9iDRX",
+            "managedByGroups": [],
             "managedGroups": [],
             "name": "Malaria data capture",
+            "publicAccess": "--------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -1642,15 +3049,43 @@
                 },
                 "users": {}
             },
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Saisie des données Paludisme"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "r-------",
+                    "id": "fNt8hFGEo9d",
+                    "userGroupUid": "fNt8hFGEo9d"
+                },
+                {
+                    "access": "rw------",
+                    "id": "WyU2lGUPLBv",
+                    "userGroupUid": "WyU2lGUPLBv"
+                }
+            ],
             "users": []
         },
         {
             "attributeValues": [],
             "code": "MAL_AGG_STK_CAPTURE",
+            "externalAccess": false,
+            "favorite": false,
             "id": "s5MVdN5Ehkz",
+            "managedByGroups": [],
             "managedGroups": [],
             "name": "Malaria stock data capture",
+            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -1659,6 +3094,13 @@
                 "users": {}
             },
             "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
             "users": []
         }
     ],
@@ -1666,11 +3108,21 @@
         {
             "attributeValues": [],
             "dataViewOrganisationUnits": [],
+            "externalAccess": false,
+            "favorite": false,
             "firstName": "package",
             "id": "vUeLeQMSwhN",
+            "name": "package admin",
             "organisationUnits": [],
+            "sharing": {
+                "external": false,
+                "userGroups": {},
+                "users": {}
+            },
             "surname": "admin",
             "teiSearchOrganisationUnits": [],
+            "translations": [],
+            "userAccesses": [],
             "userCredentials": {
                 "attributeValues": [],
                 "catDimensionConstraints": [],
@@ -1710,6 +3162,8 @@
     "visualizations": [
         {
             "aggregationType": "DEFAULT",
+            "attributeDimensions": [],
+            "attributeValues": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -1717,6 +3171,7 @@
             "columnDimensions": [
                 "dx"
             ],
+            "columns": [],
             "completedOnly": false,
             "cumulativeValues": false,
             "dataDimensionItems": [
@@ -1727,12 +3182,17 @@
                     }
                 }
             ],
+            "dataElementDimensions": [],
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
+            "displayTitle": "Confirmed cases and Foci",
+            "externalAccess": false,
+            "favorite": false,
             "filterDimensions": [
                 "ou"
             ],
+            "filters": [],
             "fontSize": "NORMAL",
             "hideEmptyColumns": false,
             "hideEmptyRowItems": "ALL",
@@ -1751,8 +3211,11 @@
             "organisationUnitGroupSetDimensions": [],
             "organisationUnitLevels": [],
             "organisationUnits": [],
+            "parentGraphMap": {},
             "percentStackedValues": false,
             "periods": [],
+            "programIndicatorDimensions": [],
+            "publicAccess": "r-------",
             "regression": false,
             "regressionType": "NONE",
             "relativePeriods": {
@@ -1811,6 +3274,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "rows": [],
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -1832,9 +3296,20 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "subscribed": false,
             "title": "Confirmed cases and Foci",
             "topLimit": 0,
             "translations": [
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "MAL - Casos confirmados y focos"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "MAL - Casos confirmados y focos"
+                },
                 {
                     "locale": "fr",
                     "property": "NAME",
@@ -1842,6 +3317,24 @@
                 }
             ],
             "type": "LINE",
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "r-------",
+                    "id": "fNt8hFGEo9d",
+                    "userGroupUid": "fNt8hFGEo9d"
+                },
+                {
+                    "access": "rw------",
+                    "id": "WyU2lGUPLBv",
+                    "userGroupUid": "WyU2lGUPLBv"
+                }
+            ],
             "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
@@ -1849,6 +3342,8 @@
         },
         {
             "aggregationType": "DEFAULT",
+            "attributeDimensions": [],
+            "attributeValues": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": true,
@@ -1856,6 +3351,7 @@
             "columnDimensions": [
                 "dx"
             ],
+            "columns": [],
             "completedOnly": false,
             "cumulativeValues": false,
             "dataDimensionItems": [
@@ -1866,12 +3362,16 @@
                     }
                 }
             ],
+            "dataElementDimensions": [],
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
+            "externalAccess": false,
+            "favorite": false,
             "filterDimensions": [
                 "ou"
             ],
+            "filters": [],
             "fontSize": "NORMAL",
             "hideEmptyColumns": false,
             "hideEmptyRows": true,
@@ -1891,8 +3391,11 @@
             "organisationUnitGroupSetDimensions": [],
             "organisationUnitLevels": [],
             "organisationUnits": [],
+            "parentGraphMap": {},
             "percentStackedValues": false,
             "periods": [],
+            "programIndicatorDimensions": [],
+            "publicAccess": "r-------",
             "regression": false,
             "relativePeriods": {
                 "biMonthsThisYear": false,
@@ -1950,6 +3453,7 @@
             ],
             "rowSubTotals": true,
             "rowTotals": true,
+            "rows": [],
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -1971,9 +3475,44 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "subscribed": false,
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "MAL - Casos confirmados y focos"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "MAL - Casos confirmados y focos"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "MAL - Cas confirmés et foyers"
+                }
+            ],
             "type": "PIVOT_TABLE",
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "r-------",
+                    "id": "fNt8hFGEo9d",
+                    "userGroupUid": "fNt8hFGEo9d"
+                },
+                {
+                    "access": "rw------",
+                    "id": "WyU2lGUPLBv",
+                    "userGroupUid": "WyU2lGUPLBv"
+                }
+            ],
             "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
@@ -1981,6 +3520,8 @@
         },
         {
             "aggregationType": "DEFAULT",
+            "attributeDimensions": [],
+            "attributeValues": [],
             "axes": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
@@ -1990,6 +3531,7 @@
             "columnDimensions": [
                 "dx"
             ],
+            "columns": [],
             "completedOnly": false,
             "cumulativeValues": false,
             "dataDimensionItems": [
@@ -2006,13 +3548,18 @@
                     }
                 }
             ],
+            "dataElementDimensions": [],
             "dataElementGroupSetDimensions": [],
             "description": "Countries should choose either the mean+2SD OR MEDIAN (threshold) (MAL - Malaria confirmed MEDIAN (threshold)), but not both. To put this in guidance (better in elimination settings).",
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
+            "displayTitle": "Malaria surveillance",
+            "externalAccess": false,
+            "favorite": false,
             "filterDimensions": [
                 "ou"
             ],
+            "filters": [],
             "fontSize": "NORMAL",
             "fontStyle": {},
             "hideEmptyColumns": false,
@@ -2035,8 +3582,11 @@
             "organisationUnitGroupSetDimensions": [],
             "organisationUnitLevels": [],
             "organisationUnits": [],
+            "parentGraphMap": {},
             "percentStackedValues": false,
             "periods": [],
+            "programIndicatorDimensions": [],
+            "publicAccess": "r-------",
             "regression": false,
             "regressionType": "NONE",
             "relativePeriods": {
@@ -2095,6 +3645,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "rows": [],
             "series": [],
             "sharing": {
                 "external": false,
@@ -2117,17 +3668,51 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "subscribed": false,
             "subscribers": [],
             "title": "Malaria surveillance",
             "topLimit": 0,
             "translations": [
                 {
+                    "locale": "es",
+                    "property": "title",
+                    "value": "Vigilancia de la malaria"
+                },
+                {
+                    "locale": "fr",
+                    "property": "title",
+                    "value": "Surveillance paludisme"
+                },
+                {
                     "locale": "fr",
                     "property": "NAME",
                     "value": "MAL - Surveillance du paludisme"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "title",
+                    "value": "Vigilancia de la malaria"
                 }
             ],
             "type": "LINE",
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "r-------",
+                    "id": "fNt8hFGEo9d",
+                    "userGroupUid": "fNt8hFGEo9d"
+                },
+                {
+                    "access": "rw------",
+                    "id": "WyU2lGUPLBv",
+                    "userGroupUid": "WyU2lGUPLBv"
+                }
+            ],
             "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
@@ -2135,6 +3720,8 @@
         },
         {
             "aggregationType": "DEFAULT",
+            "attributeDimensions": [],
+            "attributeValues": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -2142,6 +3729,7 @@
             "columnDimensions": [
                 "dx"
             ],
+            "columns": [],
             "completedOnly": false,
             "cumulativeValues": false,
             "dataDimensionItems": [
@@ -2158,12 +3746,17 @@
                     }
                 }
             ],
+            "dataElementDimensions": [],
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
+            "displayTitle": "Percent P.F and P.v",
+            "externalAccess": false,
+            "favorite": false,
             "filterDimensions": [
                 "ou"
             ],
+            "filters": [],
             "fontSize": "NORMAL",
             "hideEmptyColumns": false,
             "hideEmptyRowItems": "ALL",
@@ -2182,8 +3775,11 @@
             "organisationUnitGroupSetDimensions": [],
             "organisationUnitLevels": [],
             "organisationUnits": [],
+            "parentGraphMap": {},
             "percentStackedValues": false,
             "periods": [],
+            "programIndicatorDimensions": [],
+            "publicAccess": "r-------",
             "regression": false,
             "regressionType": "NONE",
             "relativePeriods": {
@@ -2242,6 +3838,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "rows": [],
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -2263,9 +3860,15 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "subscribed": false,
             "title": "Percent P.F and P.v",
             "topLimit": 0,
             "translations": [
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "MAL - procento P.F a P.v."
+                },
                 {
                     "locale": "fr",
                     "property": "NAME",
@@ -2273,6 +3876,24 @@
                 }
             ],
             "type": "LINE",
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "r-------",
+                    "id": "fNt8hFGEo9d",
+                    "userGroupUid": "fNt8hFGEo9d"
+                },
+                {
+                    "access": "rw------",
+                    "id": "WyU2lGUPLBv",
+                    "userGroupUid": "WyU2lGUPLBv"
+                }
+            ],
             "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
@@ -2280,6 +3901,8 @@
         },
         {
             "aggregationType": "DEFAULT",
+            "attributeDimensions": [],
+            "attributeValues": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": true,
@@ -2287,6 +3910,7 @@
             "columnDimensions": [
                 "dx"
             ],
+            "columns": [],
             "completedOnly": false,
             "cumulativeValues": false,
             "dataDimensionItems": [
@@ -2303,12 +3927,16 @@
                     }
                 }
             ],
+            "dataElementDimensions": [],
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
+            "externalAccess": false,
+            "favorite": false,
             "filterDimensions": [
                 "ou"
             ],
+            "filters": [],
             "fontSize": "NORMAL",
             "hideEmptyColumns": false,
             "hideEmptyRows": false,
@@ -2328,8 +3956,11 @@
             "organisationUnitGroupSetDimensions": [],
             "organisationUnitLevels": [],
             "organisationUnits": [],
+            "parentGraphMap": {},
             "percentStackedValues": false,
             "periods": [],
+            "programIndicatorDimensions": [],
+            "publicAccess": "r-------",
             "regression": false,
             "relativePeriods": {
                 "biMonthsThisYear": false,
@@ -2387,6 +4018,7 @@
             ],
             "rowSubTotals": true,
             "rowTotals": true,
+            "rows": [],
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -2408,9 +4040,39 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "subscribed": false,
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "MAL - procento P.F a P.v."
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "MAL - Pourcentage P.F et P.v"
+                }
+            ],
             "type": "PIVOT_TABLE",
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "r-------",
+                    "id": "fNt8hFGEo9d",
+                    "userGroupUid": "fNt8hFGEo9d"
+                },
+                {
+                    "access": "rw------",
+                    "id": "WyU2lGUPLBv",
+                    "userGroupUid": "WyU2lGUPLBv"
+                }
+            ],
             "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
@@ -2418,6 +4080,8 @@
         },
         {
             "aggregationType": "DEFAULT",
+            "attributeDimensions": [],
+            "attributeValues": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -2425,6 +4089,7 @@
             "columnDimensions": [
                 "dx"
             ],
+            "columns": [],
             "completedOnly": false,
             "cumulativeValues": false,
             "dataDimensionItems": [
@@ -2441,12 +4106,16 @@
                     }
                 }
             ],
+            "dataElementDimensions": [],
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
+            "externalAccess": false,
+            "favorite": false,
             "filterDimensions": [
                 "ou"
             ],
+            "filters": [],
             "fontSize": "NORMAL",
             "hideEmptyColumns": false,
             "hideEmptyRows": false,
@@ -2466,8 +4135,11 @@
             "organisationUnitGroupSetDimensions": [],
             "organisationUnitLevels": [],
             "organisationUnits": [],
+            "parentGraphMap": {},
             "percentStackedValues": false,
             "periods": [],
+            "programIndicatorDimensions": [],
+            "publicAccess": "r-------",
             "regression": false,
             "relativePeriods": {
                 "biMonthsThisYear": false,
@@ -2525,6 +4197,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "rows": [],
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -2546,9 +4219,49 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "subscribed": false,
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "MAL - Pourcentage de cas investigués et classés"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "MAL - Proporción de casos investigados y clasificados"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "MAL - Podíl vyšetřovaných a klasifikovaných případů"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "MAL - Proporción de casos investigados y clasificados"
+                }
+            ],
             "type": "PIVOT_TABLE",
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "r-------",
+                    "id": "fNt8hFGEo9d",
+                    "userGroupUid": "fNt8hFGEo9d"
+                },
+                {
+                    "access": "rw------",
+                    "id": "WyU2lGUPLBv",
+                    "userGroupUid": "WyU2lGUPLBv"
+                }
+            ],
             "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
@@ -2556,6 +4269,8 @@
         },
         {
             "aggregationType": "DEFAULT",
+            "attributeDimensions": [],
+            "attributeValues": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -2563,6 +4278,7 @@
             "columnDimensions": [
                 "dx"
             ],
+            "columns": [],
             "completedOnly": false,
             "cumulativeValues": false,
             "dataDimensionItems": [
@@ -2579,12 +4295,17 @@
                     }
                 }
             ],
+            "dataElementDimensions": [],
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
+            "displayTitle": "Proportion of cases investigated and classified",
+            "externalAccess": false,
+            "favorite": false,
             "filterDimensions": [
                 "ou"
             ],
+            "filters": [],
             "fontSize": "NORMAL",
             "hideEmptyColumns": false,
             "hideEmptyRowItems": "ALL",
@@ -2603,8 +4324,11 @@
             "organisationUnitGroupSetDimensions": [],
             "organisationUnitLevels": [],
             "organisationUnits": [],
+            "parentGraphMap": {},
             "percentStackedValues": false,
             "periods": [],
+            "programIndicatorDimensions": [],
+            "publicAccess": "r-------",
             "regression": false,
             "regressionType": "NONE",
             "relativePeriods": {
@@ -2663,6 +4387,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "rows": [],
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -2684,6 +4409,7 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "subscribed": false,
             "title": "Proportion of cases investigated and classified",
             "topLimit": 0,
             "translations": [
@@ -2691,9 +4417,42 @@
                     "locale": "fr",
                     "property": "NAME",
                     "value": "MAL - Pourcentage de cas investigués et classés"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "MAL - Proporción de casos investigados y clasificados"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "MAL - Podíl vyšetřovaných a klasifikovaných případů"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "MAL - Proporción de casos investigados y clasificados"
                 }
             ],
             "type": "LINE",
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "r-------",
+                    "id": "fNt8hFGEo9d",
+                    "userGroupUid": "fNt8hFGEo9d"
+                },
+                {
+                    "access": "rw------",
+                    "id": "WyU2lGUPLBv",
+                    "userGroupUid": "WyU2lGUPLBv"
+                }
+            ],
             "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
@@ -2701,6 +4460,8 @@
         },
         {
             "aggregationType": "DEFAULT",
+            "attributeDimensions": [],
+            "attributeValues": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -2708,6 +4469,7 @@
             "columnDimensions": [
                 "dx"
             ],
+            "columns": [],
             "completedOnly": false,
             "cumulativeValues": false,
             "dataDimensionItems": [
@@ -2724,12 +4486,17 @@
                     }
                 }
             ],
+            "dataElementDimensions": [],
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
+            "displayTitle": "Proportion of foci investigated and classified",
+            "externalAccess": false,
+            "favorite": false,
             "filterDimensions": [
                 "ou"
             ],
+            "filters": [],
             "fontSize": "NORMAL",
             "hideEmptyColumns": false,
             "hideEmptyRowItems": "ALL",
@@ -2748,8 +4515,11 @@
             "organisationUnitGroupSetDimensions": [],
             "organisationUnitLevels": [],
             "organisationUnits": [],
+            "parentGraphMap": {},
             "percentStackedValues": false,
             "periods": [],
+            "programIndicatorDimensions": [],
+            "publicAccess": "r-------",
             "regression": false,
             "regressionType": "NONE",
             "relativePeriods": {
@@ -2808,6 +4578,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "rows": [],
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -2829,6 +4600,7 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "subscribed": false,
             "title": "Proportion of foci investigated and classified",
             "topLimit": 0,
             "translations": [
@@ -2836,9 +4608,47 @@
                     "locale": "fr",
                     "property": "NAME",
                     "value": "MAL - Pourcentage de foyers investigués et classés"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "MAL - Proporción de focos investigados y clasificados"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "MAL - podíl vyšetřovaných a klasifikovaných ohnisek"
+                },
+                {
+                    "locale": "cs",
+                    "property": "title",
+                    "value": "Podíl zkoumaných a klasifikovaných ohnisek"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "MAL - Proporción de focos investigados y clasificados"
                 }
             ],
             "type": "LINE",
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "r-------",
+                    "id": "fNt8hFGEo9d",
+                    "userGroupUid": "fNt8hFGEo9d"
+                },
+                {
+                    "access": "rw------",
+                    "id": "WyU2lGUPLBv",
+                    "userGroupUid": "WyU2lGUPLBv"
+                }
+            ],
             "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
@@ -2846,6 +4656,8 @@
         },
         {
             "aggregationType": "DEFAULT",
+            "attributeDimensions": [],
+            "attributeValues": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -2853,6 +4665,7 @@
             "columnDimensions": [
                 "dx"
             ],
+            "columns": [],
             "completedOnly": false,
             "cumulativeValues": false,
             "dataDimensionItems": [
@@ -2869,12 +4682,16 @@
                     }
                 }
             ],
+            "dataElementDimensions": [],
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
+            "externalAccess": false,
+            "favorite": false,
             "filterDimensions": [
                 "ou"
             ],
+            "filters": [],
             "fontSize": "NORMAL",
             "hideEmptyColumns": false,
             "hideEmptyRows": false,
@@ -2894,8 +4711,11 @@
             "organisationUnitGroupSetDimensions": [],
             "organisationUnitLevels": [],
             "organisationUnits": [],
+            "parentGraphMap": {},
             "percentStackedValues": false,
             "periods": [],
+            "programIndicatorDimensions": [],
+            "publicAccess": "r-------",
             "regression": false,
             "relativePeriods": {
                 "biMonthsThisYear": false,
@@ -2953,6 +4773,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "rows": [],
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -2974,9 +4795,49 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "subscribed": false,
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "MAL - Pourcentage de foyers investigués et classés"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "MAL - Proporción de focos investigados y clasificados"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "MAL - podíl vyšetřovaných a klasifikovaných ohnisek"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "MAL - Proporción de focos investigados y clasificados"
+                }
+            ],
             "type": "PIVOT_TABLE",
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "r-------",
+                    "id": "fNt8hFGEo9d",
+                    "userGroupUid": "fNt8hFGEo9d"
+                },
+                {
+                    "access": "rw------",
+                    "id": "WyU2lGUPLBv",
+                    "userGroupUid": "WyU2lGUPLBv"
+                }
+            ],
             "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
@@ -2984,6 +4845,8 @@
         },
         {
             "aggregationType": "DEFAULT",
+            "attributeDimensions": [],
+            "attributeValues": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -2991,6 +4854,7 @@
             "columnDimensions": [
                 "dx"
             ],
+            "columns": [],
             "completedOnly": false,
             "cumulativeValues": false,
             "dataDimensionItems": [
@@ -3007,12 +4871,16 @@
                     }
                 }
             ],
+            "dataElementDimensions": [],
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
+            "externalAccess": false,
+            "favorite": false,
             "filterDimensions": [
                 "ou"
             ],
+            "filters": [],
             "fontSize": "NORMAL",
             "hideEmptyColumns": false,
             "hideEmptyRows": false,
@@ -3032,8 +4900,11 @@
             "organisationUnitGroupSetDimensions": [],
             "organisationUnitLevels": [],
             "organisationUnits": [],
+            "parentGraphMap": {},
             "percentStackedValues": false,
             "periods": [],
+            "programIndicatorDimensions": [],
+            "publicAccess": "r-------",
             "regression": false,
             "relativePeriods": {
                 "biMonthsThisYear": false,
@@ -3091,6 +4962,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "rows": [],
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -3112,9 +4984,44 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "subscribed": false,
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "MAL - Proporción de focos con cero casos locales"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "MAL - Proporción de focos con cero casos locales"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "MAL - Pourcentage de foyers avec zéro cas local"
+                }
+            ],
             "type": "PIVOT_TABLE",
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "r-------",
+                    "id": "fNt8hFGEo9d",
+                    "userGroupUid": "fNt8hFGEo9d"
+                },
+                {
+                    "access": "rw------",
+                    "id": "WyU2lGUPLBv",
+                    "userGroupUid": "WyU2lGUPLBv"
+                }
+            ],
             "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
@@ -3122,6 +5029,8 @@
         },
         {
             "aggregationType": "DEFAULT",
+            "attributeDimensions": [],
+            "attributeValues": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -3129,6 +5038,7 @@
             "columnDimensions": [
                 "dx"
             ],
+            "columns": [],
             "completedOnly": false,
             "cumulativeValues": false,
             "dataDimensionItems": [
@@ -3145,12 +5055,17 @@
                     }
                 }
             ],
+            "dataElementDimensions": [],
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
+            "displayTitle": "Proportion of foci with zero local cases",
+            "externalAccess": false,
+            "favorite": false,
             "filterDimensions": [
                 "ou"
             ],
+            "filters": [],
             "fontSize": "NORMAL",
             "hideEmptyColumns": false,
             "hideEmptyRowItems": "ALL",
@@ -3169,8 +5084,11 @@
             "organisationUnitGroupSetDimensions": [],
             "organisationUnitLevels": [],
             "organisationUnits": [],
+            "parentGraphMap": {},
             "percentStackedValues": false,
             "periods": [],
+            "programIndicatorDimensions": [],
+            "publicAccess": "r-------",
             "regression": false,
             "regressionType": "NONE",
             "relativePeriods": {
@@ -3229,6 +5147,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "rows": [],
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -3250,9 +5169,20 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "subscribed": false,
             "title": "Proportion of foci with zero local cases",
             "topLimit": 0,
             "translations": [
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "MAL - Proporción de focos con cero casos locales"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "MAL - Proporción de focos con cero casos locales"
+                },
                 {
                     "locale": "fr",
                     "property": "NAME",
@@ -3260,6 +5190,24 @@
                 }
             ],
             "type": "LINE",
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "r-------",
+                    "id": "fNt8hFGEo9d",
+                    "userGroupUid": "fNt8hFGEo9d"
+                },
+                {
+                    "access": "rw------",
+                    "id": "WyU2lGUPLBv",
+                    "userGroupUid": "WyU2lGUPLBv"
+                }
+            ],
             "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
@@ -3267,6 +5215,8 @@
         },
         {
             "aggregationType": "DEFAULT",
+            "attributeDimensions": [],
+            "attributeValues": [],
             "axes": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
@@ -3276,6 +5226,7 @@
             "columnDimensions": [
                 "dx"
             ],
+            "columns": [],
             "completedOnly": false,
             "cumulativeValues": false,
             "dataDimensionItems": [
@@ -3286,12 +5237,16 @@
                     }
                 }
             ],
+            "dataElementDimensions": [],
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
+            "externalAccess": false,
+            "favorite": false,
             "filterDimensions": [
                 "ou"
             ],
+            "filters": [],
             "fontSize": "NORMAL",
             "fontStyle": {},
             "hideEmptyColumns": false,
@@ -3314,8 +5269,11 @@
             "organisationUnitGroupSetDimensions": [],
             "organisationUnitLevels": [],
             "organisationUnits": [],
+            "parentGraphMap": {},
             "percentStackedValues": false,
             "periods": [],
+            "programIndicatorDimensions": [],
+            "publicAccess": "r-------",
             "regression": false,
             "regressionType": "NONE",
             "relativePeriods": {
@@ -3374,6 +5332,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "rows": [],
             "series": [],
             "sharing": {
                 "external": false,
@@ -3396,10 +5355,35 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "subscribed": false,
             "subscribers": [],
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Palu - Complétude des rapports paludisme"
+                }
+            ],
             "type": "PIVOT_TABLE",
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "r-------",
+                    "id": "fNt8hFGEo9d",
+                    "userGroupUid": "fNt8hFGEo9d"
+                },
+                {
+                    "access": "rw------",
+                    "id": "WyU2lGUPLBv",
+                    "userGroupUid": "WyU2lGUPLBv"
+                }
+            ],
             "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
