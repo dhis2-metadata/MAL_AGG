@@ -17,7 +17,7 @@ The metadata package consists of the following modules:
 - Malaria Mobile and Migrant Populations 
 - Malaria Stock 
 - Malaria Stock (dashboard)
-- 
+
 ## Installation
 
 Installation of the module consists of several steps:
