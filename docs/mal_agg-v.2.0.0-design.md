@@ -248,9 +248,9 @@ Once the data is entered in the datasets in all the required OUs, the user can a
 
 Depending on the local implementation and context, the community level of the health activities and interventions can either be set-up aside, or can be already fully integrated among the health facilities and various admin levels of the OUs.
 
-There are two options that can be used in order to analyze the data coming from the community:
-Use the same approach as outlined in the previous section and create an OU group for the communities in the hierarchy. The procedure and analysis of the data will then follow the same method as the public and private OU groups.
-Download and update the relevant metadata from the [Community Health Information System (CHIS) package](#chis-system-design), map the relevant metadata, and triangulate the information with the ones obtained from the malaria package(s).
+There are two options that can be used in order to analyze the data coming from the community:<br>
+1) Use the same approach as outlined in the previous section and create an OU group for the communities in the hierarchy. The procedure and analysis of the data will then follow the same method as the public and private OU groups. <br>
+2) Download and update the relevant metadata from the [Community Health Information System (CHIS) package](#chis-system-design), map the relevant metadata, and triangulate the information with the ones obtained from the malaria package(s).
 In particular there are two monthly datasets that can be useful for this specific purpose within the CHIS package: The [CH - Malaria](#ch-mal-aggregate-design) dataset and the [CH - Community-based Surveillance](#ch-cbs-aggregate-design) dataset. Some relevant DEs for the data triangulation of malaria information can also be obtained from the [CH - Integrated Community Case Management](#ch-iccm-aggregate-design) monthly dataset in the CHIS package.
 
 ## References
