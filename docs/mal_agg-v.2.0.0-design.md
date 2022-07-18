@@ -12,12 +12,6 @@ These data sets will in many instances have to be adjusted to fit with national 
 
 ## System Design Overview
 
-### Version update
-
-The version of the malaria package described in this design guide is an improved and more comprehensive adaptation of the package with version 1.2.1. 
-Major changes to the new version of the package involve mostly the burden reduction dataset and the dashboards. The dataset was expanded to collect and analyze more information about testing and treatment activities (particularly with a focus on differentiating P. vivax and P. falciparum infections and treatments), and new data elements to report data on pregnant women (vs old sex/age category combination). The dashboards were divided in nine enumerated dashboards focusing on specific activities of malaria programs. Moreover, both the old and the new dashboards have a number of improved and new visualizations, and guidelines on suggestions for interpretation in the form of text boxes. Minor changes are spread thorughout the package and concern mostly improved naming and descriptions.
-Please refer to the downloadable [Diff File](resources/mal_agg_diff_1.2.1_2.0.0.xlsx) in order to have an overview of the differences between the two versions.
-
 ### Package Structure
 
 The malaria program consists of 3 different data sets that can be used at any given time based on the needs of the program:
