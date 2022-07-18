@@ -11,8 +11,8 @@ The metadata reference and metadata json files provide technical details on pack
 The metadata package consists of the following modules:
 - Malaria HMIS 
 - Malaria HMIS (dashboard)
-- Malaria Burden Reduction
-- Malaria Burden Reduction (dashboard)
+- Malaria Burden Reduction and Elimination
+- Malaria Burden Reduction and Elimination (dashboard)
 - Malaria Data Quality (dashboard)
 - Malaria Mobile and Migrant Populations 
 - Malaria Stock 
