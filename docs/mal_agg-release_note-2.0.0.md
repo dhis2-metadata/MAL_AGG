@@ -7,5 +7,3 @@ The 2.0.0 version of the malaria package is an improved and more comprehensive a
 - The dashboards were divided in nine enumerated dashboards focusing on specific activities of malaria programs.
 - Both the old and the new dashboards have a number of improved and new visualizations, and guidelines on suggestions for interpretation in the form of text boxes.
 - Minor changes are spread thorughout the package and concern mostly improved naming and descriptions.
-
-A more comprehensive overview is available in the [package diff file](resources/mal_agg_diff_1.2.1_2.0.0.xlsx)
