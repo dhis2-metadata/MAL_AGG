@@ -1,4 +1,4 @@
-# Malaria HMIS - Release Note - 2.2.0 
+# Malaria HMIS - Release Note - 2.0.0 
 
 The 2.2.0 version of the malaria package is an improved and more comprehensive adaptation of the 1.2.1 version.
 
