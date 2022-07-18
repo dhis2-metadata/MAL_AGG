@@ -4099,6 +4099,17 @@
             "dataSetElements": [
                 {
                     "categoryCombo": {
+                        "id": "VkQPxB6VdoG"
+                    },
+                    "dataElement": {
+                        "id": "UwaQ0MJzXBz"
+                    },
+                    "dataSet": {
+                        "id": "e8BAh6eGcNE"
+                    }
+                },
+                {
+                    "categoryCombo": {
                         "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
@@ -4121,28 +4132,6 @@
                 },
                 {
                     "categoryCombo": {
-                        "id": "VkQPxB6VdoG"
-                    },
-                    "dataElement": {
-                        "id": "UwaQ0MJzXBz"
-                    },
-                    "dataSet": {
-                        "id": "e8BAh6eGcNE"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "VkQPxB6VdoG"
-                    },
-                    "dataElement": {
-                        "id": "CxI1FHE4oEh"
-                    },
-                    "dataSet": {
-                        "id": "e8BAh6eGcNE"
-                    }
-                },
-                {
-                    "categoryCombo": {
                         "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
@@ -4158,6 +4147,17 @@
                     },
                     "dataElement": {
                         "id": "kdMT3AuDzj1"
+                    },
+                    "dataSet": {
+                        "id": "e8BAh6eGcNE"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "VkQPxB6VdoG"
+                    },
+                    "dataElement": {
+                        "id": "CxI1FHE4oEh"
                     },
                     "dataSet": {
                         "id": "e8BAh6eGcNE"
