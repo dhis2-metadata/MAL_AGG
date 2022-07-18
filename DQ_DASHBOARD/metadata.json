@@ -588,13 +588,13 @@
                     "id": "yeQBWgHr3Wf"
                 },
                 {
-                    "id": "KThZ4t55Q0A"
-                },
-                {
                     "id": "OS3CLHlk3HS"
                 },
                 {
                     "id": "ZlpqQCFLo2i"
+                },
+                {
+                    "id": "KThZ4t55Q0A"
                 },
                 {
                     "id": "B0HiDb6gBa1"
@@ -3287,7 +3287,7 @@
         "DHIS2Version": "2.36.11.1",
         "code": "MAL_AGG_DQ",
         "description": "Malaria Data Quality (dashboard)",
-        "lastUpdated": "20220705T100847",
+        "lastUpdated": "20220718T121424",
         "locale": "en",
         "name": "MAL_AGG_DQ_DSH_DHIS2.36.11.1-en",
         "type": "DSH",
