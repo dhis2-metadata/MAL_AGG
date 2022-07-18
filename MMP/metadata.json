@@ -2032,9 +2032,6 @@
                     "id": "vlUlPv9RUAs"
                 },
                 {
-                    "id": "bWFxj7MF1qR"
-                },
-                {
                     "id": "b6QLRPACegE"
                 },
                 {
@@ -2069,6 +2066,9 @@
                 },
                 {
                     "id": "F9pPSHdgzwj"
+                },
+                {
+                    "id": "bWFxj7MF1qR"
                 },
                 {
                     "id": "fP0kAy95WOI"
@@ -2215,9 +2215,6 @@
                     "id": "BU50ZMiGRCL"
                 },
                 {
-                    "id": "t5FrQ0GTvGf"
-                },
-                {
                     "id": "dvlv8phhokx"
                 },
                 {
@@ -2320,6 +2317,9 @@
                     "id": "UezrwlwKQ8r"
                 },
                 {
+                    "id": "kQBGXKMwoqR"
+                },
+                {
                     "id": "vszxYqG88e4"
                 },
                 {
@@ -2341,9 +2341,6 @@
                     "id": "cRX5XsDF7pU"
                 },
                 {
-                    "id": "kQBGXKMwoqR"
-                },
-                {
                     "id": "iDQwY0C5NJ7"
                 },
                 {
@@ -2357,6 +2354,9 @@
                 },
                 {
                     "id": "X7SGUlfmJa5"
+                },
+                {
+                    "id": "t5FrQ0GTvGf"
                 },
                 {
                     "id": "Ome7OFC7t6j"
@@ -2787,13 +2787,13 @@
                     "id": "w7NYLKLaWuB"
                 },
                 {
-                    "id": "AroSt3y4ir0"
-                },
-                {
                     "id": "ox4ZRileubR"
                 },
                 {
                     "id": "qYSg0OMIsOS"
+                },
+                {
+                    "id": "AroSt3y4ir0"
                 },
                 {
                     "id": "ZPJsUdGlqp0"
@@ -2901,6 +2901,9 @@
                     "id": "i2ZxgolQtwL"
                 },
                 {
+                    "id": "j21YQgQ9GzP"
+                },
+                {
                     "id": "j6dSWJ3QikR"
                 },
                 {
@@ -2911,9 +2914,6 @@
                 },
                 {
                     "id": "vJ6enc1w0lu"
-                },
-                {
-                    "id": "j21YQgQ9GzP"
                 },
                 {
                     "id": "sx3u16x80nV"
@@ -3189,13 +3189,13 @@
                     "id": "h36QRTxHjMG"
                 },
                 {
+                    "id": "b449dBrOSFK"
+                },
+                {
                     "id": "uSC1ybGUEIW"
                 },
                 {
                     "id": "yGOZKtVYLGz"
-                },
-                {
-                    "id": "b449dBrOSFK"
                 }
             ],
             "categoryOptionGroups": [
@@ -4099,10 +4099,10 @@
             "dataSetElements": [
                 {
                     "categoryCombo": {
-                        "id": "VkQPxB6VdoG"
+                        "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
-                        "id": "CxI1FHE4oEh"
+                        "id": "CWHBMa4nC9J"
                     },
                     "dataSet": {
                         "id": "e8BAh6eGcNE"
@@ -4132,10 +4132,10 @@
                 },
                 {
                     "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
+                        "id": "VkQPxB6VdoG"
                     },
                     "dataElement": {
-                        "id": "CWHBMa4nC9J"
+                        "id": "CxI1FHE4oEh"
                     },
                     "dataSet": {
                         "id": "e8BAh6eGcNE"
@@ -4290,8 +4290,8 @@
         "DHIS2Build": "11b58fe",
         "DHIS2Version": "2.36.11.1",
         "code": "MAL_AGG_MMP",
-        "description": "Malaria Mobile and Migrant Populations",
-        "lastUpdated": "20220630T184253",
+        "description": "Malaria Mobile and Migrant Populations ",
+        "lastUpdated": "20220718T125930",
         "locale": "en",
         "name": "MAL_AGG_MMP_AGG_DHIS2.36.11.1-en",
         "type": "AGG",
