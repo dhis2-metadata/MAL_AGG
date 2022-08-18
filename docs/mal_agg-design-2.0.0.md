@@ -236,7 +236,12 @@ Once the OUs are arranged by OU groups, the Public and Private groups can be fur
 
 ![OU Group Set for Public and private OU groups](resources/images/MAL_SDG_002.png)
 
-Once the data is entered in the datasets in all the required OUs, the user can analyze the data in the system by health sector. Depending on the final purpose of this specific analysis, the data can be visualized using the wide range of DHIS2 core analytics, though it could be recommended to analyze these in one or more maps filtered by the different ownership OU groups.
+Once the data is entered in the datasets in all the required OUs, the user can analyze the data in the system by health sector. Depending on the final purpose of this specific analysis, the data can be visualized using the wide range of DHIS2 core analytics. 
+The examples below show some of the visualizations that can be obtained when analyzing the malaria data by "Ownership".
+
+![Malaria cases by health sector](resources/images/MAL_SDG_078.png)
+
+![Map showing the public facilities (on the left) and private facilities (on the right) reporting malaria cases](resources/images/MAL_SDG_081.png)
 
 ### Malaria cases detected in the community
 
