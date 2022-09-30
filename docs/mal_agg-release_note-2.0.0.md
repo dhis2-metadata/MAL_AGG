@@ -1,5 +1,7 @@
 # Release Note
 
+## Version 2.0.0
+
 The 2.0.0 version of the malaria package is an improved and more comprehensive adaptation of the 1.2.1 version.
 
 - The Burden Reduction dataset was expanded to collect and analyze more information about testing and treatment activities (particularly with a focus on differentiating P. vivax and P. falciparum infections and treatments)
