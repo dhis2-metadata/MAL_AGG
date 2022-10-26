@@ -1,6 +1,6 @@
 # Release Note
 
-## Version 2.0.0
+## 2.0.0
 
 The 2.0.0 version of the malaria package is an improved and more comprehensive adaptation of the 1.2.1 version.
 
