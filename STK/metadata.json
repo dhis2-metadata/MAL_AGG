@@ -5,7 +5,7 @@
             "attributeValues": [],
             "categoryCombos": [
                 {
-                    "id": "BwnnrV1AkNj"
+                    "id": "IvYR8mc6prX"
                 }
             ],
             "categoryOptions": [
@@ -370,7 +370,7 @@
                     "id": "VkQPxB6VdoG"
                 },
                 {
-                    "id": "n2G1i8DJwWF"
+                    "id": "TH4cOPRrmb3"
                 }
             ],
             "categoryOptions": [
@@ -591,13 +591,7 @@
             ],
             "categoryOptionCombos": [
                 {
-                    "id": "bWFxj7MF1qR"
-                },
-                {
                     "id": "AroSt3y4ir0"
-                },
-                {
-                    "id": "j21YQgQ9GzP"
                 },
                 {
                     "id": "kQBGXKMwoqR"
@@ -606,7 +600,13 @@
                     "id": "b449dBrOSFK"
                 },
                 {
+                    "id": "bWFxj7MF1qR"
+                },
+                {
                     "id": "t5FrQ0GTvGf"
+                },
+                {
+                    "id": "j21YQgQ9GzP"
                 }
             ],
             "code": "MAL_AGE_AND_SEX",
@@ -694,13 +694,13 @@
             ],
             "categoryOptionCombos": [
                 {
+                    "id": "rtfSaMjPyq6"
+                },
+                {
                     "id": "hF0pQZIn6Ch"
                 },
                 {
                     "id": "oPcWGgS2Liz"
-                },
-                {
-                    "id": "rtfSaMjPyq6"
                 }
             ],
             "code": "MAL_AGE",
@@ -1498,89 +1498,19 @@
             "id": "rtfSaMjPyq6",
             "ignoreApproval": false,
             "legendSets": [],
-            "name": "5-14 years",
+            "name": "5 -14 years",
             "periodOffset": 0,
             "sharing": {
                 "external": false,
                 "userGroups": {},
                 "users": {}
             },
-            "shortName": "5-14 years",
+            "shortName": "5 -14 years",
             "translations": [
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "5-14 let"
-                },
-                {
-                    "locale": "ar",
-                    "property": "NAME",
-                    "value": "5-14 سنوات"
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "5-14 años"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "NAME",
-                    "value": "5-14 años"
-                },
-                {
-                    "locale": "id",
-                    "property": "NAME",
-                    "value": "5-14 Tahun"
-                },
-                {
-                    "locale": "nb",
-                    "property": "NAME",
-                    "value": "5-14 år"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "5-14 سنوات"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "5-14 anos"
-                },
-                {
-                    "locale": "uz",
-                    "property": "NAME",
-                    "value": "5-14 ёш"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "5-14 سنوات"
-                },
-                {
-                    "locale": "ru",
-                    "property": "NAME",
-                    "value": "5-14 лет"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NAME",
-                    "value": "5-14 سنوات"
-                },
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "5-14 ans"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "5-14 ёш"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "5-14 anos"
+                    "value": "5 -14 ans"
                 }
             ],
             "userAccesses": [],
@@ -1606,89 +1536,19 @@
             "id": "bWFxj7MF1qR",
             "ignoreApproval": false,
             "legendSets": [],
-            "name": "5-14 years, Female",
+            "name": "5 -14 years, Female",
             "periodOffset": 0,
             "sharing": {
                 "external": false,
                 "userGroups": {},
                 "users": {}
             },
-            "shortName": "5-14 years, Female",
+            "shortName": "5 -14 years, Female",
             "translations": [
-                {
-                    "locale": "nb",
-                    "property": "NAME",
-                    "value": "5-14 år, kvinne"
-                },
-                {
-                    "locale": "uz",
-                    "property": "NAME",
-                    "value": "5-14 ёш, Аёл"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "5-14 ёш, Аёл"
-                },
-                {
-                    "locale": "id",
-                    "property": "NAME",
-                    "value": "5-14 Tahun, Perempuan"
-                },
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "5-14 ans, Féminin"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NAME",
-                    "value": "5-14 سنوات، إناث"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "5-14 سنوات، إناث"
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "5-14 años, Femenino"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "5-14 anos, Feminino"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "5-14 let, žena"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "5-14 سنوات، إناث"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "NAME",
-                    "value": "5-14 años, Femenino"
-                },
-                {
-                    "locale": "ru",
-                    "property": "NAME",
-                    "value": "5-14 лет, жен."
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "5-14 anos, Feminino"
-                },
-                {
-                    "locale": "ar",
-                    "property": "NAME",
-                    "value": "5-14 سنوات، إناث"
+                    "value": "5 -14 ans, féminin"
                 }
             ],
             "userAccesses": [],
@@ -1714,89 +1574,19 @@
             "id": "j21YQgQ9GzP",
             "ignoreApproval": false,
             "legendSets": [],
-            "name": "5-14 years, Male",
+            "name": "5 -14 years, Male",
             "periodOffset": 0,
             "sharing": {
                 "external": false,
                 "userGroups": {},
                 "users": {}
             },
-            "shortName": "5-14 years, Male",
+            "shortName": "5 -14 years, Male",
             "translations": [
-                {
-                    "locale": "ar_EG",
-                    "property": "NAME",
-                    "value": "5-14 سنوات، ذكور"
-                },
-                {
-                    "locale": "id",
-                    "property": "NAME",
-                    "value": "5-14 Tahun, Laki-laki"
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "5-14 años, Masculino"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "5-14 سنوات، ذكور"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "5-14 let, Muž"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "NAME",
-                    "value": "5-14 años, Masculino"
-                },
-                {
-                    "locale": "ru",
-                    "property": "NAME",
-                    "value": "5-14 лет, муж."
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "5-14 ёш, Эркак"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "5-14 anos, Masculino"
-                },
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "5-14 ans, Masculin"
-                },
-                {
-                    "locale": "nb",
-                    "property": "NAME",
-                    "value": "5-14 år, mann"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "5-14 سنوات، ذكور"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "5-14 anos, Masculino"
-                },
-                {
-                    "locale": "uz",
-                    "property": "NAME",
-                    "value": "5-14 ёш, Эркак"
-                },
-                {
-                    "locale": "ar",
-                    "property": "NAME",
-                    "value": "5-14 سنوات، ذكور"
+                    "value": "5 -14 ans, Masculin"
                 }
             ],
             "userAccesses": [],
@@ -3350,16 +3140,16 @@
             "attributeValues": [],
             "categoryOptions": [
                 {
-                    "id": "wTpH7wugXzZ"
+                    "id": "UPvKbcqTEY3"
                 },
                 {
-                    "id": "MP15bHaQh2x"
+                    "id": "wTpH7wugXzZ"
                 },
                 {
                     "id": "pa0cY66MrG6"
                 },
                 {
-                    "id": "UPvKbcqTEY3"
+                    "id": "MP15bHaQh2x"
                 },
                 {
                     "id": "FFA9e1yIXCT"
@@ -3968,10 +3758,10 @@
             "attributeValues": [],
             "categories": [
                 {
-                    "id": "mFoasCYViMW"
+                    "id": "ukxtyAtpvay"
                 },
                 {
-                    "id": "ukxtyAtpvay"
+                    "id": "mFoasCYViMW"
                 },
                 {
                     "id": "FoUE8OoKd3a"
@@ -4196,6 +3986,9 @@
                     "id": "prZlmHqhxLO"
                 },
                 {
+                    "id": "l6YLKiZitLu"
+                },
+                {
                     "id": "mFoasCYViMW"
                 },
                 {
@@ -4207,34 +4000,37 @@
             ],
             "categoryOptionCombos": [
                 {
-                    "id": "bWFxj7MF1qR"
-                },
-                {
-                    "id": "yrPacW5BotF"
-                },
-                {
-                    "id": "bMkvQ4PSTz3"
-                },
-                {
-                    "id": "rtfSaMjPyq6"
-                },
-                {
-                    "id": "rDzmnH2ECiL"
-                },
-                {
                     "id": "aIDylQ6ka3n"
-                },
-                {
-                    "id": "xevNodrE0jP"
                 },
                 {
                     "id": "PEaQ7efLnLb"
                 },
                 {
-                    "id": "j21YQgQ9GzP"
+                    "id": "rtfSaMjPyq6"
+                },
+                {
+                    "id": "bMkvQ4PSTz3"
+                },
+                {
+                    "id": "bWFxj7MF1qR"
+                },
+                {
+                    "id": "fpdy6Aat7eO"
+                },
+                {
+                    "id": "rDzmnH2ECiL"
+                },
+                {
+                    "id": "yrPacW5BotF"
                 },
                 {
                     "id": "YEgJBndPbIM"
+                },
+                {
+                    "id": "xevNodrE0jP"
+                },
+                {
+                    "id": "j21YQgQ9GzP"
                 }
             ],
             "categoryOptionGroups": [
@@ -4256,7 +4052,7 @@
             "id": "pa0cY66MrG6",
             "isDefault": false,
             "legendSets": [],
-            "name": "5-14 years",
+            "name": "5 -14 years",
             "organisationUnits": [],
             "periodOffset": 0,
             "publicAccess": "rw------",
@@ -4275,16 +4071,6 @@
                     "value": "5-14 سنة"
                 },
                 {
-                    "locale": "ar",
-                    "property": "NAME",
-                    "value": "5-14 سنوات"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "NAME",
-                    "value": "5-14 años"
-                },
-                {
                     "locale": "ar_EG",
                     "property": "SHORT_NAME",
                     "value": "5-14 سنة"
@@ -4300,8 +4086,13 @@
                     "value": "5-14 ёш"
                 },
                 {
-                    "locale": "nb",
+                    "locale": "fr",
                     "property": "NAME",
+                    "value": "5 -14 ans"
+                },
+                {
+                    "locale": "nb",
+                    "property": "SHORT_NAME",
                     "value": "5-14 år"
                 },
                 {
@@ -4313,6 +4104,16 @@
                     "locale": "es_US",
                     "property": "SHORT_NAME",
                     "value": "5-14 a"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "5-14 a"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "5-14 سنة"
                 },
                 {
                     "locale": "id",
@@ -4320,44 +4121,14 @@
                     "value": "5-14 Thn"
                 },
                 {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "5-14 سنوات"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "5-14 anos"
-                },
-                {
                     "locale": "ru",
                     "property": "SHORT_NAME",
                     "value": "5-14 лет"
                 },
                 {
-                    "locale": "uz",
-                    "property": "NAME",
-                    "value": "5-14 ёш"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "5-14 سنوات"
-                },
-                {
                     "locale": "cs",
                     "property": "SHORT_NAME",
                     "value": "5-14 let"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NAME",
-                    "value": "5-14 سنوات"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "5-14 anos"
                 },
                 {
                     "locale": "ar_SD",
@@ -4368,51 +4139,6 @@
                     "locale": "pt_BR",
                     "property": "SHORT_NAME",
                     "value": "5-14 a"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "5-14 let"
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "5-14 años"
-                },
-                {
-                    "locale": "id",
-                    "property": "NAME",
-                    "value": "5-14 Tahun"
-                },
-                {
-                    "locale": "nb",
-                    "property": "SHORT_NAME",
-                    "value": "5-14 år"
-                },
-                {
-                    "locale": "es",
-                    "property": "SHORT_NAME",
-                    "value": "5-14 a"
-                },
-                {
-                    "locale": "ar",
-                    "property": "SHORT_NAME",
-                    "value": "5-14 سنة"
-                },
-                {
-                    "locale": "ru",
-                    "property": "NAME",
-                    "value": "5-14 лет"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "5-14 ans"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "5-14 ёш"
                 },
                 {
                     "locale": "fr",
@@ -4645,13 +4371,13 @@
                     "id": "TIn0jG2EVnA"
                 },
                 {
+                    "id": "PWh3RWTZSRH"
+                },
+                {
                     "id": "gPWH4piZwC0"
                 },
                 {
                     "id": "G5DTdXwMaia"
-                },
-                {
-                    "id": "PWh3RWTZSRH"
                 },
                 {
                     "id": "r0MSIEuQfwF"
@@ -4672,13 +4398,13 @@
                     "id": "ItWExu07Ee4"
                 },
                 {
+                    "id": "bWFxj7MF1qR"
+                },
+                {
                     "id": "UsfG8ndZHxV"
                 },
                 {
                     "id": "GiRwR3FD86i"
-                },
-                {
-                    "id": "aIDylQ6ka3n"
                 },
                 {
                     "id": "qwn0KjcDNEL"
@@ -4798,6 +4524,9 @@
                     "id": "OtVDUfis1UB"
                 },
                 {
+                    "id": "aIDylQ6ka3n"
+                },
+                {
                     "id": "vlUlPv9RUAs"
                 },
                 {
@@ -4837,9 +4566,6 @@
                     "id": "F9pPSHdgzwj"
                 },
                 {
-                    "id": "bWFxj7MF1qR"
-                },
-                {
                     "id": "fP0kAy95WOI"
                 },
                 {
@@ -4850,9 +4576,6 @@
                 },
                 {
                     "id": "MQPOGL8Mmeq"
-                },
-                {
-                    "id": "rDzmnH2ECiL"
                 },
                 {
                     "id": "rRj4IINDJym"
@@ -4870,19 +4593,19 @@
                     "id": "LKgmRuovjop"
                 },
                 {
-                    "id": "KkvWAfJXVre"
+                    "id": "WZOowfzMVQ7"
                 },
                 {
-                    "id": "WZOowfzMVQ7"
+                    "id": "KkvWAfJXVre"
                 },
                 {
                     "id": "ABD5MnnbaL6"
                 },
                 {
-                    "id": "xwhhHGdlASq"
+                    "id": "bhS8lXg8ssx"
                 },
                 {
-                    "id": "bhS8lXg8ssx"
+                    "id": "xwhhHGdlASq"
                 },
                 {
                     "id": "lSdgPONlgBo"
@@ -4906,13 +4629,10 @@
                     "id": "om4a6v4NjIR"
                 },
                 {
-                    "id": "ZpvqjZ9iDSn"
-                },
-                {
                     "id": "dkzJLwlGp7s"
                 },
                 {
-                    "id": "PEaQ7efLnLb"
+                    "id": "ZpvqjZ9iDSn"
                 },
                 {
                     "id": "xOXudYm03M6"
@@ -4945,10 +4665,10 @@
                     "id": "sFJsKLHLBFj"
                 },
                 {
-                    "id": "NSCL13k9qpQ"
+                    "id": "qINWpSyiduh"
                 },
                 {
-                    "id": "qINWpSyiduh"
+                    "id": "NSCL13k9qpQ"
                 },
                 {
                     "id": "qosgezgFgG0"
@@ -4963,10 +4683,10 @@
                     "id": "xUdHhdg2qKE"
                 },
                 {
-                    "id": "chjRVdKJqq7"
+                    "id": "XBA2FwYbPZ1"
                 },
                 {
-                    "id": "XBA2FwYbPZ1"
+                    "id": "chjRVdKJqq7"
                 },
                 {
                     "id": "Gl4z25YlDxZ"
@@ -5008,10 +4728,16 @@
                     "id": "QrWbLOiGNz0"
                 },
                 {
+                    "id": "PEaQ7efLnLb"
+                },
+                {
                     "id": "AIi5seClKYD"
                 },
                 {
                     "id": "EmXw9M7N35N"
+                },
+                {
+                    "id": "rDzmnH2ECiL"
                 },
                 {
                     "id": "Lic97hqxsNP"
@@ -5140,10 +4866,10 @@
                     "id": "KX4bVY2tJHh"
                 },
                 {
-                    "id": "IRk7FGPwIXD"
+                    "id": "zRMd2oGYtuG"
                 },
                 {
-                    "id": "zRMd2oGYtuG"
+                    "id": "IRk7FGPwIXD"
                 },
                 {
                     "id": "GAOdRubDZb0"
@@ -5164,10 +4890,10 @@
                     "id": "zjahAH6Kcd8"
                 },
                 {
-                    "id": "FWxLSWmBfd0"
+                    "id": "hTTSLrG15qa"
                 },
                 {
-                    "id": "hTTSLrG15qa"
+                    "id": "FWxLSWmBfd0"
                 },
                 {
                     "id": "R3JoapCwkz4"
@@ -5182,10 +4908,10 @@
                     "id": "fQ59eeXTE19"
                 },
                 {
-                    "id": "doV3TW4iOxr"
+                    "id": "hrPYhzRokAX"
                 },
                 {
-                    "id": "hrPYhzRokAX"
+                    "id": "doV3TW4iOxr"
                 },
                 {
                     "id": "vyiCoNQzpLw"
@@ -5403,10 +5129,10 @@
             ],
             "categoryOptionCombos": [
                 {
-                    "id": "Fc8NhmtCEn2"
+                    "id": "Kk4BzXqHkss"
                 },
                 {
-                    "id": "Kk4BzXqHkss"
+                    "id": "Fc8NhmtCEn2"
                 },
                 {
                     "id": "gUs5cSl65rZ"
@@ -5415,13 +5141,13 @@
                     "id": "JtGMAcD0Btm"
                 },
                 {
+                    "id": "WrTcXFoa5TX"
+                },
+                {
                     "id": "dpc9zLMZLoO"
                 },
                 {
                     "id": "km6QxpA8Gew"
-                },
-                {
-                    "id": "WrTcXFoa5TX"
                 },
                 {
                     "id": "P152KoONKQp"
@@ -5431,6 +5157,9 @@
                 },
                 {
                     "id": "lIqSozdCr27"
+                },
+                {
+                    "id": "yrPacW5BotF"
                 },
                 {
                     "id": "OnHaA5Ff7sd"
@@ -5502,10 +5231,10 @@
                     "id": "KQghaefFRXy"
                 },
                 {
-                    "id": "Bm6HPRKSRA4"
+                    "id": "A3IN56PRGLF"
                 },
                 {
-                    "id": "A3IN56PRGLF"
+                    "id": "Bm6HPRKSRA4"
                 },
                 {
                     "id": "UY2pKMUhHJC"
@@ -5556,10 +5285,10 @@
                     "id": "w7NYLKLaWuB"
                 },
                 {
-                    "id": "qYSg0OMIsOS"
+                    "id": "ox4ZRileubR"
                 },
                 {
-                    "id": "ox4ZRileubR"
+                    "id": "qYSg0OMIsOS"
                 },
                 {
                     "id": "AroSt3y4ir0"
@@ -5568,10 +5297,13 @@
                     "id": "ZPJsUdGlqp0"
                 },
                 {
-                    "id": "rN5oMG7RVrR"
+                    "id": "YEgJBndPbIM"
                 },
                 {
                     "id": "JPko43UMgN4"
+                },
+                {
+                    "id": "rN5oMG7RVrR"
                 },
                 {
                     "id": "FSxtGeGY12j"
@@ -5583,10 +5315,10 @@
                     "id": "BwXehES3as4"
                 },
                 {
-                    "id": "gr116O1OJMR"
+                    "id": "vblxXtbDltI"
                 },
                 {
-                    "id": "vblxXtbDltI"
+                    "id": "gr116O1OJMR"
                 },
                 {
                     "id": "BkWkUaiTxpG"
@@ -5670,9 +5402,6 @@
                     "id": "i2ZxgolQtwL"
                 },
                 {
-                    "id": "j21YQgQ9GzP"
-                },
-                {
                     "id": "j6dSWJ3QikR"
                 },
                 {
@@ -5680,6 +5409,9 @@
                 },
                 {
                     "id": "F9mySvLgUiB"
+                },
+                {
+                    "id": "bMkvQ4PSTz3"
                 },
                 {
                     "id": "vJ6enc1w0lu"
@@ -5727,6 +5459,9 @@
                     "id": "VLskkRRCPef"
                 },
                 {
+                    "id": "j21YQgQ9GzP"
+                },
+                {
                     "id": "bnlJeV2gepK"
                 },
                 {
@@ -5772,16 +5507,10 @@
                     "id": "iZsmTBBoaQJ"
                 },
                 {
-                    "id": "yrPacW5BotF"
-                },
-                {
                     "id": "k0o1m2V1tFI"
                 },
                 {
                     "id": "Y77o2D3VwQR"
-                },
-                {
-                    "id": "bMkvQ4PSTz3"
                 },
                 {
                     "id": "jEIJae2BtTG"
@@ -5799,9 +5528,6 @@
                     "id": "S2oEOoLxitZ"
                 },
                 {
-                    "id": "YEgJBndPbIM"
-                },
-                {
                     "id": "S600AfMQbKQ"
                 },
                 {
@@ -5817,10 +5543,10 @@
                     "id": "QwFzPJDIL4s"
                 },
                 {
-                    "id": "HC99MmWb4FY"
+                    "id": "WxYtSjitrsK"
                 },
                 {
-                    "id": "WxYtSjitrsK"
+                    "id": "HC99MmWb4FY"
                 },
                 {
                     "id": "BAJrVjxh8K9"
@@ -5832,10 +5558,10 @@
                     "id": "DSn8HCZ3nqB"
                 },
                 {
-                    "id": "zviFqMz7XAf"
+                    "id": "UdKHt4kcT0M"
                 },
                 {
-                    "id": "UdKHt4kcT0M"
+                    "id": "zviFqMz7XAf"
                 },
                 {
                     "id": "pbEHv92gnci"
@@ -5910,10 +5636,10 @@
                     "id": "d1XzGx028Z8"
                 },
                 {
-                    "id": "rvc2EzhNwTy"
+                    "id": "DldnIb3tYwA"
                 },
                 {
-                    "id": "DldnIb3tYwA"
+                    "id": "rvc2EzhNwTy"
                 },
                 {
                     "id": "YSO87QL7UuD"
@@ -7641,7 +7367,7 @@
                         "id": "THsfR427giB"
                     },
                     "dataSet": {
-                        "id": "zYgocFMVrxk"
+                        "id": "PRiItBuYx0e"
                     }
                 },
                 {
@@ -7649,7 +7375,7 @@
                         "id": "THsfR427giB"
                     },
                     "dataSet": {
-                        "id": "PRiItBuYx0e"
+                        "id": "zYgocFMVrxk"
                     }
                 }
             ],
@@ -7854,7 +7580,7 @@
                         "id": "CBKXL15dSwQ"
                     },
                     "dataSet": {
-                        "id": "PRiItBuYx0e"
+                        "id": "zYgocFMVrxk"
                     }
                 },
                 {
@@ -7862,7 +7588,7 @@
                         "id": "CBKXL15dSwQ"
                     },
                     "dataSet": {
-                        "id": "zYgocFMVrxk"
+                        "id": "PRiItBuYx0e"
                     }
                 }
             ],
@@ -7972,7 +7698,7 @@
                         "id": "ZnifKT2U88N"
                     },
                     "dataSet": {
-                        "id": "zYgocFMVrxk"
+                        "id": "PRiItBuYx0e"
                     }
                 },
                 {
@@ -7980,7 +7706,7 @@
                         "id": "ZnifKT2U88N"
                     },
                     "dataSet": {
-                        "id": "PRiItBuYx0e"
+                        "id": "zYgocFMVrxk"
                     }
                 }
             ],
@@ -8038,15 +7764,7 @@
                         "id": "l7gcisIvTBN"
                     },
                     "dataSet": {
-                        "id": "VEM58nY22sO"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "l7gcisIvTBN"
-                    },
-                    "dataSet": {
-                        "id": "tQc4Gv2Jwco"
+                        "id": "O34y2Kyxx6P"
                     }
                 },
                 {
@@ -8065,7 +7783,15 @@
                         "id": "l7gcisIvTBN"
                     },
                     "dataSet": {
-                        "id": "O34y2Kyxx6P"
+                        "id": "VEM58nY22sO"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "l7gcisIvTBN"
+                    },
+                    "dataSet": {
+                        "id": "tQc4Gv2Jwco"
                     }
                 }
             ],
@@ -8120,7 +7846,7 @@
                         "id": "mTR90t8ea5x"
                     },
                     "dataSet": {
-                        "id": "zYgocFMVrxk"
+                        "id": "PRiItBuYx0e"
                     }
                 },
                 {
@@ -8128,7 +7854,7 @@
                         "id": "mTR90t8ea5x"
                     },
                     "dataSet": {
-                        "id": "PRiItBuYx0e"
+                        "id": "zYgocFMVrxk"
                     }
                 }
             ],
@@ -8183,7 +7909,7 @@
                         "id": "pNalmL0t0uk"
                     },
                     "dataSet": {
-                        "id": "PRiItBuYx0e"
+                        "id": "zYgocFMVrxk"
                     }
                 },
                 {
@@ -8191,7 +7917,7 @@
                         "id": "pNalmL0t0uk"
                     },
                     "dataSet": {
-                        "id": "zYgocFMVrxk"
+                        "id": "PRiItBuYx0e"
                     }
                 }
             ],
@@ -9901,7 +9627,7 @@
                         "id": "pmRn0GsUfr6"
                     },
                     "dataSet": {
-                        "id": "VEM58nY22sO"
+                        "id": "O34y2Kyxx6P"
                     }
                 },
                 {
@@ -9912,7 +9638,7 @@
                         "id": "pmRn0GsUfr6"
                     },
                     "dataSet": {
-                        "id": "O34y2Kyxx6P"
+                        "id": "VEM58nY22sO"
                     }
                 }
             ],
@@ -10433,7 +10159,7 @@
                         "id": "To2fZcY5oUS"
                     },
                     "dataSet": {
-                        "id": "zYgocFMVrxk"
+                        "id": "PRiItBuYx0e"
                     }
                 },
                 {
@@ -10441,7 +10167,7 @@
                         "id": "To2fZcY5oUS"
                     },
                     "dataSet": {
-                        "id": "PRiItBuYx0e"
+                        "id": "zYgocFMVrxk"
                     }
                 }
             ],
@@ -10835,7 +10561,7 @@
                         "id": "ImjPjbE2rFm"
                     },
                     "dataSet": {
-                        "id": "PRiItBuYx0e"
+                        "id": "zYgocFMVrxk"
                     }
                 },
                 {
@@ -10843,7 +10569,7 @@
                         "id": "ImjPjbE2rFm"
                     },
                     "dataSet": {
-                        "id": "zYgocFMVrxk"
+                        "id": "PRiItBuYx0e"
                     }
                 }
             ],
@@ -11711,87 +11437,7 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "pNalmL0t0uk"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "CsJm4IsvXqg"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "twoxyChxlC3"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "SldWQ0uCFA2"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "mTR90t8ea5x"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "B3ItBcjVieC"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "To2fZcY5oUS"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "zM1vd2VeCss"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "CBKXL15dSwQ"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "RJkNUMqVTRC"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "xysDfJ6oPMh"
+                        "id": "ImjPjbE2rFm"
                     },
                     "dataSet": {
                         "id": "PRiItBuYx0e"
@@ -11807,87 +11453,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "C3vtx1aie2U"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "N6uAJQjkRQl"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "HOEMlLX5SMC"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "o3fW3Hgo9GO"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "KQvuAWwOPnE"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "NFMzN9Up5zQ"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "f7z0IhHVWBT"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "jynElcE3gF0"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "F7BWpIVSEpM"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "uFwkuqBgI29"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "CPBuuIiDnn8"
+                        "id": "F7L5jVrWnHi"
                     },
                     "dataSet": {
                         "id": "PRiItBuYx0e"
@@ -11903,6 +11469,62 @@
                 },
                 {
                     "dataElement": {
+                        "id": "DEasiq2eO60"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "CPBuuIiDnn8"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "KQvuAWwOPnE"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "ZnifKT2U88N"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "VTunnWZqQCj"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "CBKXL15dSwQ"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "NFMzN9Up5zQ"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
                         "id": "RRA1O37nLn0"
                     },
                     "dataSet": {
@@ -11911,7 +11533,31 @@
                 },
                 {
                     "dataElement": {
-                        "id": "F7L5jVrWnHi"
+                        "id": "o3fW3Hgo9GO"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "twoxyChxlC3"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "jynElcE3gF0"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "ZRUpLZ2HVEH"
                     },
                     "dataSet": {
                         "id": "PRiItBuYx0e"
@@ -11935,7 +11581,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "OpiuZiAzEwQ"
+                        "id": "B3ItBcjVieC"
                     },
                     "dataSet": {
                         "id": "PRiItBuYx0e"
@@ -11943,7 +11589,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "oIi0Ybn06e2"
+                        "id": "GDBHGyXJI2T"
                     },
                     "dataSet": {
                         "id": "PRiItBuYx0e"
@@ -11951,7 +11597,23 @@
                 },
                 {
                     "dataElement": {
-                        "id": "VTunnWZqQCj"
+                        "id": "uFwkuqBgI29"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "xysDfJ6oPMh"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "HOEMlLX5SMC"
                     },
                     "dataSet": {
                         "id": "PRiItBuYx0e"
@@ -11967,7 +11629,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "Qv9b5QAOO0F"
+                        "id": "RJkNUMqVTRC"
                     },
                     "dataSet": {
                         "id": "PRiItBuYx0e"
@@ -11975,47 +11637,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "U4kmpM14xhJ"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "DEasiq2eO60"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "ZRUpLZ2HVEH"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "ImjPjbE2rFm"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "iaQuylCoH3u"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "GIhoITcc0jp"
+                        "id": "SldWQ0uCFA2"
                     },
                     "dataSet": {
                         "id": "PRiItBuYx0e"
@@ -12031,7 +11653,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "ZnifKT2U88N"
+                        "id": "Qv9b5QAOO0F"
                     },
                     "dataSet": {
                         "id": "PRiItBuYx0e"
@@ -12039,7 +11661,111 @@
                 },
                 {
                     "dataElement": {
-                        "id": "GDBHGyXJI2T"
+                        "id": "iaQuylCoH3u"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "N6uAJQjkRQl"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "GIhoITcc0jp"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "pNalmL0t0uk"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "oIi0Ybn06e2"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "C3vtx1aie2U"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "zM1vd2VeCss"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "U4kmpM14xhJ"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "OpiuZiAzEwQ"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "f7z0IhHVWBT"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "CsJm4IsvXqg"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "mTR90t8ea5x"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "To2fZcY5oUS"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "F7BWpIVSEpM"
                     },
                     "dataSet": {
                         "id": "PRiItBuYx0e"
@@ -23260,7 +22986,7 @@
         "DHIS2Version": "2.36.12",
         "code": "MAL_AGG_STK",
         "description": "Malaria Stock ",
-        "lastUpdated": "20220914T130414",
+        "lastUpdated": "20221028T141622",
         "locale": "en",
         "name": "MAL_AGG_STK_AGG_DHIS2.36.12-en",
         "type": "AGG",
