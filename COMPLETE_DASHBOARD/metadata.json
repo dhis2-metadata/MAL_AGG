@@ -4298,10 +4298,10 @@
             "id": "rPYLomUceL4",
             "indicatorGroups": [
                 {
-                    "id": "mrrlu8kux0s"
+                    "id": "qi3acNeMc6V"
                 },
                 {
-                    "id": "qi3acNeMc6V"
+                    "id": "mrrlu8kux0s"
                 }
             ],
             "indicatorType": {
@@ -4523,10 +4523,10 @@
             "id": "vK4qNvAtZsG",
             "indicatorGroups": [
                 {
-                    "id": "mrrlu8kux0s"
+                    "id": "qi3acNeMc6V"
                 },
                 {
-                    "id": "qi3acNeMc6V"
+                    "id": "mrrlu8kux0s"
                 }
             ],
             "indicatorType": {
@@ -5699,10 +5699,10 @@
             "id": "tIWGvDkU6lb",
             "indicatorGroups": [
                 {
-                    "id": "mrrlu8kux0s"
+                    "id": "qi3acNeMc6V"
                 },
                 {
-                    "id": "qi3acNeMc6V"
+                    "id": "mrrlu8kux0s"
                 }
             ],
             "indicatorType": {
@@ -5837,10 +5837,10 @@
             "id": "bA6kgEyRkg0",
             "indicatorGroups": [
                 {
-                    "id": "mrrlu8kux0s"
+                    "id": "qi3acNeMc6V"
                 },
                 {
-                    "id": "qi3acNeMc6V"
+                    "id": "mrrlu8kux0s"
                 }
             ],
             "indicatorType": {
@@ -7719,10 +7719,10 @@
             "id": "VoN285Q7FQG",
             "indicatorGroups": [
                 {
-                    "id": "mrrlu8kux0s"
+                    "id": "qi3acNeMc6V"
                 },
                 {
-                    "id": "qi3acNeMc6V"
+                    "id": "mrrlu8kux0s"
                 }
             ],
             "indicatorType": {
@@ -9046,10 +9046,10 @@
             "id": "WXcGJXnuZ28",
             "indicatorGroups": [
                 {
-                    "id": "IHFoEstZjfl"
+                    "id": "qi3acNeMc6V"
                 },
                 {
-                    "id": "qi3acNeMc6V"
+                    "id": "IHFoEstZjfl"
                 }
             ],
             "indicatorType": {
@@ -10216,14 +10216,7 @@
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
-            "legendSet": {
-                "id": "kZFJ670FpB6"
-            },
-            "legendSets": [
-                {
-                    "id": "kZFJ670FpB6"
-                }
-            ],
+            "legendSets": [],
             "name": "[CONFIG] MAL - Suspected malaria cases tested (%)",
             "numerator": -1,
             "numeratorDescription": "Cases tested with microscopy + Cases tested with RDT",
@@ -24520,7 +24513,7 @@
         "DHIS2Version": "2.36.12",
         "code": "MAL_AGG",
         "description": "Malaria HMIS (dashboard)",
-        "lastUpdated": "20220914T130414",
+        "lastUpdated": "20221028T141622",
         "locale": "en",
         "name": "MAL_AGG_DSH_DHIS2.36.12-en",
         "type": "DSH",
