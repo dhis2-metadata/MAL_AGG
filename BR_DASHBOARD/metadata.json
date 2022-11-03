@@ -2645,10 +2645,10 @@
             "id": "vK4qNvAtZsG",
             "indicatorGroups": [
                 {
-                    "id": "mrrlu8kux0s"
+                    "id": "qi3acNeMc6V"
                 },
                 {
-                    "id": "qi3acNeMc6V"
+                    "id": "mrrlu8kux0s"
                 }
             ],
             "indicatorType": {
@@ -3873,10 +3873,10 @@
             "id": "tIWGvDkU6lb",
             "indicatorGroups": [
                 {
-                    "id": "mrrlu8kux0s"
+                    "id": "qi3acNeMc6V"
                 },
                 {
-                    "id": "qi3acNeMc6V"
+                    "id": "mrrlu8kux0s"
                 }
             ],
             "indicatorType": {
@@ -4011,10 +4011,10 @@
             "id": "bA6kgEyRkg0",
             "indicatorGroups": [
                 {
-                    "id": "mrrlu8kux0s"
+                    "id": "qi3acNeMc6V"
                 },
                 {
-                    "id": "qi3acNeMc6V"
+                    "id": "mrrlu8kux0s"
                 }
             ],
             "indicatorType": {
@@ -5884,10 +5884,10 @@
             "id": "VoN285Q7FQG",
             "indicatorGroups": [
                 {
-                    "id": "mrrlu8kux0s"
+                    "id": "qi3acNeMc6V"
                 },
                 {
-                    "id": "qi3acNeMc6V"
+                    "id": "mrrlu8kux0s"
                 }
             ],
             "indicatorType": {
@@ -8346,14 +8346,7 @@
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
-            "legendSet": {
-                "id": "kZFJ670FpB6"
-            },
-            "legendSets": [
-                {
-                    "id": "kZFJ670FpB6"
-                }
-            ],
+            "legendSets": [],
             "name": "[CONFIG] MAL - Suspected malaria cases tested (%)",
             "numerator": -1,
             "numeratorDescription": "Cases tested with microscopy + Cases tested with RDT",
@@ -9956,171 +9949,6 @@
                     "userGroupUid": "WyU2lGUPLBv"
                 }
             ]
-        },
-        {
-            "attributeValues": [],
-            "externalAccess": false,
-            "favorite": false,
-            "id": "kZFJ670FpB6",
-            "legends": [
-                {
-                    "attributeValues": [],
-                    "color": "#A13300",
-                    "endValue": 20.0,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "fyiYXUIOBlK",
-                    "name": "10 - 20%",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 10.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "attributeValues": [],
-                    "color": "#D18C4D",
-                    "endValue": 40.0,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "Xa4x6wIQkJh",
-                    "name": "20 - 40%",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 20.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "attributeValues": [],
-                    "color": "#EBBFA1",
-                    "endValue": 60.0,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "EYLo7kZXcDQ",
-                    "name": "40 - 60%",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 40.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "attributeValues": [],
-                    "color": "#400000",
-                    "endValue": 10.0,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "gRj6Lz4ongf",
-                    "name": "< 10%",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 0.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "attributeValues": [],
-                    "color": "#F2EBEB",
-                    "endValue": 100.0,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "tnHZMQMUPRJ",
-                    "name": "80 - 100%",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 80.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "attributeValues": [],
-                    "color": "#F0E0CD",
-                    "endValue": 80.0,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "JAvaXarUdH9",
-                    "name": "60 - 80%",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 60.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                }
-            ],
-            "name": "Malaria suspected cases tested",
-            "publicAccess": "r-------",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    }
-                },
-                "users": {}
-            },
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Cas suspects de paludisme testés"
-                }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": [
-                {
-                    "access": "r-------",
-                    "id": "fNt8hFGEo9d",
-                    "userGroupUid": "fNt8hFGEo9d"
-                },
-                {
-                    "access": "rw------",
-                    "id": "WyU2lGUPLBv",
-                    "userGroupUid": "WyU2lGUPLBv"
-                }
-            ]
         }
     ],
     "maps": [],
@@ -10129,7 +9957,7 @@
         "DHIS2Version": "2.36.12",
         "code": "MAL_AGG_BR",
         "description": "Malaria Burden Reduction and Elimination (dashboard)",
-        "lastUpdated": "20220914T130414",
+        "lastUpdated": "20221028T141622",
         "locale": "en",
         "name": "MAL_AGG_BR_DSH_DHIS2.36.12-en",
         "type": "DSH",
