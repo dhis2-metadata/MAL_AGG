@@ -1,4 +1,4 @@
-# Malaria Aggregate Installation Guide { #malaria-aggregate-installation }
+# Malaria Aggregate Installation Guide { #mal-agg-installation }
 
 This document includes an installation guide for the Malaria aggregate packages.
 
