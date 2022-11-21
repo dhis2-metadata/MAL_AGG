@@ -1,4 +1,4 @@
-# Malaria Data Quality Dashboard
+# Malaria Data Quality Dashboard { #mal-agg-dq-design }
 
 ## Introduction
 
