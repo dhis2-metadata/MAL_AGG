@@ -1,4 +1,4 @@
-# Release Note
+# Release Note { #mal-agg-release-note }
 
 ## 2.0.0
 
