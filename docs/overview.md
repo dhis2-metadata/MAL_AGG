@@ -1,5 +1,9 @@
 # Malaria HMIS
 
+## Release Note
+
+- [Release Note](#mal-agg-release-note)
+
 ## Design
 
 - [Version 2.0.0](#mal-agg-design-200)
@@ -10,10 +14,6 @@
 ## Installation
 
 - [Installation Guide](#mal-agg-installation)
-
-## Release Note
-
-- [Release Note](#mal-agg-release-note)
 
 ## Metadata Reference
 
