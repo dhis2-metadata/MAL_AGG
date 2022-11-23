@@ -1,5 +1,14 @@
 # Release Note { #mal-agg-release-note }
 
+## 2.1.0
+
+The 2.1.0 of the malaria package is an expansion of the version 2.0.0 comprising primarily:
+
+- A new "District dashboard" created to improve the monitoring and performance of the malaria programs at district level.
+- Some new visualizations in the "Data quality" dashboard 
+  - Scatterplots to monitor the consistency between logically related variables (e.g. Consistency between RDT tested and RDT positive, and Consistency between Microscopy tested and Microscopy positive).
+  - Year over year trends to monitor the Proportion of inpatient malaria cases and the Test positivity rate.
+
 ## 2.0.0
 
 The 2.0.0 version of the malaria package is an improved and more comprehensive adaptation of the 1.2.1 version.
