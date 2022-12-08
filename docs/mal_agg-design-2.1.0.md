@@ -205,7 +205,7 @@ The main objective of the data quality dashboard is to bring key data quality me
 
 Like all dashboard packages for DHIS2, the data visualizations are configured to display data for the organisation units for which the user has data capture access in the user configuration. In this way, the dashboard can be used at national, district or other sub-national levels to monitor data quality for the geographic area most relevant to the user. This enables actions to improve data quality to be taken as close to the point of data collection and validation as possible. Configuration of users and assignment to user groups to be able to access the dashboard should be considered within country context to ensure access is provided properly to users. 
 
-### District Malaria Dashboard
+### Malaria District Dashboard
 
 The objective of this dashboard was to create an operational level (district or equivalent) specific dashboard to become one of the primary dashboards for district malaria managers. Depending on the organization of the malaria program, other levels can also find it useful - e.g. Health Facility level with just the population replace by service population. The added value of having a specific dashboard targeting district managers and/or Health Facility supervisors. Just need a name that qualify both/all.
 
