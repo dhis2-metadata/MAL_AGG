@@ -169,15 +169,16 @@ The full list of validation rules that have been set-up to ensure the quality of
 
 The Malaria package includes nine predefined dashboards, each focusing on different aspects of the preventive, curative, and reactive sides of the health programmes against malaria:
 
-- MAL - 1.Malaria Burden Reduction;
-- MAL - 2.Testing and diagnosis;
-- MAL - 3.Malaria Maps;
-- MAL - 4.Treatment;
-- MAL - 5.Intervention Coverage;
-- MAL - 6.Malaria Quality Control;
-- MAL - 7.Malaria Data Quality;
-- MAL - 8.Malaria Elimination;
-- MAL - 9. Malaria Stock
+- MAL - 1.Malaria Burden Reduction
+- MAL - 2.Testing and diagnosis
+- MAL - 3.Malaria Maps
+- MAL - 4.Treatment
+- MAL - 5.Intervention Coverage
+- MAL - 6.Malaria Quality Control
+- MAL - 7.Malaria Data Quality
+- MAL - 8.Malaria Elimination
+- MAL - 9.Malaria Stock
+- MAL - 10.Malaria District Dashboard
 
 The full list of items (graphs and tables) available in each dashboard is available in the [Malaria Metadata Reference File](resources/metadata.xlsx).
 
@@ -187,6 +188,29 @@ The table below lists only the dashboards in which there are notes of interest f
 |--------------|-----|
 | MAL - 1.Malaria Burden Reduction | In the graph and table entitled “Reported malaria cases “ , the DE MAL- Confirmed malaria cases (reported), depending on the local implementation and guidelines, could be used instead of the DE “confirmed malaria cases (micr + RDT)”<br>The graph entitled “Epidemic detection” uses in its default configuration the DE MAL - Malaria confirmed MEAN+2 STD (threshold). Countries should choose either the mean+2SD OR the MEDIAN (threshold), but not both. The latter is suggested for elimination settings. The DEs are in the burden reduction data elements group. |
 | MAL - 4.Treatment                | The graphs entitled “Treatment of P.vivax” and “G6PD testing and treatment of P.vivax” are optional and only relevant depending on the context.   |
+
+### Malaria Data Quality Dashboard
+
+This dashboard complements other DHIS2 apps and tools such as the [WHO Data Quality App for DHIS2](https://docs.dhis2.org/en/use/optional-apps/who-data-quality-tool/installation-and-configuration.html).
+
+The main objective of the data quality dashboard is to bring key data quality metrics to the users routinely through use of DHIS2 dashboards to facilitate data quality improvement activities at all levels (health facility, district, and national management).
+
+- Monitor completeness and timeliness of reporting malaria data: 
+  - The default dashboard includes a text box with some key definitions to ensure the correct understanding and interpretation of the concepts of "completeness" by variable and by reporting frame, and "timeliness".
+  - The legends in the pivot tables have been set with default values in reference to the global guidelines. They should be adapted according to the local guidelines if needed.
+- Monitor internal consistency between variables to detect inconsistencies for quality improvements:
+  - The text box in tghe consistency and validity section of the dashboard provides the guide for the interpretation of "consistency".
+  - The scatterplots have been set by default to follow a 2xZ-score (high and low) - depending on the local efforts and allowance for discrepancies within variables, the Z-score can be adapted and adjusted.
+- Compare trends of key malaria indicators at the various reporting levels and rapidly detect anomalies as red flags for poor data quality (year over year graphs).
+
+Like all dashboard packages for DHIS2, the data visualizations are configured to display data for the organisation units for which the user has data capture access in the user configuration. In this way, the dashboard can be used at national, district or other sub-national levels to monitor data quality for the geographic area most relevant to the user. This enables actions to improve data quality to be taken as close to the point of data collection and validation as possible. Configuration of users and assignment to user groups to be able to access the dashboard should be considered within country context to ensure access is provided properly to users. 
+
+### Malaria District Dashboard
+
+The objective of this dashboard was to create an operational level (district or equivalent) specific dashboard to become one of the primary dashboards for district malaria managers. Depending on the organization of the malaria program, other levels can also find it useful - e.g. Health Facility level with just the population replace by service population. The added value of having a specific dashboard targeting district managers and/or Health Facility supervisors. Just need a name that qualify both/all.
+
+The dashboard gives a primary at glance overview of the key information of the malaria activities that can be later drilled down with more detail in the more detailed dashboards dedicated to burden reduction, quality, stock, etc. 
+The pivot tables provide the outline of the eventual decline of the core indicators for program monitoring keeping as reference the current period and the same previous period (e.g. current period January 2022, previous period January 2021). The applied legends use as thresholds placeholders taken from the global guidelines and should be locally adapted if need be.
 
 ## User groups
 
