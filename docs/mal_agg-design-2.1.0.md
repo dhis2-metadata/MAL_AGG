@@ -169,16 +169,16 @@ The full list of validation rules that have been set-up to ensure the quality of
 
 The Malaria package includes nine predefined dashboards, each focusing on different aspects of the preventive, curative, and reactive sides of the health programmes against malaria:
 
-- MAL - 1.Malaria Burden Reduction;
-- MAL - 2.Testing and diagnosis;
-- MAL - 3.Malaria Maps;
-- MAL - 4.Treatment;
-- MAL - 5.Intervention Coverage;
-- MAL - 6.Malaria Quality Control;
-- MAL - 7.Malaria Data Quality;
-- MAL - 8.Malaria Elimination;
-- MAL - 9.Malaria Stock;
-- MAL - 10.District Malaria Dashboard
+- MAL - 1.Malaria Burden Reduction
+- MAL - 2.Testing and diagnosis
+- MAL - 3.Malaria Maps
+- MAL - 4.Treatment
+- MAL - 5.Intervention Coverage
+- MAL - 6.Malaria Quality Control
+- MAL - 7.Malaria Data Quality
+- MAL - 8.Malaria Elimination
+- MAL - 9.Malaria Stock
+- MAL - 10.Malaria District Dashboard
 
 The full list of items (graphs and tables) available in each dashboard is available in the [Malaria Metadata Reference File](resources/metadata.xlsx).
 
