@@ -207,10 +207,11 @@ Like all dashboard packages for DHIS2, the data visualizations are configured to
 
 ### Malaria District Dashboard
 
-The objective of this dashboard was to create an operational level (district or equivalent) specific dashboard to become one of the primary dashboards for district malaria managers. Depending on the organization of the malaria program, other levels can also find it useful - e.g. Health Facility level with just the population replace by service population. The added value of having a specific dashboard targeting district managers and/or Health Facility supervisors. Just need a name that qualify both/all.
+The objective of this dashboard was to create an operational level (district or equivalent) specific dashboard to become one of the primary dashboards for district malaria managers and/or Health Facility supervisors. Depending on the organization of the malaria program, other levels can also find it useful - e.g. Health Facility level using the population based on heir services. 
 
-The dashboard gives a primary at glance overview of the key information of the malaria activities that can be later drilled down with more detail in the more detailed dashboards dedicated to burden reduction, quality, stock, etc. 
+The dashboard gives a primary at glance overview of the key information of the malaria activities that can be later drilled down with more detail in the more focused dashboards dedicated to burden reduction, quality, stock, etc. 
 The pivot tables provide the outline of the eventual decline of the core indicators for program monitoring keeping as reference the current period and the same previous period (e.g. current period January 2022, previous period January 2021). The applied legends use as thresholds placeholders taken from the global guidelines and should be locally adapted if need be.
+In the "Special considerations" section of this guide implementers will be able to find more information on how to better adapt the dashboard in order for the users to appreciate also a comparative analysis with neighbouring districts.
 
 ## User groups
 
@@ -225,7 +226,9 @@ The three user groups created include:
 
 Whereas it is important to maintain these userGroups while installing this package, feel free to review them in line with any existing userGroups setup or policy in the host instance.
 
-## Special Considerations: Malaria data disaggregated by public facility vs. private sector vs community service delivery 
+## Special Considerations
+
+### Disaggregation by public facility vs. private sector vs community service delivery 
 
 As mentioned in the section on Analytics and Indicators of this design guide, this section is set to provide some suggestions and considerations on the analysis and visualization of the detected cases of malaria according to the type of facility ownership (public or private), and the cases detected in the community.
 
@@ -244,7 +247,7 @@ Given the wide range of set-ups and configurations of the hierarchy and organiza
 * In this scenario, separate data elements for community or private sector reported data can be created to signify the source of reporting; new indicators can be added to sum up community, private sector and facility cases reported across these data elements. This can be the case when using the CHIS package for malaria, which contains a separate set of data elements for community reporting of malaria cases. 
 * Another alternative is to add a facility/private sector/community category for disaggregation of 1) data elements, or 2) the whole data set. In this case, indicators for malaria cases by public vs. private vs. community would need to be configured for each CatCombo. 
 
-### Malaria cases detected in the public and private sector
+#### Malaria cases detected in the public and private sector
 
 As of the latest DHIS2 version release (2.37), indicators counting the number of organisation units (e.g. facilities) can only be obtained by setting up a **predictor**.
 
@@ -267,7 +270,7 @@ The examples below show some of the visualizations that can be obtained when ana
 
 ![Map showing the public facilities (on the left) and private facilities (on the right) reporting malaria cases](resources/images/MAL_SDG_081.png)
 
-### Malaria cases detected in the community
+#### Malaria cases detected in the community
 
 Depending on the local implementation and context, the community level of the health activities and interventions can either be set-up aside, or can be already fully integrated among the health facilities and various admin levels of the OUs.
 
@@ -275,6 +278,25 @@ There are two options that can be used in order to analyze the data coming from 
 1) Use the same approach as outlined in the previous section and create an OU group for the communities in the hierarchy. The procedure and analysis of the data will then follow the same method as the public and private OU groups. <br>
 2) Download and update the relevant metadata from the [Community Health Information System (CHIS) package](#chis-system-design), map the relevant metadata, and triangulate the information with the ones obtained from the malaria package(s).
 In particular there are two monthly datasets that can be useful for this specific purpose within the CHIS package: The [CH - Malaria](#ch-mal-aggregate-design) dataset and the [CH - Community-based Surveillance](#ch-cbs-aggregate-design) dataset. Some relevant DEs for the data triangulation of malaria information can also be obtained from the [CH - Integrated Community Case Management](#ch-iccm-aggregate-design) monthly dataset in the CHIS package.
+
+### District Dashboard: Analysis of neighbouring districts
+
+While District Managers will be able to easily analyze the trends of the district(s) under their supervision, at times, especially in areas of high malaria burden, the analysis may benefit of a comparative breakdown of the district under focus vs its neighbouring district to better appreciate general trends and investigate differences and the impact of the running activities. 
+This type of analysis, although part of the core WHO requirements and anlysis suggestions, cannot be included by default in the general package as it is highly dependent on a range of local factors: users, hierarchy, customizations. Moreover, the system is not capable of "guessing" and filtering the bordering areas just based on users and metadata.
+
+The default visualizations of the dashboard include the full llist of all the districts present in the hierarchy. This could be useful when the analysis is run at national level in order to get the overall snapshot of the program on a larger scale. 
+District managers should normally have their own dedicated user and access to the aggregated ditrict data. Possibly, depending on the implementation, they will also have access to the detailed data of the health structures under the district. As each implementation differs, the first step for this type of analysis to function, is to agree among the parties in charge that the users of the district managers will be able to have access to at least the aggregated data of the neighbouring districts. 
+Once the data privacy and access step is solved, the district dashboard can be customized locally in order to display just the right districts surrounding each district user.
+The same concept can be applied to lower (facility) and higher end users (regional and/or provincial users).
+
+Here below a practical example:
+Taking as a reference the map below, the district manager of the Staple district would want to see the progress of the malaria program in their neighbouring districts: Dessert, Dinner, and Fruit.
+
+![Map of the districts](resources/images/MAL_SDG_089.png)
+
+In this case the admin setting up the dashboard for the local district, having access to the whole hierarchy, will set up and assign to the district user of the Staple district the possibility to visualize in the relevant dashboard items also the neighbouring aforementioned districts.
+
+![Assignation of the neighbouring districts](resources/images/MAL_SDG_090.png)
 
 ## References
 
