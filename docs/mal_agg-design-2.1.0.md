@@ -28,7 +28,7 @@ The malaria program consists of 3 different data sets that can be used at any gi
 
 ### Data Elements
 
-The full list of data elements belonging to the different datasets can be found in the [Malaria Metadata Reference File](resources/metadata.xlsx).
+The full list of data elements belonging to the different datasets can be found in the Malaria Metadata Reference File.
 
 Please note that there are a number of additional data elements that could potentially be used within the Malaria Burden Reduction and Malaria Elimination data sets, however are not currently assigned to either of the datasets. These data elements can be found within the Malaria unassigned data element group.
 
@@ -151,7 +151,7 @@ This section can be removed should the implementation require the uptake of the 
 
 ## Analytics and Indicators
 
-The full list of indicators and indicator groups is available in the [Malaria Metadata Reference File](resources/metadata.xlsx).
+The full list of indicators and indicator groups is available in the Malaria Metadata Reference File.
 
 Please refer to the section “Special Considerations: Malaria by health sector” of this design guide for further guidance on how to obtain further information on the cases of malaria detected in the different health sectors (private, public, and community).
 
@@ -163,7 +163,7 @@ The validation rules for malaria are divided across three groups:
 - **Malaria: elimination**
 - **Malaria: other**
 
-The full list of validation rules that have been set-up to ensure the quality of data are available in the [Malaria Metadata Reference File](resources/metadata.xlsx).
+The full list of validation rules that have been set-up to ensure the quality of data are available in the Malaria Metadata Reference File.
 
 ## Dashboards
 
@@ -180,7 +180,7 @@ The Malaria package includes nine predefined dashboards, each focusing on differ
 - MAL - 9.Malaria Stock
 - MAL - 10.Malaria District Dashboard
 
-The full list of items (graphs and tables) available in each dashboard is available in the [Malaria Metadata Reference File](resources/metadata.xlsx).
+The full list of items (graphs and tables) available in each dashboard is available in the Malaria Metadata Reference File.
 
 The table below lists only the dashboards in which there are notes of interest for the implementation of the package and the set-up of the dashboards
 
