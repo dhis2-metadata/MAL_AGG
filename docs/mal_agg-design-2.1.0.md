@@ -298,6 +298,11 @@ In this case the admin setting up the dashboard for the local district, having a
 
 ![Assignation of the neighbouring districts](resources/images/MAL_SDG_090.png)
 
+### District Dashboard: Analysis of operational facilities
+
+The district dashboard in its default preconfiguration includes a visualization for "MAL - Functional status of health facilities, last month". The pie chart was set to have an easy overview of the proportion of functional and non-functional facilties within the district under analysis. 
+Given the wide range of set-ups and configurations of the hierarchy and organizational units (OUs), it is suggested to follow the same principles and inputs provided in the section "Disaggregation by public facility vs. private sector vs community service deliver" as the same theory, fully dependent on the local implementation, applies.
+
 ## References
 
 World Health Organization (2012). Disease Surveillance for Malaria Control. An operational manual. Printed by the WHO Document Production Services, Geneva, Switzerland. ISBN 978 92 4 150334 1. URL: [https://apps.who.int/iris/bitstream/handle/10665/44851/9789241503341_eng.pdf;jsessionid=7D2258370F31444A72815B5CFB2E1FE8?ua=1?sequence=1](https://apps.who.int/iris/bitstream/handle/10665/44851/9789241503341_eng.pdf;jsessionid=7D2258370F31444A72815B5CFB2E1FE8?ua=1?sequence=1)
