@@ -6,7 +6,7 @@
 
 ## Design
 
-- [Version 2.1.0](#mal-agg-design-210)
+- [Version 2.1.0](#mal-agg-design)
 - [Version 2.0.0](#mal-agg-design-200)
 - [Version 1.2.1](#mal-agg-design-121)
 - [Malaria Data Quality Dashboard](#mal-agg-dq-design)
