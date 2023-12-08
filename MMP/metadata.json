@@ -5,6 +5,105 @@
             "attributeValues": [],
             "categoryOptions": [
                 {
+                    "id": "MP15bHaQh2x"
+                },
+                {
+                    "id": "FFA9e1yIXCT"
+                }
+            ],
+            "code": "SEX",
+            "dataDimension": false,
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "FRwO58KwwJt",
+            "name": "Sex",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Sex",
+            "translations": [
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Sexo"
+                },
+                {
+                    "locale": "ru",
+                    "property": "SHORT_NAME",
+                    "value": "Пол"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Sexo"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Sexe"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Sexo"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "الجنس"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Пол"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "Sexo"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "الجنس"
+                },
+                {
+                    "locale": "de",
+                    "property": "NAME",
+                    "value": "Sexo"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Sexe"
+                },
+                {
+                    "locale": "de",
+                    "property": "SHORT_NAME",
+                    "value": "Sexo"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryOptions": [
+                {
                     "id": "xYerKDKCefk"
                 }
             ],
@@ -16,7 +115,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -148,11 +247,6 @@
                     "value": "standart"
                 },
                 {
-                    "locale": "pt",
-                    "property": "SHORT_NAME",
-                    "value": "Padrão"
-                },
-                {
                     "locale": "cs",
                     "property": "SHORT_NAME",
                     "value": "výchozí"
@@ -161,6 +255,11 @@
                     "locale": "ru",
                     "property": "SHORT_NAME",
                     "value": "по умолчанию"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Padrao"
                 },
                 {
                     "locale": "nb",
@@ -173,30 +272,39 @@
                     "value": "الافتراضي"
                 }
             ]
-        },
+        }
+    ],
+    "categoryCombos": [
         {
-            "attributeValues": [],
-            "categoryOptions": [
+            "categories": [
                 {
-                    "id": "MP15bHaQh2x"
-                },
-                {
-                    "id": "FFA9e1yIXCT"
+                    "id": "FRwO58KwwJt"
                 }
             ],
-            "code": "SEX",
-            "dataDimension": false,
             "dataDimensionType": "DISAGGREGATION",
-            "id": "FRwO58KwwJt",
+            "id": "VkQPxB6VdoG",
             "name": "Sex",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
                 "users": {}
             },
-            "shortName": "Sex",
+            "skipTotal": false,
             "translations": [
                 {
                     "locale": "uz_UZ",
@@ -204,24 +312,19 @@
                     "value": "Jinsi"
                 },
                 {
-                    "locale": "cs",
-                    "property": "SHORT_NAME",
-                    "value": "Pohlaví"
-                },
-                {
                     "locale": "pt",
-                    "property": "SHORT_NAME",
+                    "property": "NAME",
                     "value": "Sexo"
                 },
                 {
-                    "locale": "ar_SD",
-                    "property": "SHORT_NAME",
-                    "value": "الجنس"
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "Sexo"
                 },
                 {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Sexe"
+                    "locale": "id",
+                    "property": "NAME",
+                    "value": "Jenis Kelamin"
                 },
                 {
                     "locale": "es",
@@ -229,39 +332,14 @@
                     "value": "Sexo"
                 },
                 {
-                    "locale": "id",
-                    "property": "NAME",
-                    "value": "Jenis Kelamin"
-                },
-                {
-                    "locale": "uz",
-                    "property": "SHORT_NAME",
-                    "value": "Жинси"
-                },
-                {
                     "locale": "ar_EG",
                     "property": "NAME",
                     "value": "الجنس"
                 },
                 {
-                    "locale": "ar",
-                    "property": "SHORT_NAME",
-                    "value": "الجنس"
-                },
-                {
-                    "locale": "de",
-                    "property": "SHORT_NAME",
-                    "value": "Sexo"
-                },
-                {
-                    "locale": "ru",
-                    "property": "SHORT_NAME",
-                    "value": "Пол"
-                },
-                {
-                    "locale": "id",
-                    "property": "SHORT_NAME",
-                    "value": "Jenis Kelamin"
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "Kjønn"
                 },
                 {
                     "locale": "ar_IQ",
@@ -279,9 +357,19 @@
                     "value": "الجنس"
                 },
                 {
-                    "locale": "es",
-                    "property": "SHORT_NAME",
-                    "value": "Sexo"
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "Жинси"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "الجنس"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Пол"
                 },
                 {
                     "locale": "de",
@@ -297,71 +385,9 @@
                     "locale": "pt_BR",
                     "property": "NAME",
                     "value": "Sexo"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "SHORT_NAME",
-                    "value": "الجنس"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "Sexo"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "SHORT_NAME",
-                    "value": "الجنس"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "NAME",
-                    "value": "Sexo"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "SHORT_NAME",
-                    "value": "Sexo"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "SHORT_NAME",
-                    "value": "Sexo"
-                },
-                {
-                    "locale": "nb",
-                    "property": "NAME",
-                    "value": "Kjønn"
-                },
-                {
-                    "locale": "nb",
-                    "property": "SHORT_NAME",
-                    "value": "Kjønn"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "SHORT_NAME",
-                    "value": "Jinsi"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "الجنس"
-                },
-                {
-                    "locale": "uz",
-                    "property": "NAME",
-                    "value": "Жинси"
-                },
-                {
-                    "locale": "ru",
-                    "property": "NAME",
-                    "value": "Пол"
                 }
             ]
-        }
-    ],
-    "categoryCombos": [
+        },
         {
             "categories": [
                 {
@@ -375,7 +401,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -457,109 +483,193 @@
                     "value": "الافتراضي"
                 }
             ]
-        },
+        }
+    ],
+    "categoryOptionCombos": [
         {
-            "categories": [
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "VkQPxB6VdoG"
+            },
+            "categoryOptions": [
                 {
-                    "id": "FRwO58KwwJt"
+                    "id": "FFA9e1yIXCT"
                 }
             ],
-            "dataDimensionType": "DISAGGREGATION",
-            "id": "VkQPxB6VdoG",
-            "name": "Sex",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
-                "users": {}
-            },
-            "skipTotal": false,
+            "code": "F",
+            "id": "aakXCEEzhGy",
+            "ignoreApproval": false,
+            "name": "Female",
             "translations": [
-                {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "Jinsi"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "Sexo"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "NAME",
-                    "value": "Sexo"
-                },
-                {
-                    "locale": "id",
-                    "property": "NAME",
-                    "value": "Jenis Kelamin"
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "Sexo"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NAME",
-                    "value": "الجنس"
-                },
-                {
-                    "locale": "nb",
-                    "property": "NAME",
-                    "value": "Kjønn"
-                },
                 {
                     "locale": "ar_IQ",
                     "property": "NAME",
-                    "value": "الجنس"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "Pohlaví"
-                },
-                {
-                    "locale": "ar",
-                    "property": "NAME",
-                    "value": "الجنس"
+                    "value": "إناث"
                 },
                 {
                     "locale": "uz",
                     "property": "NAME",
-                    "value": "Жинси"
+                    "value": "Аёл"
                 },
                 {
-                    "locale": "ar_SD",
+                    "locale": "ar_EG",
                     "property": "NAME",
-                    "value": "الجنس"
-                },
-                {
-                    "locale": "ru",
-                    "property": "NAME",
-                    "value": "Пол"
-                },
-                {
-                    "locale": "de",
-                    "property": "NAME",
-                    "value": "Sexo"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Sexe"
+                    "value": "إناث"
                 },
                 {
                     "locale": "pt_BR",
                     "property": "NAME",
-                    "value": "Sexo"
+                    "value": "Feminino"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "Kvinne"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "إناث"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Женский"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Feminino"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Féminin"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Femenino"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "ženský"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "Аyol"
+                },
+                {
+                    "locale": "id",
+                    "property": "NAME",
+                    "value": "Wanita"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "أنثى"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "Femenino"
                 }
             ]
-        }
-    ],
-    "categoryOptionCombos": [
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "VkQPxB6VdoG"
+            },
+            "categoryOptions": [
+                {
+                    "id": "MP15bHaQh2x"
+                }
+            ],
+            "code": "M",
+            "id": "PiYRwg1gzqV",
+            "ignoreApproval": false,
+            "name": "Male",
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "muž"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Masculino"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "мужской"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "Erkak"
+                },
+                {
+                    "locale": "id",
+                    "property": "NAME",
+                    "value": "Laki-laki"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Masculino"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "ذكور"
+                },
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "Эркак"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "ذكور"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "ذكر"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "Masculino"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "ذكور"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Masculin"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Masculino"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "Mann"
+                }
+            ]
+        },
         {
             "attributeValues": [],
             "categoryCombo": {
@@ -651,190 +761,6 @@
                     "value": "الافتراضي"
                 }
             ]
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "VkQPxB6VdoG"
-            },
-            "categoryOptions": [
-                {
-                    "id": "FFA9e1yIXCT"
-                }
-            ],
-            "code": "F",
-            "id": "aakXCEEzhGy",
-            "ignoreApproval": false,
-            "name": "Female",
-            "translations": [
-                {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "إناث"
-                },
-                {
-                    "locale": "uz",
-                    "property": "NAME",
-                    "value": "Аёл"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NAME",
-                    "value": "إناث"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Feminino"
-                },
-                {
-                    "locale": "nb",
-                    "property": "NAME",
-                    "value": "Kvinne"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "إناث"
-                },
-                {
-                    "locale": "ru",
-                    "property": "NAME",
-                    "value": "Женский"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "Feminino"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Féminin"
-                },
-                {
-                    "locale": "ar",
-                    "property": "NAME",
-                    "value": "إناث"
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "Femenino"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "ženský"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "Аyol"
-                },
-                {
-                    "locale": "id",
-                    "property": "NAME",
-                    "value": "Wanita"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "NAME",
-                    "value": "Femenino"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "VkQPxB6VdoG"
-            },
-            "categoryOptions": [
-                {
-                    "id": "MP15bHaQh2x"
-                }
-            ],
-            "code": "M",
-            "id": "PiYRwg1gzqV",
-            "ignoreApproval": false,
-            "name": "Male",
-            "translations": [
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "muž"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "Masculino"
-                },
-                {
-                    "locale": "ar",
-                    "property": "NAME",
-                    "value": "ذكور"
-                },
-                {
-                    "locale": "ru",
-                    "property": "NAME",
-                    "value": "мужской"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "Erkak"
-                },
-                {
-                    "locale": "id",
-                    "property": "NAME",
-                    "value": "Laki-laki"
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "Masculino"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NAME",
-                    "value": "ذكور"
-                },
-                {
-                    "locale": "uz",
-                    "property": "NAME",
-                    "value": "Эркак"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "ذكور"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "NAME",
-                    "value": "Masculino"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "ذكور"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Masculin"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Masculino"
-                },
-                {
-                    "locale": "nb",
-                    "property": "NAME",
-                    "value": "Mann"
-                }
-            ]
         }
     ],
     "categoryOptionGroupSets": [
@@ -857,15 +783,28 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Sex (Male/Female)",
             "translations": [
                 {
-                    "locale": "nb",
-                    "property": "NAME",
-                    "value": "Kjønn (mann/kvinne)"
+                    "locale": "pt",
+                    "property": "DESCRIPTION",
+                    "value": "Sexo (Masculino/Feminino)"
                 },
                 {
                     "locale": "pt",
@@ -873,19 +812,14 @@
                     "value": "Sexo (Masculino/Feminino)"
                 },
                 {
-                    "locale": "es_US",
-                    "property": "DESCRIPTION",
-                    "value": "Sexo (Masculino/Femenino)"
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Sexe (Masculin/Féminin)"
                 },
                 {
-                    "locale": "id",
-                    "property": "DESCRIPTION",
-                    "value": "Jenis Kelamin (Laki-laki/Perempuan)"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "DESCRIPTION",
-                    "value": "الجنس (ذكور/إناث)"
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Пол (мужчина / женщина)"
                 },
                 {
                     "locale": "ru",
@@ -893,114 +827,39 @@
                     "value": "Пол (мужчина / женщина)"
                 },
                 {
-                    "locale": "ar_EG",
-                    "property": "DESCRIPTION",
-                    "value": "الجنس (ذكور/إناث)"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "DESCRIPTION",
-                    "value": "Sexo (Masculino/Feminino)"
-                },
-                {
-                    "locale": "cs",
-                    "property": "DESCRIPTION",
-                    "value": "Pohlaví (muž / žena)"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "Pohlaví (muž / žena)"
-                },
-                {
-                    "locale": "uz",
-                    "property": "DESCRIPTION",
-                    "value": "Жинс (Эркак/Аёл)"
-                },
-                {
                     "locale": "ar",
-                    "property": "DESCRIPTION",
+                    "property": "SHORT_NAME",
                     "value": "الجنس (ذكور/إناث)"
                 },
                 {
-                    "locale": "uz",
-                    "property": "NAME",
-                    "value": "Жинс (Эркак/Аёл)"
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "Sexo (Masculino/Femenino)"
                 },
                 {
-                    "locale": "ar",
+                    "locale": "es",
                     "property": "NAME",
-                    "value": "الجنس (ذكور/إناث)"
+                    "value": "Sexo (Masculino/Femenino)"
                 },
                 {
-                    "locale": "nb",
+                    "locale": "es",
                     "property": "DESCRIPTION",
-                    "value": "Kjønn (mann/kvinne)"
+                    "value": "Sexo (Masculino/Femenino)"
                 },
                 {
                     "locale": "pt",
-                    "property": "DESCRIPTION",
+                    "property": "SHORT_NAME",
                     "value": "Sexo (Masculino/Feminino)"
-                },
-                {
-                    "locale": "id",
-                    "property": "NAME",
-                    "value": "Jenis Kelamin (Laki-laki/Perempuan)"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "الجنس (ذكور/إناث)"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Sexo (Masculino/Feminino)"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "NAME",
-                    "value": "Sexo (Masculino/Femenino)"
                 },
                 {
                     "locale": "ru",
-                    "property": "NAME",
+                    "property": "SHORT_NAME",
                     "value": "Пол (мужчина / женщина)"
                 },
                 {
-                    "locale": "ar_EG",
-                    "property": "NAME",
-                    "value": "الجنس (ذكور/إناث)"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "DESCRIPTION",
-                    "value": "Жинс (Эркак/Аёл)"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "Жинс (Эркак/Аёл)"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "الجنس (ذكور/إناث)"
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "Sexo (Masculino/Femenino)"
-                },
-                {
-                    "locale": "ar_SD",
+                    "locale": "ar",
                     "property": "DESCRIPTION",
                     "value": "الجنس (ذكور/إناث)"
-                },
-                {
-                    "locale": "es",
-                    "property": "DESCRIPTION",
-                    "value": "Sexo (Masculino/Femenino)"
                 },
                 {
                     "locale": "fr",
@@ -1011,6 +870,259 @@
                     "locale": "fr",
                     "property": "NAME",
                     "value": "Sexe (Masculin/Féminin)"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "الجنس (ذكور/إناث)"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryOptionGroups": [
+                {
+                    "id": "EVYKU2fIc6G"
+                },
+                {
+                    "id": "bqoVhX2RfG4"
+                }
+            ],
+            "dataDimension": true,
+            "dataDimensionType": "DISAGGREGATION",
+            "description": "Sex (Other/Unk)",
+            "id": "Ek6bXFaXjoe",
+            "name": "Sex (Other/Unk)",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Sex (Other/Unk)",
+            "translations": [
+                {
+                    "locale": "pt",
+                    "property": "DESCRIPTION",
+                    "value": "Sexo (Outro/Desconhecido)"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Sexo (Outro/Desconhecido)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Sexe (Autre/Inconnu)"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Sexo (Outro/Desconhecido)"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DESCRIPTION",
+                    "value": "Pohlaví (jiné / neznámé)"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Pohlaví (jiné / neznámé)"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DESCRIPTION",
+                    "value": "Sexo (Outro/Desconhecido)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Sexe (Autre/Inconnu)"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryOptionGroups": [
+                {
+                    "id": "EVYKU2fIc6G"
+                },
+                {
+                    "id": "bqoVhX2RfG4"
+                }
+            ],
+            "dataDimension": true,
+            "dataDimensionType": "DISAGGREGATION",
+            "description": "Sex (with unknown)",
+            "id": "XxEFGdwxOJ0",
+            "name": "Sex (with unknown)",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Sex (with unknown)",
+            "translations": [
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "الجنس (مع المجهول)"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "DESCRIPTION",
+                    "value": "Жинси (ноаниқ билан бирга)"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Пол (вкл. неизвестно)"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "Sexo (con desconocido)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Sexe (avec inconnu)"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "الجنس (مع المجهول)"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Sexo (com desconhecido)"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Sexo (com desconhecido)"
+                },
+                {
+                    "locale": "uz",
+                    "property": "DESCRIPTION",
+                    "value": "Жинси (ноаниқ билан бирга)"
+                },
+                {
+                    "locale": "es",
+                    "property": "DESCRIPTION",
+                    "value": "Sexo (con desconocido)"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Sexo (con desconocido)"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DESCRIPTION",
+                    "value": "Sexo (com desconhecido)"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "الجنس (مع المجهول)"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Pohlaví (s neznámým)"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DESCRIPTION",
+                    "value": "الجنس (مع المجهول)"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DESCRIPTION",
+                    "value": "Pohlaví (s neznámým)"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DESCRIPTION",
+                    "value": "الجنس (مع المجهول)"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "Жинси (ноаниқ билан бирга)"
+                },
+                {
+                    "locale": "ru",
+                    "property": "DESCRIPTION",
+                    "value": "Пол (вкл. неизвестно)"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DESCRIPTION",
+                    "value": "Sexo (con desconocido)"
+                },
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "Жинси (ноаниқ билан бирга)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Sexe (avec inconnu)"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DESCRIPTION",
+                    "value": "الجنس (مع المجهول)"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DESCRIPTION",
+                    "value": "Sexo (com desconhecido)"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DESCRIPTION",
+                    "value": "الجنس (مع المجهول)"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "الجنس (مع المجهول)"
                 }
             ]
         }
@@ -1031,65 +1143,43 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Female",
             "translations": [
                 {
-                    "locale": "uz",
+                    "locale": "es",
                     "property": "NAME",
-                    "value": "Аёл"
+                    "value": "Femenino"
                 },
                 {
-                    "locale": "pt_BR",
-                    "property": "NAME",
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
                     "value": "Feminino"
                 },
                 {
-                    "locale": "nb",
-                    "property": "NAME",
-                    "value": "Kvinne"
-                },
-                {
-                    "locale": "ar_EG",
+                    "locale": "ru",
                     "property": "SHORT_NAME",
-                    "value": "إناث"
-                },
-                {
-                    "locale": "ar",
-                    "property": "SHORT_NAME",
-                    "value": "إناث"
+                    "value": "Женский"
                 },
                 {
                     "locale": "es",
                     "property": "SHORT_NAME",
                     "value": "Femenino"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "إناث"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "SHORT_NAME",
-                    "value": "إناث"
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "Femenino"
-                },
-                {
-                    "locale": "nb",
-                    "property": "SHORT_NAME",
-                    "value": "Kvinne"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "SHORT_NAME",
-                    "value": "Аyol"
                 },
                 {
                     "locale": "fr",
@@ -1097,19 +1187,9 @@
                     "value": "Féminin"
                 },
                 {
-                    "locale": "ar_IQ",
+                    "locale": "ar",
                     "property": "NAME",
-                    "value": "إناث"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NAME",
-                    "value": "إناث"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "SHORT_NAME",
-                    "value": "Femenino"
+                    "value": "أنثى"
                 },
                 {
                     "locale": "pt",
@@ -1127,64 +1207,9 @@
                     "value": "Féminin"
                 },
                 {
-                    "locale": "id",
-                    "property": "SHORT_NAME",
-                    "value": "Wanita"
-                },
-                {
                     "locale": "ar",
-                    "property": "NAME",
-                    "value": "إناث"
-                },
-                {
-                    "locale": "cs",
                     "property": "SHORT_NAME",
-                    "value": "ženský"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "SHORT_NAME",
-                    "value": "Feminino"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "ženský"
-                },
-                {
-                    "locale": "uz",
-                    "property": "SHORT_NAME",
-                    "value": "Аёл"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "Аyol"
-                },
-                {
-                    "locale": "id",
-                    "property": "NAME",
-                    "value": "Wanita"
-                },
-                {
-                    "locale": "pt",
-                    "property": "SHORT_NAME",
-                    "value": "Feminino"
-                },
-                {
-                    "locale": "ru",
-                    "property": "SHORT_NAME",
-                    "value": "Женский"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "NAME",
-                    "value": "Femenino"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "SHORT_NAME",
-                    "value": "إناث"
+                    "value": "أنثى"
                 }
             ]
         },
@@ -1204,8 +1229,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Category Options",
@@ -1226,95 +1264,28 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Male",
             "translations": [
                 {
-                    "locale": "ar_SD",
-                    "property": "SHORT_NAME",
-                    "value": "ذكور"
-                },
-                {
-                    "locale": "ar",
-                    "property": "SHORT_NAME",
-                    "value": "ذكور"
-                },
-                {
-                    "locale": "ru",
-                    "property": "NAME",
-                    "value": "мужской"
-                },
-                {
-                    "locale": "uz",
-                    "property": "SHORT_NAME",
-                    "value": "Эркак"
-                },
-                {
-                    "locale": "nb",
-                    "property": "SHORT_NAME",
-                    "value": "Mann"
-                },
-                {
                     "locale": "es",
                     "property": "NAME",
                     "value": "Masculino"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NAME",
-                    "value": "ذكور"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "ذكور"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "SHORT_NAME",
-                    "value": "Erkak"
-                },
-                {
-                    "locale": "cs",
-                    "property": "SHORT_NAME",
-                    "value": "muž"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Masculino"
-                },
-                {
-                    "locale": "es",
-                    "property": "SHORT_NAME",
-                    "value": "Masculino"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "SHORT_NAME",
-                    "value": "ذكور"
-                },
-                {
-                    "locale": "id",
-                    "property": "SHORT_NAME",
-                    "value": "Laki-laki"
-                },
-                {
-                    "locale": "nb",
-                    "property": "NAME",
-                    "value": "Mann"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "SHORT_NAME",
-                    "value": "Masculino"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "muž"
                 },
                 {
                     "locale": "pt",
@@ -1322,34 +1293,9 @@
                     "value": "Masculino"
                 },
                 {
-                    "locale": "ar",
-                    "property": "NAME",
-                    "value": "ذكور"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "SHORT_NAME",
-                    "value": "ذكور"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "Erkak"
-                },
-                {
-                    "locale": "id",
-                    "property": "NAME",
-                    "value": "Laki-laki"
-                },
-                {
                     "locale": "fr",
                     "property": "SHORT_NAME",
                     "value": "Masculin"
-                },
-                {
-                    "locale": "uz",
-                    "property": "NAME",
-                    "value": "Эркак"
                 },
                 {
                     "locale": "ru",
@@ -1357,24 +1303,29 @@
                     "value": "мужской"
                 },
                 {
-                    "locale": "es_US",
+                    "locale": "ar",
                     "property": "NAME",
-                    "value": "Masculino"
+                    "value": "ذكر"
                 },
                 {
-                    "locale": "es_US",
+                    "locale": "ar",
                     "property": "SHORT_NAME",
-                    "value": "Masculino"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "ذكور"
+                    "value": "ذكر"
                 },
                 {
                     "locale": "fr",
                     "property": "NAME",
                     "value": "Masculin"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "мужской"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "Masculino"
                 },
                 {
                     "locale": "pt",
@@ -1382,9 +1333,459 @@
                     "value": "Masculino"
                 }
             ]
+        },
+        {
+            "attributeValues": [],
+            "code": "OTHER",
+            "dataDimensionType": "ATTRIBUTE",
+            "id": "KODd9zpxeVK",
+            "name": "Other",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Other",
+            "translations": [
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "Otro"
+                },
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "Бошқалар"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "SHORT_NAME",
+                    "value": "أخرى"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "أخرى"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "Ostatní"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "SHORT_NAME",
+                    "value": "أخرى"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "أخرى"
+                },
+                {
+                    "locale": "id",
+                    "property": "NAME",
+                    "value": "Lain-lain"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Otro"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "SHORT_NAME",
+                    "value": "Otro"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "SHORT_NAME",
+                    "value": "Boshqalar"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Outros"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "أخرى"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Другой"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Autre"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "أخرى"
+                },
+                {
+                    "locale": "ru",
+                    "property": "SHORT_NAME",
+                    "value": "Другой"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "أخرى"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "Otro"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Outros"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "SHORT_NAME",
+                    "value": "أخرى"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Outros"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Ostatní"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Autre"
+                },
+                {
+                    "locale": "nb",
+                    "property": "SHORT_NAME",
+                    "value": "Andre"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "Andre"
+                },
+                {
+                    "locale": "uz",
+                    "property": "SHORT_NAME",
+                    "value": "Бошқалар"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "Boshqalar"
+                },
+                {
+                    "locale": "id",
+                    "property": "SHORT_NAME",
+                    "value": "Lain-lain"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "Outros"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "code": "UNK_SEX",
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "SZJNeRyrh22",
+            "name": "Unknown Sex",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Unk Sex",
+            "translations": [
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Sexo Desconhecido"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "Nezn. pohlaví"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "SHORT_NAME",
+                    "value": "الجنس مجهول"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Sexo Desconhecido"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "الجنس مجهول"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "الجنس مجهول"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "الجنس مجهول"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "SHORT_NAME",
+                    "value": "الجنس مجهول"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Autre/sexe non connu"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "Sexo desconhecido"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Neznámé pohlaví"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "SHORT_NAME",
+                    "value": "الجنس مجهول"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "الجنس مجهول"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Autre/sexe non connu"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Sexo desconhecido"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "الجنس مجهول"
+                }
+            ]
         }
     ],
     "categoryOptions": [
+        {
+            "attributeValues": [],
+            "code": "F",
+            "id": "FFA9e1yIXCT",
+            "name": "Female",
+            "organisationUnits": [],
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-rw----",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Female",
+            "translations": [
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Femenino"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Feminino"
+                },
+                {
+                    "locale": "ru",
+                    "property": "SHORT_NAME",
+                    "value": "Женский"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "Femenino"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Féminin"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "أنثى"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Feminino"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Женский"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Féminin"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "أنثى"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "code": "M",
+            "id": "MP15bHaQh2x",
+            "name": "Male",
+            "organisationUnits": [],
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-rw----",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Male",
+            "translations": [
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Masculino"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Masculino"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Masculin"
+                },
+                {
+                    "locale": "ru",
+                    "property": "SHORT_NAME",
+                    "value": "мужской"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "ذكر"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "ذكر"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Masculin"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "мужской"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "Masculino"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Masculino"
+                }
+            ]
+        },
         {
             "attributeValues": [],
             "code": "DEFAULT",
@@ -1394,7 +1795,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rwrw----",
+                "public": "r-rw----",
                 "userGroups": {},
                 "users": {}
             },
@@ -1551,340 +1952,6 @@
                     "value": "الافتراضي"
                 }
             ]
-        },
-        {
-            "attributeValues": [],
-            "code": "F",
-            "id": "FFA9e1yIXCT",
-            "name": "Female",
-            "organisationUnits": [],
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-r-----",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "Female",
-            "translations": [
-                {
-                    "locale": "uz",
-                    "property": "NAME",
-                    "value": "Аёл"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Feminino"
-                },
-                {
-                    "locale": "nb",
-                    "property": "NAME",
-                    "value": "Kvinne"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "SHORT_NAME",
-                    "value": "إناث"
-                },
-                {
-                    "locale": "ar",
-                    "property": "SHORT_NAME",
-                    "value": "إناث"
-                },
-                {
-                    "locale": "es",
-                    "property": "SHORT_NAME",
-                    "value": "Femenino"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "إناث"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "SHORT_NAME",
-                    "value": "إناث"
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "Femenino"
-                },
-                {
-                    "locale": "nb",
-                    "property": "SHORT_NAME",
-                    "value": "Kvinne"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "SHORT_NAME",
-                    "value": "Аyol"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Féminin"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "إناث"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NAME",
-                    "value": "إناث"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "SHORT_NAME",
-                    "value": "Femenino"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "Feminino"
-                },
-                {
-                    "locale": "ru",
-                    "property": "NAME",
-                    "value": "Женский"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Féminin"
-                },
-                {
-                    "locale": "id",
-                    "property": "SHORT_NAME",
-                    "value": "Wanita"
-                },
-                {
-                    "locale": "ar",
-                    "property": "NAME",
-                    "value": "إناث"
-                },
-                {
-                    "locale": "cs",
-                    "property": "SHORT_NAME",
-                    "value": "ženský"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "SHORT_NAME",
-                    "value": "Feminino"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "ženský"
-                },
-                {
-                    "locale": "uz",
-                    "property": "SHORT_NAME",
-                    "value": "Аёл"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "Аyol"
-                },
-                {
-                    "locale": "id",
-                    "property": "NAME",
-                    "value": "Wanita"
-                },
-                {
-                    "locale": "pt",
-                    "property": "SHORT_NAME",
-                    "value": "Feminino"
-                },
-                {
-                    "locale": "ru",
-                    "property": "SHORT_NAME",
-                    "value": "Женский"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "NAME",
-                    "value": "Femenino"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "SHORT_NAME",
-                    "value": "إناث"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "code": "M",
-            "id": "MP15bHaQh2x",
-            "name": "Male",
-            "organisationUnits": [],
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-r-----",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "Male",
-            "translations": [
-                {
-                    "locale": "ar_SD",
-                    "property": "SHORT_NAME",
-                    "value": "ذكور"
-                },
-                {
-                    "locale": "ar",
-                    "property": "SHORT_NAME",
-                    "value": "ذكور"
-                },
-                {
-                    "locale": "ru",
-                    "property": "NAME",
-                    "value": "мужской"
-                },
-                {
-                    "locale": "uz",
-                    "property": "SHORT_NAME",
-                    "value": "Эркак"
-                },
-                {
-                    "locale": "nb",
-                    "property": "SHORT_NAME",
-                    "value": "Mann"
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "Masculino"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NAME",
-                    "value": "ذكور"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "ذكور"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "SHORT_NAME",
-                    "value": "Erkak"
-                },
-                {
-                    "locale": "cs",
-                    "property": "SHORT_NAME",
-                    "value": "muž"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Masculino"
-                },
-                {
-                    "locale": "es",
-                    "property": "SHORT_NAME",
-                    "value": "Masculino"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "SHORT_NAME",
-                    "value": "ذكور"
-                },
-                {
-                    "locale": "id",
-                    "property": "SHORT_NAME",
-                    "value": "Laki-laki"
-                },
-                {
-                    "locale": "nb",
-                    "property": "NAME",
-                    "value": "Mann"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "SHORT_NAME",
-                    "value": "Masculino"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "muž"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "Masculino"
-                },
-                {
-                    "locale": "ar",
-                    "property": "NAME",
-                    "value": "ذكور"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "SHORT_NAME",
-                    "value": "ذكور"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "Erkak"
-                },
-                {
-                    "locale": "id",
-                    "property": "NAME",
-                    "value": "Laki-laki"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Masculin"
-                },
-                {
-                    "locale": "uz",
-                    "property": "NAME",
-                    "value": "Эркак"
-                },
-                {
-                    "locale": "ru",
-                    "property": "SHORT_NAME",
-                    "value": "мужской"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "NAME",
-                    "value": "Masculino"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "SHORT_NAME",
-                    "value": "Masculino"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "ذكور"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Masculin"
-                },
-                {
-                    "locale": "pt",
-                    "property": "SHORT_NAME",
-                    "value": "Masculino"
-                }
-            ]
         }
     ],
     "constants": [],
@@ -1922,13 +1989,15 @@
                 "userGroups": {
                     "WyU2lGUPLBv": {
                         "access": "rw------",
-                        "displayName": "Malaria admin",
                         "id": "WyU2lGUPLBv"
                     },
                     "fNt8hFGEo9d": {
                         "access": "r-------",
-                        "displayName": "Malaria access",
                         "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
                     }
                 },
                 "users": {}
@@ -1980,13 +2049,15 @@
                 "userGroups": {
                     "WyU2lGUPLBv": {
                         "access": "rw------",
-                        "displayName": "Malaria admin",
                         "id": "WyU2lGUPLBv"
                     },
                     "fNt8hFGEo9d": {
                         "access": "r-------",
-                        "displayName": "Malaria access",
                         "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
                     }
                 },
                 "users": {}
@@ -2038,13 +2109,15 @@
                 "userGroups": {
                     "WyU2lGUPLBv": {
                         "access": "rw------",
-                        "displayName": "Malaria admin",
                         "id": "WyU2lGUPLBv"
                     },
                     "fNt8hFGEo9d": {
                         "access": "r-------",
-                        "displayName": "Malaria access",
                         "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
                     }
                 },
                 "users": {}
@@ -2096,13 +2169,15 @@
                 "userGroups": {
                     "WyU2lGUPLBv": {
                         "access": "rw------",
-                        "displayName": "Malaria admin",
                         "id": "WyU2lGUPLBv"
                     },
                     "fNt8hFGEo9d": {
                         "access": "r-------",
-                        "displayName": "Malaria access",
                         "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
                     }
                 },
                 "users": {}
@@ -2154,13 +2229,15 @@
                 "userGroups": {
                     "WyU2lGUPLBv": {
                         "access": "rw------",
-                        "displayName": "Malaria admin",
                         "id": "WyU2lGUPLBv"
                     },
                     "fNt8hFGEo9d": {
                         "access": "r-------",
-                        "displayName": "Malaria access",
                         "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
                     }
                 },
                 "users": {}
@@ -2217,13 +2294,15 @@
                 "userGroups": {
                     "WyU2lGUPLBv": {
                         "access": "rw------",
-                        "displayName": "Malaria admin",
                         "id": "WyU2lGUPLBv"
                     },
                     "fNt8hFGEo9d": {
                         "access": "r-------",
-                        "displayName": "Malaria access",
                         "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
                     }
                 },
                 "users": {}
@@ -2275,13 +2354,15 @@
                 "userGroups": {
                     "WyU2lGUPLBv": {
                         "access": "rw------",
-                        "displayName": "Malaria admin",
                         "id": "WyU2lGUPLBv"
                     },
                     "fNt8hFGEo9d": {
                         "access": "r-------",
-                        "displayName": "Malaria access",
                         "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
                     }
                 },
                 "users": {}
@@ -2328,6 +2409,17 @@
             "dataSetElements": [
                 {
                     "categoryCombo": {
+                        "id": "VkQPxB6VdoG"
+                    },
+                    "dataElement": {
+                        "id": "CxI1FHE4oEh"
+                    },
+                    "dataSet": {
+                        "id": "e8BAh6eGcNE"
+                    }
+                },
+                {
+                    "categoryCombo": {
                         "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
@@ -2339,21 +2431,10 @@
                 },
                 {
                     "categoryCombo": {
-                        "id": "VkQPxB6VdoG"
+                        "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
-                        "id": "UwaQ0MJzXBz"
-                    },
-                    "dataSet": {
-                        "id": "e8BAh6eGcNE"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "VkQPxB6VdoG"
-                    },
-                    "dataElement": {
-                        "id": "CxI1FHE4oEh"
+                        "id": "S3AqkeU4DET"
                     },
                     "dataSet": {
                         "id": "e8BAh6eGcNE"
@@ -2372,10 +2453,10 @@
                 },
                 {
                     "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
+                        "id": "VkQPxB6VdoG"
                     },
                     "dataElement": {
-                        "id": "kdMT3AuDzj1"
+                        "id": "UwaQ0MJzXBz"
                     },
                     "dataSet": {
                         "id": "e8BAh6eGcNE"
@@ -2386,7 +2467,7 @@
                         "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
-                        "id": "S3AqkeU4DET"
+                        "id": "kdMT3AuDzj1"
                     },
                     "dataSet": {
                         "id": "e8BAh6eGcNE"
@@ -2411,21 +2492,18 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
+                "public": "r-r-----",
                 "userGroups": {
                     "WyU2lGUPLBv": {
                         "access": "rw------",
-                        "displayName": "Malaria admin",
                         "id": "WyU2lGUPLBv"
                     },
                     "fNt8hFGEo9d": {
-                        "access": "r-r-----",
-                        "displayName": "Malaria access",
+                        "access": "r-------",
                         "id": "fNt8hFGEo9d"
                     },
                     "vgxAJF9iDRX": {
-                        "access": "r-rw----",
-                        "displayName": "Malaria data capture",
+                        "access": "r-------",
                         "id": "vgxAJF9iDRX"
                     }
                 },
@@ -2480,13 +2558,15 @@
     "organisationUnitGroupSets": [],
     "organisationUnitGroups": [],
     "package": {
-        "DHIS2Build": "3009509",
-        "DHIS2Version": "2.39.0",
+        "DHIS2Build": "01ed9e0",
+        "DHIS2Version": "2.39.3.1",
         "code": "MAL_AGG_MMP",
         "description": "Malaria Mobile and Migrant Populations ",
-        "lastUpdated": "20230130T000627",
+        "healthAreaCode": "MAL",
+        "healthAreaName": "Malaria",
+        "lastUpdated": "20231208T010712",
         "locale": "en",
-        "name": "MAL_AGG_MMP_AGG_DHIS2.39.0-en",
+        "name": "MAL_AGG_MMP_AGG_DHIS2.39.3.1-en",
         "type": "AGG",
         "version": ""
     },
@@ -2562,13 +2642,15 @@
                 "userGroups": {
                     "WyU2lGUPLBv": {
                         "access": "rw------",
-                        "displayName": "Malaria admin",
                         "id": "WyU2lGUPLBv"
                     },
                     "fNt8hFGEo9d": {
                         "access": "r-------",
-                        "displayName": "Malaria access",
                         "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
                     }
                 },
                 "users": {}
@@ -2595,13 +2677,15 @@
                 "userGroups": {
                     "WyU2lGUPLBv": {
                         "access": "rw------",
-                        "displayName": "Malaria admin",
                         "id": "WyU2lGUPLBv"
                     },
                     "fNt8hFGEo9d": {
                         "access": "r-------",
-                        "displayName": "Malaria access",
                         "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
                     }
                 },
                 "users": {}
@@ -2617,24 +2701,26 @@
         },
         {
             "attributeValues": [],
-            "code": "MAL_AGG_CAPTURE",
+            "code": "MAL_AGG_DATA_CAPTURE",
             "id": "vgxAJF9iDRX",
             "managedGroups": [],
             "name": "Malaria data capture",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
+                "public": "r-------",
                 "userGroups": {
                     "WyU2lGUPLBv": {
                         "access": "rw------",
-                        "displayName": "Malaria admin",
                         "id": "WyU2lGUPLBv"
                     },
                     "fNt8hFGEo9d": {
                         "access": "r-------",
-                        "displayName": "Malaria access",
                         "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
                     }
                 },
                 "users": {}
@@ -2650,15 +2736,28 @@
         },
         {
             "attributeValues": [],
-            "code": "MAL_AGG_STK_CAPTURE",
+            "code": "MAL_AGG_STK_DATA_CAPTURE",
             "id": "s5MVdN5Ehkz",
             "managedGroups": [],
             "name": "Malaria stock data capture",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
                 "users": {}
             },
             "translations": [],
@@ -2673,8 +2772,21 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
                 "users": {}
             },
             "translations": [
@@ -2682,6 +2794,11 @@
                     "locale": "fr",
                     "property": "NAME",
                     "value": "Rôle d'utilisateur du package"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Rol de Usuario para Administrador de Paquetes"
                 }
             ]
         }
