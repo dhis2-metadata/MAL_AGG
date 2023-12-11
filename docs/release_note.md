@@ -1,5 +1,12 @@
 # Release Note { #mal-agg-release-note }
 
+## 2.1.1
+This is a compatibility release for DHIS2 2.39 and 40, that also includes one minor fix:
+
+- maps that previously used _fixed_ periods have been updated to use _relative_ periods
+
+
+
 ## 2.1.0
 
 The 2.1.0 of the malaria package is an expansion of the version 2.0.0 comprising primarily:
