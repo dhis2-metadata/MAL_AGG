@@ -9,6 +9,7 @@
 - [Version 2.1.1](#mal-agg-design)
 - [Malaria Data Quality Dashboard](#mal-agg-dq-design)
 - [Malaria Stock](#mal-agg-stk-design)
+- [Malaria vaccine](#integrating-malaria-vaccination-data-into-dhis2)
 
 ## Installation
 
