@@ -1,4 +1,4 @@
-# Malaria logistics { #mal-agg-stk-design }
+# Malaria logistics
 
 ## Malaria logistics design
 
