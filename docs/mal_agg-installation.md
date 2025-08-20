@@ -14,9 +14,7 @@ The metadata package consists of the following modules:
 - Malaria Burden Reduction and Elimination
 - Malaria Burden Reduction and Elimination (dashboard)
 - Malaria Data Quality (dashboard)
-- Malaria Mobile and Migrant Populations 
-- Malaria Stock 
-- Malaria Stock (dashboard)
+- Malaria Mobile and Migrant Populations
 
 ## Installation
 
