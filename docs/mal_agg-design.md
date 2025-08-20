@@ -142,13 +142,6 @@ Several of the data elements in this section are subsets of one another. Making 
 
 The foci classification category combination (Active, Residual, Cleared-up) allows for simplified classification of the data elements based on the three foci category options. The total of this category combination when applied to the data elements is useful for analysis as well.
 
-#### Stock-out
-
-![Stock management](resources/images/MAL_ME_007.png)
-
-These data elements are all of yes/no type. No disaggregations required.
-This section can be removed should the implementation require the uptake of the [MAL - Malaria stock dataset](https://docs.dhis2.org/en/topics/metadata/malaria/malaria-logistics/malaria-logistics-design.html) within the Malaria Package.
-
 ## Analytics and Indicators
 
 The full list of indicators and indicator groups is available in the Malaria Metadata Reference File.
@@ -177,7 +170,6 @@ The Malaria package includes nine predefined dashboards, each focusing on differ
 - MAL - 6.Malaria Quality Control
 - MAL - 7.Malaria Data Quality
 - MAL - 8.Malaria Elimination
-- MAL - 9.Malaria Stock
 - MAL - 10.Malaria District Dashboard
 
 The full list of items (graphs and tables) available in each dashboard is available in the Malaria Metadata Reference File.
