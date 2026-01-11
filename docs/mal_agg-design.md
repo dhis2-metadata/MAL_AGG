@@ -2,19 +2,15 @@
 
 Version 2.1.0
 
-## Background and Purpose
+## Introduction
 
-The Malaria Core Aggregate System Design document provides an overview of the design principles and guidance used to develop the digital data package for routine aggregate malaria reporting in countries’ HMIS. This document is intended for use by DHIS2 implementers at country and regional level to be able to support implementation and localisation of the package. The Malaria metadata package can be adapted to local needs and national guidelines. In particular, local work flows and national guidelines should be considered in the localization and adoption of the programs included in this package.
-
-The data sets have all been based either on WHO recommendations and best-practice examples or published reporting frameworks [Disease surveillance for malaria control](https://apps.who.int/iris/bitstream/handle/10665/44851/9789241503341_eng.pdf;jsessionid=7D2258370F31444A72815B5CFB2E1FE8?ua=1?sequence=1).
-
-These data sets will in many instances have to be adjusted to fit with national reporting systems, to varying degrees. On the one hand, there might be additional variables that are important in a national context which must be added. On the other hand, there might be information that is simply not available for reporting, for example if the data is not captured in the case-based registers at the clinical level.
+This document provides an overview of the design principles and guidance used to integrate routine malaria programme data and analyses into a national HMIS. The design contains datasets and indicators for burden reduction and elimination settings which can be selectively deployed at sub-national level according to stratification. Reference dashboards, indicators and data elements are based on the WHO Global Malaria Programme recommendations from [Disease Surveillance for Malaria Control: an operational manual(2018)](https://iris.who.int/bitstream/handle/10665/272284/9789241565578-eng.pdf) and the [Global Technical Strategy for Malaria: 2016-2030](https://www.who.int/publications/i/item/9789241564991). 
 
 ## System Design Overview
 
-### Package Structure
+### Structure
 
-The malaria program consists of 3 different data sets that can be used at any given time based on the needs of the program:
+The malaria module consists of three main datasets that can be selected and used according to sub-national stratification. Datasets represent annual inputs such as population at risk; and routine data from public facilities, private facilities and communities to provide a comprehensive picture of malaria surveillance indicators and programme monitoring metrics. 
 
 | Dataset                  | Description     |
 |---------|--------|
@@ -28,14 +24,14 @@ The malaria program consists of 3 different data sets that can be used at any gi
 
 ### Data Elements
 
-The full list of data elements belonging to the different datasets can be found in the Malaria Metadata Reference File.
-
-Please note that there are a number of additional data elements that could potentially be used within the Malaria Burden Reduction and Malaria Elimination data sets, however are not currently assigned to either of the datasets. These data elements can be found within the Malaria unassigned data element group.
+The full list of data elements belonging to the different datasets can be found in the Metadata Reference File. 
 
 | Dataset                  | Unassigned DEs       |
 |--------------------------|----|
 | Malaria Burden Reduction | Migrant and mobile population (MMP) positive<br>Malaria cases tested at community level<br>Malaria confirmed cases (Mic + RDT)<br>Plasmodium falciparum (Mic + RDT)<br>Malaria cases positive at community level<br>Migrant and mobile population (MMP) tested<br>Migrant and mobile population (MMP) followed up for 14 days<br>Mixed malaria species (Mic + RDT)<br>Plasmodium vivax (Mic + RDT)<br>Malaria tested cases (Mic + RDT)<br>Malaria cases treated at community level<br>Mixed/Other malaria species (Mic + RDT) |
 | Malaria Elimination      | Malaria tested from cross-borders<br>Malaria cases notified within (N1) timeframe of the guideline (24hrs)<br>Malaria cases investigated within (N2)* timeframe of the guideline<br>Malaria positive from cross-borders followed for 14 days<br>Malaria positive from cross-borders<br>Other malaria species (microscopy)      |
+
+Optional data elements: there are a number of additional data elements that could potentially be used within the Malaria Burden Reduction and Malaria Elimination data sets, however are not currently assigned to either of the datasets. These data elements can be found within the Malaria unassigned data element group.
 
 ### Intended users
 
@@ -49,7 +45,7 @@ Please note that there are a number of additional data elements that could poten
 
 ![Population at risk](resources/images/MAL_POP_001.png)
 
-This disaggregation of the population was set as a category combination, as it is more efficient to disaggregate this population data element by the three age category options rather than create three data elements separately.
+The disaggregation of the population by age is represented as a Category Combination assigned to the data element.
 
 #### Interventions
 
