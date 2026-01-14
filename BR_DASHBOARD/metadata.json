@@ -12651,7 +12651,7 @@
         "description": "Malaria Burden Reduction and Elimination (dashboard)",
         "healthAreaCode": "MAL",
         "healthAreaName": "Malaria",
-        "lastUpdated": "20260114T092755",
+        "lastUpdated": "20260114T113055",
         "locale": "en",
         "name": "MAL_AGG_BR_DSH_DHIS2.41.7-en",
         "type": "DSH",
@@ -12660,7 +12660,7 @@
     "userGroups": [
         {
             "attributeValues": [],
-            "code": "MAL_AGG_ACCESS",
+            "code": "MAL_AGG_BR_ACCESS",
             "id": "fNt8hFGEo9d",
             "managedGroups": [],
             "name": "Malaria access",
@@ -12695,7 +12695,7 @@
         },
         {
             "attributeValues": [],
-            "code": "MAL_AGG_ADMIN",
+            "code": "MAL_AGG_BR_ADMIN",
             "id": "WyU2lGUPLBv",
             "managedGroups": [],
             "name": "Malaria admin",
@@ -12730,7 +12730,7 @@
         },
         {
             "attributeValues": [],
-            "code": "MAL_AGG_DATA_CAPTURE",
+            "code": "MAL_AGG_BR_DATA_CAPTURE",
             "id": "vgxAJF9iDRX",
             "managedGroups": [],
             "name": "Malaria data capture",
@@ -12761,35 +12761,6 @@
                     "value": "Saisie des données Paludisme"
                 }
             ],
-            "users": []
-        },
-        {
-            "attributeValues": [],
-            "code": "MAL_AGG_STK_DATA_CAPTURE",
-            "id": "s5MVdN5Ehkz",
-            "managedGroups": [],
-            "name": "Malaria stock data capture",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    },
-                    "vgxAJF9iDRX": {
-                        "access": "r-------",
-                        "id": "vgxAJF9iDRX"
-                    }
-                },
-                "users": {}
-            },
-            "translations": [],
             "users": []
         }
     ],
