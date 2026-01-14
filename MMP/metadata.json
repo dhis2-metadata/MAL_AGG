@@ -1096,7 +1096,29 @@
                         "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
+                        "id": "CWHBMa4nC9J"
+                    },
+                    "dataSet": {
+                        "id": "e8BAh6eGcNE"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "bjDvmb4bfuf"
+                    },
+                    "dataElement": {
                         "id": "kdMT3AuDzj1"
+                    },
+                    "dataSet": {
+                        "id": "e8BAh6eGcNE"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "bjDvmb4bfuf"
+                    },
+                    "dataElement": {
+                        "id": "wAHUeGPbH9A"
                     },
                     "dataSet": {
                         "id": "e8BAh6eGcNE"
@@ -1126,17 +1148,6 @@
                 },
                 {
                     "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
-                    "dataElement": {
-                        "id": "wAHUeGPbH9A"
-                    },
-                    "dataSet": {
-                        "id": "e8BAh6eGcNE"
-                    }
-                },
-                {
-                    "categoryCombo": {
                         "id": "VkQPxB6VdoG"
                     },
                     "dataElement": {
@@ -1145,21 +1156,10 @@
                     "dataSet": {
                         "id": "e8BAh6eGcNE"
                     }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
-                    "dataElement": {
-                        "id": "CWHBMa4nC9J"
-                    },
-                    "dataSet": {
-                        "id": "e8BAh6eGcNE"
-                    }
                 }
             ],
             "description": "Data set used only for grouping data elements that should be included in the Malaria package, but which are not in the regular data sets.",
-            "expiryDays": 0,
+            "expiryDays": 0.0,
             "fieldCombinationRequired": false,
             "id": "e8BAh6eGcNE",
             "indicators": [],
@@ -1170,6 +1170,7 @@
             "notifyCompletingUser": false,
             "openFuturePeriods": 0,
             "openPeriodsAfterCoEndDate": 0,
+            "organisationUnits": [],
             "periodType": "Monthly",
             "renderAsTabs": false,
             "renderHorizontally": false,
@@ -1224,7 +1225,7 @@
                 }
             ],
             "validCompleteOnly": false,
-            "version": 23
+            "version": 22
         }
     ],
     "documents": [],
@@ -1242,15 +1243,15 @@
     "organisationUnitGroupSets": [],
     "organisationUnitGroups": [],
     "package": {
-        "DHIS2Build": "6f7e169",
-        "DHIS2Version": "2.41.7",
+        "DHIS2Build": "86f1508",
+        "DHIS2Version": "2.42.3.1",
         "code": "MAL_AGG_MMP",
         "description": "Malaria Mobile and Migrant Populations ",
         "healthAreaCode": "MAL",
         "healthAreaName": "Malaria",
-        "lastUpdated": "20260114T114434",
+        "lastUpdated": "20260114T192812",
         "locale": "en",
-        "name": "MAL_AGG_MMP_AGG_DHIS2.41.7-en",
+        "name": "MAL_AGG_MMP_AGG_DHIS2.42.3.1-en",
         "type": "AGG",
         "version": ""
     },
@@ -1471,6 +1472,7 @@
             "id": "vUeLeQMSwhN",
             "invitation": false,
             "lastLogin": "2020-04-23T09:17:46.912",
+            "name": "package admin",
             "organisationUnits": [],
             "passwordLastUpdated": "2022-08-17T12:56:38.395",
             "selfRegistered": false,
