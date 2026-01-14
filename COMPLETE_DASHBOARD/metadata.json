@@ -4175,10 +4175,10 @@
                     "id": "Ffi38WOC65w"
                 },
                 {
-                    "id": "acDxsQjnEof"
+                    "id": "vhyDSNQZKw3"
                 },
                 {
-                    "id": "vhyDSNQZKw3"
+                    "id": "acDxsQjnEof"
                 },
                 {
                     "id": "lRBSFNlbk3D"
@@ -4583,30 +4583,6 @@
                     "id": "tIWGvDkU6lb"
                 },
                 {
-                    "id": "dASLnPMS8L8"
-                },
-                {
-                    "id": "dKbHt6OB5x1"
-                },
-                {
-                    "id": "vK4qNvAtZsG"
-                },
-                {
-                    "id": "rPYLomUceL4"
-                },
-                {
-                    "id": "EEuvMCljxc9"
-                },
-                {
-                    "id": "A1o8U4zmzvA"
-                },
-                {
-                    "id": "blS3OjRXn0c"
-                },
-                {
-                    "id": "JZegZ4SDzDs"
-                },
-                {
                     "id": "hAAyWEh4Xf0"
                 },
                 {
@@ -4616,7 +4592,16 @@
                     "id": "VoN285Q7FQG"
                 },
                 {
+                    "id": "dASLnPMS8L8"
+                },
+                {
+                    "id": "dKbHt6OB5x1"
+                },
+                {
                     "id": "Uzmk0S9IwWn"
+                },
+                {
+                    "id": "vK4qNvAtZsG"
                 },
                 {
                     "id": "bZojnzkbvrZ"
@@ -4628,16 +4613,31 @@
                     "id": "yC9EwmnP8L0"
                 },
                 {
+                    "id": "rPYLomUceL4"
+                },
+                {
                     "id": "RLxhxT7sO0R"
                 },
                 {
                     "id": "fvSA2BtaTBX"
                 },
                 {
+                    "id": "EEuvMCljxc9"
+                },
+                {
                     "id": "npqu6fhBVpe"
                 },
                 {
                     "id": "bA6kgEyRkg0"
+                },
+                {
+                    "id": "A1o8U4zmzvA"
+                },
+                {
+                    "id": "blS3OjRXn0c"
+                },
+                {
+                    "id": "JZegZ4SDzDs"
                 }
             ],
             "name": "Malaria elimination",
@@ -4675,10 +4675,22 @@
             "id": "IHFoEstZjfl",
             "indicators": [
                 {
+                    "id": "zCXWGi6fEsw"
+                },
+                {
+                    "id": "eGISFgA3Cah"
+                },
+                {
                     "id": "s4n3zSyciLw"
                 },
                 {
+                    "id": "RBnVKphd48z"
+                },
+                {
                     "id": "RoeRc4k513l"
+                },
+                {
+                    "id": "OzpsrdzqZXp"
                 },
                 {
                     "id": "TkwXRuRQSYi"
@@ -4687,94 +4699,10 @@
                     "id": "HESD7pkLakc"
                 },
                 {
-                    "id": "mm9hChdAyl3"
-                },
-                {
-                    "id": "bmjvOFB90Se"
-                },
-                {
-                    "id": "tCFll2clsVs"
-                },
-                {
-                    "id": "LlI38w39pwW"
-                },
-                {
-                    "id": "hjdbr1rTKff"
-                },
-                {
-                    "id": "oXCc5MR3LLi"
-                },
-                {
-                    "id": "t7lgbT05u3k"
-                },
-                {
-                    "id": "xi2S1d7LJBc"
-                },
-                {
-                    "id": "DZTSUh1DFyX"
-                },
-                {
-                    "id": "sUuIRRJgHDl"
-                },
-                {
-                    "id": "fqkymAhfnbg"
-                },
-                {
-                    "id": "h0iRcZhDsLe"
-                },
-                {
-                    "id": "xiI6aQRNUVX"
-                },
-                {
-                    "id": "W34cMM4atBf"
-                },
-                {
-                    "id": "Dh4kab2L39R"
-                },
-                {
-                    "id": "fkSnzZMYE4F"
-                },
-                {
-                    "id": "iEUye81vR8U"
-                },
-                {
-                    "id": "DEURBGqN6fO"
-                },
-                {
-                    "id": "DpbZBWj6bLQ"
-                },
-                {
-                    "id": "WxXtpE1zdeJ"
-                },
-                {
-                    "id": "lCUNJpZTDQJ"
-                },
-                {
-                    "id": "hGNzrW1xbQN"
-                },
-                {
-                    "id": "p2s6iZcpke1"
-                },
-                {
-                    "id": "zKXBN1jGXIu"
-                },
-                {
-                    "id": "o3FTGfWDUpz"
-                },
-                {
-                    "id": "zCXWGi6fEsw"
-                },
-                {
-                    "id": "eGISFgA3Cah"
-                },
-                {
-                    "id": "RBnVKphd48z"
-                },
-                {
-                    "id": "OzpsrdzqZXp"
-                },
-                {
                     "id": "pDC6NBURuaz"
+                },
+                {
+                    "id": "mm9hChdAyl3"
                 },
                 {
                     "id": "tS54JH4t0KS"
@@ -4798,6 +4726,12 @@
                     "id": "Rf6DhpY8DeK"
                 },
                 {
+                    "id": "bmjvOFB90Se"
+                },
+                {
+                    "id": "tCFll2clsVs"
+                },
+                {
                     "id": "LboUZfKr9EP"
                 },
                 {
@@ -4810,13 +4744,37 @@
                     "id": "ClIrLxTeQgG"
                 },
                 {
+                    "id": "LlI38w39pwW"
+                },
+                {
+                    "id": "hjdbr1rTKff"
+                },
+                {
+                    "id": "oXCc5MR3LLi"
+                },
+                {
                     "id": "rL482g0s5JL"
                 },
                 {
                     "id": "vBNyVNLGZ5D"
                 },
                 {
+                    "id": "t7lgbT05u3k"
+                },
+                {
+                    "id": "xi2S1d7LJBc"
+                },
+                {
                     "id": "hCj9BqpyMvT"
+                },
+                {
+                    "id": "DZTSUh1DFyX"
+                },
+                {
+                    "id": "sUuIRRJgHDl"
+                },
+                {
+                    "id": "fqkymAhfnbg"
                 },
                 {
                     "id": "YX7dJbo7uTA"
@@ -4834,13 +4792,40 @@
                     "id": "UdyTo2oqzZO"
                 },
                 {
+                    "id": "h0iRcZhDsLe"
+                },
+                {
                     "id": "foz7nuOFMNR"
+                },
+                {
+                    "id": "xiI6aQRNUVX"
+                },
+                {
+                    "id": "W34cMM4atBf"
+                },
+                {
+                    "id": "Dh4kab2L39R"
+                },
+                {
+                    "id": "fkSnzZMYE4F"
+                },
+                {
+                    "id": "iEUye81vR8U"
+                },
+                {
+                    "id": "DEURBGqN6fO"
+                },
+                {
+                    "id": "DpbZBWj6bLQ"
                 },
                 {
                     "id": "sj3URzajB3C"
                 },
                 {
                     "id": "ajmJXVocM7a"
+                },
+                {
+                    "id": "WxXtpE1zdeJ"
                 },
                 {
                     "id": "J3UT51fnJjS"
@@ -4850,6 +4835,9 @@
                 },
                 {
                     "id": "x4CIsntvniz"
+                },
+                {
+                    "id": "lCUNJpZTDQJ"
                 },
                 {
                     "id": "psJy41rJsiE"
@@ -4876,6 +4864,9 @@
                     "id": "BI6l7Poo65o"
                 },
                 {
+                    "id": "hGNzrW1xbQN"
+                },
+                {
                     "id": "IeUbxBdwDTf"
                 },
                 {
@@ -4885,7 +4876,16 @@
                     "id": "GNvUj6KNaDM"
                 },
                 {
+                    "id": "p2s6iZcpke1"
+                },
+                {
+                    "id": "zKXBN1jGXIu"
+                },
+                {
                     "id": "Yf0KTxLcRPE"
+                },
+                {
+                    "id": "o3FTGfWDUpz"
                 },
                 {
                     "id": "wswCPFCyUG8"
@@ -6186,6 +6186,55 @@
             ]
         },
         {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_INPATIENT_CASE_INCIDENCE",
+            "denominator": -1,
+            "denominatorDescription": "Population at risk",
+            "description": "Number of malaria cases admitted to hospital as inpatients per 10 000 population",
+            "id": "GpjDncqiZRS",
+            "indicatorType": {
+                "id": "FWTvArgP0jt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL - Inpatient malaria case incidence (Per 10,000)",
+            "numerator": -1,
+            "numeratorDescription": "Inpatient malaria cases",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Inpatient malaria case incidence (Per 10,000)",
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "Obyvatelstvo v ohrožení"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "Population à risque"
+                }
+            ]
+        },
+        {
             "annualized": true,
             "attributeValues": [],
             "code": "MAL_IPD_MAL_CASE_INC_10K",
@@ -6246,55 +6295,6 @@
                     "locale": "fr",
                     "property": "DESCRIPTION",
                     "value": "Incidence des cas de paludisme chez les patients hospitalisés pour 10 000 habitants au cours d'une période donnée (nombre de cas hospitalisés avec un diagnostic de paludisme à la sortie x 10 000/nombre de personnes à risque d'infection par le paludisme au cours de l'année de référence)"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "MAL_INPATIENT_CASE_INCIDENCE",
-            "denominator": -1,
-            "denominatorDescription": "Population at risk",
-            "description": "Number of malaria cases admitted to hospital as inpatients per 10 000 population",
-            "id": "GpjDncqiZRS",
-            "indicatorType": {
-                "id": "FWTvArgP0jt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] MAL - Inpatient malaria case incidence (Per 10,000)",
-            "numerator": -1,
-            "numeratorDescription": "Inpatient malaria cases",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    },
-                    "vgxAJF9iDRX": {
-                        "access": "r-------",
-                        "id": "vgxAJF9iDRX"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Inpatient malaria case incidence (Per 10,000)",
-            "translations": [
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "Obyvatelstvo v ohrožení"
-                },
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "Population à risque"
                 }
             ]
         },
@@ -11277,60 +11277,6 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "MAL_PER_ACTS_AVAILABLE",
-            "decimals": 1,
-            "denominator": -1,
-            "denominatorDescription": "Number of Districts",
-            "id": "t7lgbT05u3k",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] MAL - ACTs availability (% of health facility with stock)",
-            "numerator": -1,
-            "numeratorDescription": "MAL - Stock-out of ACT - Adult - Pack",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    },
-                    "vgxAJF9iDRX": {
-                        "access": "r-------",
-                        "id": "vgxAJF9iDRX"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "ACTs availability (% of HF with stock)",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "PALU - Disponibilité des CTAs (% de l'établissement de santé avec stock)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "Rupture de stock de CTA - Adult"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Disponibilité des CTAs (% de FS avec stock)"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
             "code": "MAL_ACT_REDISTRIBUTED",
             "denominator": -1,
             "denominatorDescription": "1",
@@ -11533,6 +11479,94 @@
         {
             "annualized": false,
             "attributeValues": [],
+            "code": "MAL_ACT_DISCREPANCY",
+            "denominator": -1,
+            "denominatorDescription": "stock on hand",
+            "description": "Percentage of the item's stock discrepancy [Stock on hand - Closing balance] / Stock on hand",
+            "id": "zCXWGi6fEsw",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [
+                {
+                    "id": "pxeFezcPnQl"
+                }
+            ],
+            "name": "[CONFIG] MAL - ACT stock discrepancy (%)",
+            "numerator": -1,
+            "numeratorDescription": "ACT stock discrepancy",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "ACT stock discrepancy (%)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Pourcentage d'écart de stock de l'article [Stock disponible - Bilan de clôture] / Stock disponible"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DESCRIPTION",
+                    "value": "Procento nesrovnalosti na skladě položky [Skladem – Konečný zůstatek] / Skladem"
+                },
+                {
+                    "locale": "es",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
             "code": "MAL_ACT_STOCKOUT_DAYS",
             "denominator": -1,
             "denominatorDescription": "1",
@@ -11630,6 +11664,65 @@
                     "locale": "pt",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "ACT_WASTAGE_RATE",
+            "denominator": -1,
+            "denominatorDescription": "Stock used=([Closing balance]-[Stock at hand]) + discarded + dispensed to patient)",
+            "description": "Stock wasted=([Closing balance]-[Stock at hand]) + discarded)",
+            "id": "RBnVKphd48z",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL - ACT wastage rate (%)",
+            "numerator": -1,
+            "numeratorDescription": "Stock wasted=([Closing balance]-[Stock at hand]) + discarded)",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "ACT wastage rate",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "Stock utilisé=([Bilan de clôture]-[Stock disponible]) + perdu + distribué au patient)"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "Použité zásoby = ([Konečný zůstatek]-[Zásoby skladem]) + vyřazeno + vydáno pacientovi)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Stock gaspillé=([Bilan de clôture-[Stock disponible]) + jeté)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Stock gaspillé=([Bilan de clôture-[Stock disponible]) + jeté)"
                 }
             ]
         },
@@ -11960,204 +12053,6 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "MAL_ARTESUNATE_ISSUED",
-            "denominator": -1,
-            "denominatorDescription": "1",
-            "description": "Number of Artesunate issued from the facility's stock",
-            "id": "tCFll2clsVs",
-            "indicatorType": {
-                "id": "kHy61PbChXr"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] MAL - Artesunate issued",
-            "numerator": -1,
-            "numeratorDescription": "MAL - Artesunate issued",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    },
-                    "vgxAJF9iDRX": {
-                        "access": "r-------",
-                        "id": "vgxAJF9iDRX"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Artesunate issued",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "es",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ru",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "MAL_ARTESUNATE_RECV",
-            "denominator": -1,
-            "denominatorDescription": "1",
-            "description": "Number of Artesunate received in the facility's stock",
-            "id": "sUuIRRJgHDl",
-            "indicatorType": {
-                "id": "kHy61PbChXr"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] MAL - Artesunate received",
-            "numerator": -1,
-            "numeratorDescription": "MAL - Artesunate received",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    },
-                    "vgxAJF9iDRX": {
-                        "access": "r-------",
-                        "id": "vgxAJF9iDRX"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Artesunate received",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "es",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ru",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
             "code": "MAL_ARTESUNATE_REDISTRIBUTED",
             "denominator": -1,
             "denominatorDescription": "1",
@@ -12191,105 +12086,6 @@
                 "users": {}
             },
             "shortName": "Artesunate redistributed",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "es",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ru",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "MAL_ARTESUNATE_STOCK_ON_HAND",
-            "denominator": -1,
-            "denominatorDescription": "1",
-            "description": "Number of Artesunate stock on hand",
-            "id": "h0iRcZhDsLe",
-            "indicatorType": {
-                "id": "kHy61PbChXr"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] MAL - Artesunate stock on hand",
-            "numerator": -1,
-            "numeratorDescription": "MAL - Artesunate stock on hand",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    },
-                    "vgxAJF9iDRX": {
-                        "access": "r-------",
-                        "id": "vgxAJF9iDRX"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Artesunate stock on hand",
             "translations": [
                 {
                     "locale": "fr",
@@ -13120,18 +12916,18 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "HF_WITH_RDTS_STOCKOUT_DAYS_%",
+            "code": "HF_WITH_ACT_STOCKOUT_DAYS_%",
             "denominator": -1,
             "denominatorDescription": "HF reporting stockout days",
-            "description": "Proportion of health facilities with RDTs stockout days",
-            "id": "oXCc5MR3LLi",
+            "description": "Proportion of health facilities with ACT stockout days",
+            "id": "tS54JH4t0KS",
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
             "legendSets": [],
-            "name": "[CONFIG] MAL - Health facilities with RDTs stock-out days (%)",
+            "name": "[CONFIG] MAL - Health facilities with ACT stock-out days (%)",
             "numerator": -1,
-            "numeratorDescription": "HF with RDTs stockout days reported",
+            "numeratorDescription": "HF with ACT stockout days reported",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -13152,7 +12948,51 @@
                 },
                 "users": {}
             },
-            "shortName": "HF with RDTs stockout days (%)",
+            "shortName": "HF without ACT stockout days (%)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "CS signale les jours de rupture de stock"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "HF_WITH_SP_STOCKOUT_DAYS_%",
+            "denominator": -1,
+            "denominatorDescription": "HF reporting stockout days",
+            "description": "Proportion of health facilities with SP stockout days",
+            "id": "OzpsrdzqZXp",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL - Health facilities with Sulfadoxine-pyrimethamine stockout days (%)",
+            "numerator": -1,
+            "numeratorDescription": "HF with SP stockout days reported",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "HF with SP stockout days (%)",
             "translations": [
                 {
                     "locale": "fr",
@@ -13334,6 +13174,105 @@
         {
             "annualized": false,
             "attributeValues": [],
+            "code": "MAL_LLIN_CLOSING_BAL",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "description": "Number of LLIN as closing balance [Opening balance + Received - Issued - Redistributed - Discarded] at the end of the reporting period",
+            "id": "ket0CCCIHKs",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL - LLIN closing balance",
+            "numerator": -1,
+            "numeratorDescription": "LLIN closing bal",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "LLIN closing balance",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ru",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
             "code": "MAL_LLIN_DISCARDED",
             "denominator": -1,
             "denominatorDescription": "1",
@@ -13367,6 +13306,105 @@
                 "users": {}
             },
             "shortName": "LLIN discarded",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ru",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_LLIN_ISSUED",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "description": "Number of LLIN issued from the facility's stock",
+            "id": "uihjx61H8ai",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL - LLIN issued",
+            "numerator": -1,
+            "numeratorDescription": "MAL - LLIN issued",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "LLIN issued",
             "translations": [
                 {
                     "locale": "fr",
@@ -13531,6 +13569,109 @@
                     "locale": "nb",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_LLIN_COVERAGE_TIME",
+            "decimals": 0,
+            "denominator": -1,
+            "denominatorDescription": "consumed stock",
+            "id": "QJv5i3fzFBJ",
+            "indicatorType": {
+                "id": "k4RGC3sMTzO"
+            },
+            "legendSets": [
+                {
+                    "id": "f1hWZIYCTzc"
+                }
+            ],
+            "name": "[CONFIG] MAL - LLIN stock coverage time",
+            "numerator": -1,
+            "numeratorDescription": "usable stock",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "LLIN stock coverage time",
+            "translations": [
+                {
+                    "locale": "ar",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "المخزون القابل للاستخدام"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "použitelné zásoby"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "المخزون المستهلك"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "المخزون المستهلك"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "المخزون القابل للاستخدام"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "stock utilisable"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "spotřebované zásoby"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "stock consommé"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "المخزون القابل للاستخدام"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "المخزون المستهلك"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "المخزون القابل للاستخدام"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "المخزون المستهلك"
                 }
             ]
         },
@@ -14146,109 +14287,6 @@
             ]
         },
         {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "MAL_PMQ_COVERAGE_TIME",
-            "decimals": 0,
-            "denominator": -1,
-            "denominatorDescription": "consumed stock",
-            "id": "LlI38w39pwW",
-            "indicatorType": {
-                "id": "k4RGC3sMTzO"
-            },
-            "legendSets": [
-                {
-                    "id": "f1hWZIYCTzc"
-                }
-            ],
-            "name": "[CONFIG] MAL - PMQ stock coverage time",
-            "numerator": -1,
-            "numeratorDescription": "usable stock",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    },
-                    "vgxAJF9iDRX": {
-                        "access": "r-------",
-                        "id": "vgxAJF9iDRX"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "PMQ stock coverage time",
-            "translations": [
-                {
-                    "locale": "ar",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "المخزون القابل للاستخدام"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "použitelné zásoby"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "المخزون المستهلك"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "المخزون المستهلك"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "المخزون القابل للاستخدام"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "stock utilisable"
-                },
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "spotřebované zásoby"
-                },
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "stock consommé"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "المخزون القابل للاستخدام"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "المخزون المستهلك"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "المخزون القابل للاستخدام"
-                },
-                {
-                    "locale": "ar",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "المخزون المستهلك"
-                }
-            ]
-        },
-        {
             "annualized": true,
             "attributeValues": [],
             "code": "MAL_PER_POP_COV_BY_LLINS",
@@ -14554,109 +14592,6 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "MAL_PRIMAQUINE_STOCKOUT_DAYS",
-            "denominator": -1,
-            "denominatorDescription": "1",
-            "description": "Number of days when the facility was stocked out of Primaquine (at any point during the day) during the reporting period.",
-            "id": "DZTSUh1DFyX",
-            "indicatorType": {
-                "id": "kHy61PbChXr"
-            },
-            "legendSets": [
-                {
-                    "id": "lY1SvO1BnVg"
-                }
-            ],
-            "name": "[CONFIG] MAL - Primaquine stock out days",
-            "numerator": -1,
-            "numeratorDescription": "Primaquine stock out days",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    },
-                    "vgxAJF9iDRX": {
-                        "access": "r-------",
-                        "id": "vgxAJF9iDRX"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Primaquine stock out days",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "es",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ru",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
             "code": "MAL_PER_FOCI_ZERO_LOCAL_CASES",
             "denominator": -1,
             "denominatorDescription": "New foci identified",
@@ -14770,110 +14705,6 @@
                     "locale": "pt_BR",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "Casos confirmados de malária"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "MAL_RDTS_RECV",
-            "denominator": -1,
-            "denominatorDescription": "1",
-            "description": "Number of RDTs received in the facility's stock",
-            "id": "fqkymAhfnbg",
-            "indicatorType": {
-                "id": "kHy61PbChXr"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] MAL - RDT kits received",
-            "numerator": -1,
-            "numeratorDescription": "MAL - RDT kits received",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    },
-                    "vgxAJF9iDRX": {
-                        "access": "r-------",
-                        "id": "vgxAJF9iDRX"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "RDTs received",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "es",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ru",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "TDR reçus"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
                 }
             ]
         },
@@ -15050,18 +14881,18 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "MAL_RDT_CLOSING_BAL",
+            "code": "MAL_PER_RDTS_AVAILABLE",
+            "decimals": 1,
             "denominator": -1,
-            "denominatorDescription": "1",
-            "description": "Number of RDTs as closing balance [Opening balance + Received - Issued - Redistributed - Discarded] at the end of the reporting period",
-            "id": "xi2S1d7LJBc",
+            "denominatorDescription": "Number of Districts",
+            "id": "eGISFgA3Cah",
             "indicatorType": {
-                "id": "kHy61PbChXr"
+                "id": "hmSnCXmLYwt"
             },
             "legendSets": [],
-            "name": "[CONFIG] MAL - RDTs closing balance",
+            "name": "[CONFIG] MAL - RDTs availability (% of health facility with stock)",
             "numerator": -1,
-            "numeratorDescription": "RDTs closing bal",
+            "numeratorDescription": "MAL - Stock-out of RDT malaria kits",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -15082,67 +14913,184 @@
                 },
                 "users": {}
             },
-            "shortName": "RDTs closing balance",
+            "shortName": "RDTs availability (% of HF with stock)",
             "translations": [
                 {
                     "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "property": "NAME",
+                    "value": "MAL - disponibilité des TDR (% de l'établissement de santé disposant d'un stock)"
                 },
                 {
-                    "locale": "es",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Disponibilité des RDT (% de HF avec stock)"
                 },
                 {
-                    "locale": "es_US",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Rupture de stock de TDR"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_RDT_COVERAGE_TIME",
+            "decimals": 0,
+            "denominator": -1,
+            "denominatorDescription": "consumed stock",
+            "id": "eiom58iY0UA",
+            "indicatorType": {
+                "id": "k4RGC3sMTzO"
+            },
+            "legendSets": [
+                {
+                    "id": "f1hWZIYCTzc"
+                }
+            ],
+            "name": "[CONFIG] MAL - RDT stock coverage time",
+            "numerator": -1,
+            "numeratorDescription": "usable stock",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "RDT stock coverage time",
+            "translations": [
+                {
+                    "locale": "ar",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "المخزون القابل للاستخدام"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "použitelné zásoby"
                 },
                 {
                     "locale": "ar_SD",
                     "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "value": "المخزون المستهلك"
                 },
                 {
                     "locale": "ar_IQ",
                     "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "value": "المخزون المستهلك"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "المخزون القابل للاستخدام"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "stock utilisable"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "spotřebované zásoby"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "stock consommé"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "المخزون القابل للاستخدام"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "المخزون المستهلك"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "المخزون القابل للاستخدام"
                 },
                 {
                     "locale": "ar",
                     "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "value": "المخزون المستهلك"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "RDTS_WASTAGE_RATE",
+            "denominator": -1,
+            "denominatorDescription": "Stock used=([Closing balance]-[Stock at hand]) + discarded + dispensed to patient)",
+            "description": "Stock wasted=([Closing balance]-[Stock at hand]) + discarded)",
+            "id": "pDC6NBURuaz",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL - RDTs wastage rate (%)",
+            "numerator": -1,
+            "numeratorDescription": "Stock wasted=([Closing balance]-[Stock at hand]) + discarded)",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "RDTs wastage rate",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "Stock utilisé=([Bilan de clôture]-[Stock disponible]) + perdu + distribué au patient)"
                 },
                 {
-                    "locale": "nb",
+                    "locale": "cs",
                     "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "value": "Použité zásoby = ([Konečný zůstatek]-[Zásoby skladem]) + vyřazeno + vydáno pacientovi)"
                 },
                 {
-                    "locale": "ru",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Stock gaspillé=([Bilan de clôture-[Stock disponible]) + jeté)"
                 },
                 {
-                    "locale": "pt",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Stock gaspillé=([Bilan de clôture-[Stock disponible]) + jeté)"
                 }
             ]
         },
@@ -15707,18 +15655,22 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "MAL_SP_STOCK_ON_HAND",
+            "code": "MAL_SP_STOCKOUT_DAYS",
             "denominator": -1,
             "denominatorDescription": "1",
-            "description": "Number of Sulfadoxine-pyrimethamine stock on hand",
-            "id": "bmjvOFB90Se",
+            "description": "Number of days when the facility was stocked out of Sulfadoxine-pyrimethamine (at any point during the day) during the reporting period.",
+            "id": "e4QSHL8T5Fm",
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
-            "legendSets": [],
-            "name": "[CONFIG] MAL - Sulfadoxine-pyrimethamine stock on hand",
+            "legendSets": [
+                {
+                    "id": "lY1SvO1BnVg"
+                }
+            ],
+            "name": "[CONFIG] MAL - Sulfadoxine-pyrimethamine stock out days",
             "numerator": -1,
-            "numeratorDescription": "MAL - Sulfadoxine-pyrimethamine stock on hand",
+            "numeratorDescription": "Sulfadoxine-pyrimethamine stock out days",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -15739,7 +15691,7 @@
                 },
                 "users": {}
             },
-            "shortName": "Sulfadoxine-pyrimethamine stock on hand",
+            "shortName": "Sulfadoxine-pyrimethamine stock out days",
             "translations": [
                 {
                     "locale": "fr",
@@ -15972,109 +15924,6 @@
             },
             "shortName": "Suspected decline (%)",
             "translations": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "MAL_SXPYR_COVERAGE_TIME",
-            "decimals": 0,
-            "denominator": -1,
-            "denominatorDescription": "consumed stock",
-            "id": "hjdbr1rTKff",
-            "indicatorType": {
-                "id": "k4RGC3sMTzO"
-            },
-            "legendSets": [
-                {
-                    "id": "f1hWZIYCTzc"
-                }
-            ],
-            "name": "[CONFIG] MAL - SX-PYR stock coverage time",
-            "numerator": -1,
-            "numeratorDescription": "usable stock",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    },
-                    "vgxAJF9iDRX": {
-                        "access": "r-------",
-                        "id": "vgxAJF9iDRX"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "SX-PYR stock coverage time",
-            "translations": [
-                {
-                    "locale": "ar",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "المخزون القابل للاستخدام"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "použitelné zásoby"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "المخزون المستهلك"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "المخزون المستهلك"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "المخزون القابل للاستخدام"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "stock utilisable"
-                },
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "spotřebované zásoby"
-                },
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "stock consommé"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "المخزون القابل للاستخدام"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "المخزون المستهلك"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "المخزون القابل للاستخدام"
-                },
-                {
-                    "locale": "ar",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "المخزون المستهلك"
-                }
-            ]
         },
         {
             "annualized": false,
@@ -16763,6 +16612,60 @@
         {
             "annualized": false,
             "attributeValues": [],
+            "code": "MAL_PER_ACTS_AVAILABLE",
+            "decimals": 1,
+            "denominator": -1,
+            "denominatorDescription": "Number of Districts",
+            "id": "t7lgbT05u3k",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL - ACTs availability (% of health facility with stock)",
+            "numerator": -1,
+            "numeratorDescription": "MAL - Stock-out of ACT - Adult - Pack",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "ACTs availability (% of HF with stock)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "PALU - Disponibilité des CTAs (% de l'établissement de santé avec stock)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Rupture de stock de CTA - Adult"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Disponibilité des CTAs (% de FS avec stock)"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
             "code": "MAL_ACTS_RECV",
             "denominator": -1,
             "denominatorDescription": "1",
@@ -16955,153 +16858,6 @@
                     "locale": "pt",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "MAL_ACT_DISCREPANCY",
-            "denominator": -1,
-            "denominatorDescription": "stock on hand",
-            "description": "Percentage of the item's stock discrepancy [Stock on hand - Closing balance] / Stock on hand",
-            "id": "zCXWGi6fEsw",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [
-                {
-                    "id": "pxeFezcPnQl"
-                }
-            ],
-            "name": "[CONFIG] MAL - ACT stock discrepancy (%)",
-            "numerator": -1,
-            "numeratorDescription": "ACT stock discrepancy",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    },
-                    "vgxAJF9iDRX": {
-                        "access": "r-------",
-                        "id": "vgxAJF9iDRX"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "ACT stock discrepancy (%)",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "fr",
-                    "property": "DESCRIPTION",
-                    "value": "Pourcentage d'écart de stock de l'article [Stock disponible - Bilan de clôture] / Stock disponible"
-                },
-                {
-                    "locale": "cs",
-                    "property": "DESCRIPTION",
-                    "value": "Procento nesrovnalosti na skladě položky [Skladem – Konečný zůstatek] / Skladem"
-                },
-                {
-                    "locale": "es",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "ACT_WASTAGE_RATE",
-            "denominator": -1,
-            "denominatorDescription": "Stock used=([Closing balance]-[Stock at hand]) + discarded + dispensed to patient)",
-            "description": "Stock wasted=([Closing balance]-[Stock at hand]) + discarded)",
-            "id": "RBnVKphd48z",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] MAL - ACT wastage rate (%)",
-            "numerator": -1,
-            "numeratorDescription": "Stock wasted=([Closing balance]-[Stock at hand]) + discarded)",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    },
-                    "vgxAJF9iDRX": {
-                        "access": "r-------",
-                        "id": "vgxAJF9iDRX"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "ACT wastage rate",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "Stock utilisé=([Bilan de clôture]-[Stock disponible]) + perdu + distribué au patient)"
-                },
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "Použité zásoby = ([Konečný zůstatek]-[Zásoby skladem]) + vyřazeno + vydáno pacientovi)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "DESCRIPTION",
-                    "value": "Stock gaspillé=([Bilan de clôture-[Stock disponible]) + jeté)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "Stock gaspillé=([Bilan de clôture-[Stock disponible]) + jeté)"
                 }
             ]
         },
@@ -17306,6 +17062,105 @@
         {
             "annualized": false,
             "attributeValues": [],
+            "code": "MAL_ARTESUNATE_ISSUED",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "description": "Number of Artesunate issued from the facility's stock",
+            "id": "tCFll2clsVs",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL - Artesunate issued",
+            "numerator": -1,
+            "numeratorDescription": "MAL - Artesunate issued",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Artesunate issued",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ru",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
             "code": "MAL_ARTESUNATE_OPENING_BALANCE",
             "denominator": -1,
             "denominatorDescription": "1",
@@ -17339,6 +17194,105 @@
                 "users": {}
             },
             "shortName": "Artesunate opening balance",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ru",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_ARTESUNATE_RECV",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "description": "Number of Artesunate received in the facility's stock",
+            "id": "sUuIRRJgHDl",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL - Artesunate received",
+            "numerator": -1,
+            "numeratorDescription": "MAL - Artesunate received",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Artesunate received",
             "translations": [
                 {
                     "locale": "fr",
@@ -17480,6 +17434,105 @@
                 },
                 {
                     "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_ARTESUNATE_STOCK_ON_HAND",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "description": "Number of Artesunate stock on hand",
+            "id": "h0iRcZhDsLe",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL - Artesunate stock on hand",
+            "numerator": -1,
+            "numeratorDescription": "MAL - Artesunate stock on hand",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Artesunate stock on hand",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ru",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -17758,50 +17811,6 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "HF_WITH_ACT_STOCKOUT_DAYS_%",
-            "denominator": -1,
-            "denominatorDescription": "HF reporting stockout days",
-            "description": "Proportion of health facilities with ACT stockout days",
-            "id": "tS54JH4t0KS",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] MAL - Health facilities with ACT stock-out days (%)",
-            "numerator": -1,
-            "numeratorDescription": "HF with ACT stockout days reported",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    },
-                    "vgxAJF9iDRX": {
-                        "access": "r-------",
-                        "id": "vgxAJF9iDRX"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "HF without ACT stockout days (%)",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "CS signale les jours de rupture de stock"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
             "code": "HF_WITH_ARTESUNATE_STOCKOUT_DAYS_%",
             "denominator": -1,
             "denominatorDescription": "HF reporting stockout days",
@@ -17934,18 +17943,18 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "HF_WITH_SP_STOCKOUT_DAYS_%",
+            "code": "HF_WITH_RDTS_STOCKOUT_DAYS_%",
             "denominator": -1,
             "denominatorDescription": "HF reporting stockout days",
-            "description": "Proportion of health facilities with SP stockout days",
-            "id": "OzpsrdzqZXp",
+            "description": "Proportion of health facilities with RDTs stockout days",
+            "id": "oXCc5MR3LLi",
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
             "legendSets": [],
-            "name": "[CONFIG] MAL - Health facilities with Sulfadoxine-pyrimethamine stockout days (%)",
+            "name": "[CONFIG] MAL - Health facilities with RDTs stock-out days (%)",
             "numerator": -1,
-            "numeratorDescription": "HF with SP stockout days reported",
+            "numeratorDescription": "HF with RDTs stockout days reported",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -17966,210 +17975,12 @@
                 },
                 "users": {}
             },
-            "shortName": "HF with SP stockout days (%)",
+            "shortName": "HF with RDTs stockout days (%)",
             "translations": [
                 {
                     "locale": "fr",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "CS signale les jours de rupture de stock"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "MAL_LLIN_CLOSING_BAL",
-            "denominator": -1,
-            "denominatorDescription": "1",
-            "description": "Number of LLIN as closing balance [Opening balance + Received - Issued - Redistributed - Discarded] at the end of the reporting period",
-            "id": "ket0CCCIHKs",
-            "indicatorType": {
-                "id": "kHy61PbChXr"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] MAL - LLIN closing balance",
-            "numerator": -1,
-            "numeratorDescription": "LLIN closing bal",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    },
-                    "vgxAJF9iDRX": {
-                        "access": "r-------",
-                        "id": "vgxAJF9iDRX"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "LLIN closing balance",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "es",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ru",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "MAL_LLIN_ISSUED",
-            "denominator": -1,
-            "denominatorDescription": "1",
-            "description": "Number of LLIN issued from the facility's stock",
-            "id": "uihjx61H8ai",
-            "indicatorType": {
-                "id": "kHy61PbChXr"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] MAL - LLIN issued",
-            "numerator": -1,
-            "numeratorDescription": "MAL - LLIN issued",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    },
-                    "vgxAJF9iDRX": {
-                        "access": "r-------",
-                        "id": "vgxAJF9iDRX"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "LLIN issued",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "es",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ru",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
                 }
             ]
         },
@@ -18422,109 +18233,6 @@
                     "locale": "fr",
                     "property": "NUMERATOR_DESCRIPTION",
                     "value": "Rupture de stock de MILD"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "MAL_LLIN_COVERAGE_TIME",
-            "decimals": 0,
-            "denominator": -1,
-            "denominatorDescription": "consumed stock",
-            "id": "QJv5i3fzFBJ",
-            "indicatorType": {
-                "id": "k4RGC3sMTzO"
-            },
-            "legendSets": [
-                {
-                    "id": "f1hWZIYCTzc"
-                }
-            ],
-            "name": "[CONFIG] MAL - LLIN stock coverage time",
-            "numerator": -1,
-            "numeratorDescription": "usable stock",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    },
-                    "vgxAJF9iDRX": {
-                        "access": "r-------",
-                        "id": "vgxAJF9iDRX"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "LLIN stock coverage time",
-            "translations": [
-                {
-                    "locale": "ar",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "المخزون القابل للاستخدام"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "použitelné zásoby"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "المخزون المستهلك"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "المخزون المستهلك"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "المخزون القابل للاستخدام"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "stock utilisable"
-                },
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "spotřebované zásoby"
-                },
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "stock consommé"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "المخزون القابل للاستخدام"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "المخزون المستهلك"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "المخزون القابل للاستخدام"
-                },
-                {
-                    "locale": "ar",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "المخزون المستهلك"
                 }
             ]
         },
@@ -18874,6 +18582,109 @@
                     "locale": "fr",
                     "property": "NUMERATOR_DESCRIPTION",
                     "value": "Stock gaspillé=([Bilan de clôture-[Stock disponible]) + jeté)"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_PMQ_COVERAGE_TIME",
+            "decimals": 0,
+            "denominator": -1,
+            "denominatorDescription": "consumed stock",
+            "id": "LlI38w39pwW",
+            "indicatorType": {
+                "id": "k4RGC3sMTzO"
+            },
+            "legendSets": [
+                {
+                    "id": "f1hWZIYCTzc"
+                }
+            ],
+            "name": "[CONFIG] MAL - PMQ stock coverage time",
+            "numerator": -1,
+            "numeratorDescription": "usable stock",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "PMQ stock coverage time",
+            "translations": [
+                {
+                    "locale": "ar",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "المخزون القابل للاستخدام"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "použitelné zásoby"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "المخزون المستهلك"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "المخزون المستهلك"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "المخزون القابل للاستخدام"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "stock utilisable"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "spotřebované zásoby"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "stock consommé"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "المخزون القابل للاستخدام"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "المخزون المستهلك"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "المخزون القابل للاستخدام"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "المخزون المستهلك"
                 }
             ]
         },
@@ -19666,6 +19477,109 @@
         {
             "annualized": false,
             "attributeValues": [],
+            "code": "MAL_PRIMAQUINE_STOCKOUT_DAYS",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "description": "Number of days when the facility was stocked out of Primaquine (at any point during the day) during the reporting period.",
+            "id": "DZTSUh1DFyX",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [
+                {
+                    "id": "lY1SvO1BnVg"
+                }
+            ],
+            "name": "[CONFIG] MAL - Primaquine stock out days",
+            "numerator": -1,
+            "numeratorDescription": "Primaquine stock out days",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Primaquine stock out days",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ru",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
             "code": "PRIMAQUINE_WASTAGE_RATE",
             "denominator": -1,
             "denominatorDescription": "Stock used=([Closing balance]-[Stock at hand]) + discarded + dispensed to patient)",
@@ -19824,6 +19738,110 @@
         {
             "annualized": false,
             "attributeValues": [],
+            "code": "MAL_RDTS_RECV",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "description": "Number of RDTs received in the facility's stock",
+            "id": "fqkymAhfnbg",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL - RDT kits received",
+            "numerator": -1,
+            "numeratorDescription": "MAL - RDT kits received",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "RDTs received",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ru",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TDR reçus"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
             "code": "MAL_RDT_OPENING_BALANCE",
             "denominator": -1,
             "denominatorDescription": "1",
@@ -19923,18 +19941,18 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "MAL_PER_RDTS_AVAILABLE",
-            "decimals": 1,
+            "code": "MAL_RDT_CLOSING_BAL",
             "denominator": -1,
-            "denominatorDescription": "Number of Districts",
-            "id": "eGISFgA3Cah",
+            "denominatorDescription": "1",
+            "description": "Number of RDTs as closing balance [Opening balance + Received - Issued - Redistributed - Discarded] at the end of the reporting period",
+            "id": "xi2S1d7LJBc",
             "indicatorType": {
-                "id": "hmSnCXmLYwt"
+                "id": "kHy61PbChXr"
             },
             "legendSets": [],
-            "name": "[CONFIG] MAL - RDTs availability (% of health facility with stock)",
+            "name": "[CONFIG] MAL - RDTs closing balance",
             "numerator": -1,
-            "numeratorDescription": "MAL - Stock-out of RDT malaria kits",
+            "numeratorDescription": "RDTs closing bal",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -19955,22 +19973,67 @@
                 },
                 "users": {}
             },
-            "shortName": "RDTs availability (% of HF with stock)",
+            "shortName": "RDTs closing balance",
             "translations": [
                 {
                     "locale": "fr",
-                    "property": "NAME",
-                    "value": "MAL - disponibilité des TDR (% de l'établissement de santé disposant d'un stock)"
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
                 },
                 {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Disponibilité des RDT (% de HF avec stock)"
+                    "locale": "es",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
                 },
                 {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "Rupture de stock de TDR"
+                    "locale": "es_US",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ru",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
                 }
             ]
         },
@@ -20274,109 +20337,6 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "MAL_RDT_COVERAGE_TIME",
-            "decimals": 0,
-            "denominator": -1,
-            "denominatorDescription": "consumed stock",
-            "id": "eiom58iY0UA",
-            "indicatorType": {
-                "id": "k4RGC3sMTzO"
-            },
-            "legendSets": [
-                {
-                    "id": "f1hWZIYCTzc"
-                }
-            ],
-            "name": "[CONFIG] MAL - RDT stock coverage time",
-            "numerator": -1,
-            "numeratorDescription": "usable stock",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    },
-                    "vgxAJF9iDRX": {
-                        "access": "r-------",
-                        "id": "vgxAJF9iDRX"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "RDT stock coverage time",
-            "translations": [
-                {
-                    "locale": "ar",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "المخزون القابل للاستخدام"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "použitelné zásoby"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "المخزون المستهلك"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "المخزون المستهلك"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "المخزون القابل للاستخدام"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "stock utilisable"
-                },
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "spotřebované zásoby"
-                },
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "stock consommé"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "المخزون القابل للاستخدام"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "المخزون المستهلك"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "المخزون القابل للاستخدام"
-                },
-                {
-                    "locale": "ar",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "المخزون المستهلك"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
             "code": "MAL_RDT_DISCREPANCY",
             "denominator": -1,
             "denominatorDescription": "stock on hand",
@@ -20562,65 +20522,6 @@
                     "locale": "pt",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "RDTS_WASTAGE_RATE",
-            "denominator": -1,
-            "denominatorDescription": "Stock used=([Closing balance]-[Stock at hand]) + discarded + dispensed to patient)",
-            "description": "Stock wasted=([Closing balance]-[Stock at hand]) + discarded)",
-            "id": "pDC6NBURuaz",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] MAL - RDTs wastage rate (%)",
-            "numerator": -1,
-            "numeratorDescription": "Stock wasted=([Closing balance]-[Stock at hand]) + discarded)",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    },
-                    "vgxAJF9iDRX": {
-                        "access": "r-------",
-                        "id": "vgxAJF9iDRX"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "RDTs wastage rate",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "Stock utilisé=([Bilan de clôture]-[Stock disponible]) + perdu + distribué au patient)"
-                },
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "Použité zásoby = ([Konečný zůstatek]-[Zásoby skladem]) + vyřazeno + vydáno pacientovi)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "DESCRIPTION",
-                    "value": "Stock gaspillé=([Bilan de clôture-[Stock disponible]) + jeté)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "Stock gaspillé=([Bilan de clôture-[Stock disponible]) + jeté)"
                 }
             ]
         },
@@ -21309,22 +21210,18 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "MAL_SP_STOCKOUT_DAYS",
+            "code": "MAL_SP_STOCK_ON_HAND",
             "denominator": -1,
             "denominatorDescription": "1",
-            "description": "Number of days when the facility was stocked out of Sulfadoxine-pyrimethamine (at any point during the day) during the reporting period.",
-            "id": "e4QSHL8T5Fm",
+            "description": "Number of Sulfadoxine-pyrimethamine stock on hand",
+            "id": "bmjvOFB90Se",
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
-            "legendSets": [
-                {
-                    "id": "lY1SvO1BnVg"
-                }
-            ],
-            "name": "[CONFIG] MAL - Sulfadoxine-pyrimethamine stock out days",
+            "legendSets": [],
+            "name": "[CONFIG] MAL - Sulfadoxine-pyrimethamine stock on hand",
             "numerator": -1,
-            "numeratorDescription": "Sulfadoxine-pyrimethamine stock out days",
+            "numeratorDescription": "MAL - Sulfadoxine-pyrimethamine stock on hand",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -21345,7 +21242,7 @@
                 },
                 "users": {}
             },
-            "shortName": "Sulfadoxine-pyrimethamine stock out days",
+            "shortName": "Sulfadoxine-pyrimethamine stock on hand",
             "translations": [
                 {
                     "locale": "fr",
@@ -21465,6 +21362,109 @@
                     "locale": "fr",
                     "property": "NUMERATOR_DESCRIPTION",
                     "value": "Stock gaspillé=([Bilan de clôture-[Stock disponible]) + jeté)"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SXPYR_COVERAGE_TIME",
+            "decimals": 0,
+            "denominator": -1,
+            "denominatorDescription": "consumed stock",
+            "id": "hjdbr1rTKff",
+            "indicatorType": {
+                "id": "k4RGC3sMTzO"
+            },
+            "legendSets": [
+                {
+                    "id": "f1hWZIYCTzc"
+                }
+            ],
+            "name": "[CONFIG] MAL - SX-PYR stock coverage time",
+            "numerator": -1,
+            "numeratorDescription": "usable stock",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "SX-PYR stock coverage time",
+            "translations": [
+                {
+                    "locale": "ar",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "المخزون القابل للاستخدام"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "použitelné zásoby"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "المخزون المستهلك"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "المخزون المستهلك"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "المخزون القابل للاستخدام"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "stock utilisable"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "spotřebované zásoby"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "stock consommé"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "المخزون القابل للاستخدام"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "المخزون المستهلك"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "المخزون القابل للاستخدام"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "المخزون المستهلك"
                 }
             ]
         },
@@ -21717,22 +21717,6 @@
             "legends": [
                 {
                     "attributeValues": [],
-                    "color": "#FF0000",
-                    "endValue": 30.0,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "TsHFpCbmXxW",
-                    "name": "High",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 7.0,
-                    "translations": []
-                },
-                {
-                    "attributeValues": [],
                     "color": "#FFA500",
                     "endValue": 7.0,
                     "favorite": false,
@@ -21761,6 +21745,22 @@
                         "users": {}
                     },
                     "startValue": 0.0,
+                    "translations": []
+                },
+                {
+                    "attributeValues": [],
+                    "color": "#FF0000",
+                    "endValue": 30.0,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "TsHFpCbmXxW",
+                    "name": "High",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 7.0,
                     "translations": []
                 }
             ],
@@ -21809,22 +21809,6 @@
                 },
                 {
                     "attributeValues": [],
-                    "color": "#fdae61",
-                    "endValue": 40.0,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "kjjM7FWzhBS",
-                    "name": "20 - 40",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 20.0,
-                    "translations": []
-                },
-                {
-                    "attributeValues": [],
                     "color": "#ffffbf",
                     "endValue": 60.0,
                     "favorite": false,
@@ -21853,6 +21837,22 @@
                         "users": {}
                     },
                     "startValue": 60.0,
+                    "translations": []
+                },
+                {
+                    "attributeValues": [],
+                    "color": "#fdae61",
+                    "endValue": 40.0,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "kjjM7FWzhBS",
+                    "name": "20 - 40",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 20.0,
                     "translations": []
                 },
                 {
@@ -21961,22 +21961,6 @@
             "legends": [
                 {
                     "attributeValues": [],
-                    "color": "#FF0000",
-                    "endValue": -1.0,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "PR55FXzZvWa",
-                    "name": "Negative",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": -999999999.0,
-                    "translations": []
-                },
-                {
-                    "attributeValues": [],
                     "color": "#027E2F",
                     "endValue": 999999999.0,
                     "favorite": false,
@@ -21989,6 +21973,22 @@
                         "users": {}
                     },
                     "startValue": -1.0,
+                    "translations": []
+                },
+                {
+                    "attributeValues": [],
+                    "color": "#FF0000",
+                    "endValue": -1.0,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "PR55FXzZvWa",
+                    "name": "Negative",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": -999999999.0,
                     "translations": []
                 }
             ],
@@ -22395,6 +22395,22 @@
             "legends": [
                 {
                     "attributeValues": [],
+                    "color": "#FF0000",
+                    "endValue": 0.0,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "o6BTXK3KyMO",
+                    "name": "Low",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": -1000.0,
+                    "translations": []
+                },
+                {
+                    "attributeValues": [],
                     "color": "#FFFF00",
                     "endValue": 20.0,
                     "favorite": false,
@@ -22423,22 +22439,6 @@
                         "users": {}
                     },
                     "startValue": 20.0,
-                    "translations": []
-                },
-                {
-                    "attributeValues": [],
-                    "color": "#FF0000",
-                    "endValue": 0.0,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "o6BTXK3KyMO",
-                    "name": "Low",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": -1000.0,
                     "translations": []
                 }
             ],
@@ -22580,22 +22580,6 @@
                 },
                 {
                     "attributeValues": [],
-                    "color": "#EE391E",
-                    "endValue": 0.0001,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "fFBIEwglorN",
-                    "name": "Stock out",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 0.0,
-                    "translations": []
-                },
-                {
-                    "attributeValues": [],
                     "color": "#0BFF00",
                     "endValue": 3.0,
                     "favorite": false,
@@ -22608,6 +22592,22 @@
                         "users": {}
                     },
                     "startValue": 1.0,
+                    "translations": []
+                },
+                {
+                    "attributeValues": [],
+                    "color": "#EE391E",
+                    "endValue": 0.0001,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "fFBIEwglorN",
+                    "name": "Stock out",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 0.0,
                     "translations": []
                 },
                 {
@@ -22787,6 +22787,7 @@
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
                     "layer": "orgUnit",
+                    "metaData": {},
                     "name": "snng721RZje",
                     "noSpaceBetweenColumns": false,
                     "opacity": 1.0,
@@ -22919,6 +22920,7 @@
                     "legendSet": {
                         "id": "f1hWZIYCTzc"
                     },
+                    "metaData": {},
                     "method": 1,
                     "name": "MAL - ACT stock coverage time",
                     "noSpaceBetweenColumns": false,
@@ -23071,6 +23073,7 @@
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
                     "layer": "orgUnit",
+                    "metaData": {},
                     "name": "apQiFaiOrNV",
                     "noSpaceBetweenColumns": false,
                     "opacity": 1.0,
@@ -23199,6 +23202,7 @@
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "thematic",
+                    "metaData": {},
                     "method": 2,
                     "name": "MAL - ACT stock out days",
                     "noSpaceBetweenColumns": false,
@@ -23350,6 +23354,7 @@
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
                     "layer": "orgUnit",
+                    "metaData": {},
                     "name": "WwZAcac8qQF",
                     "noSpaceBetweenColumns": false,
                     "opacity": 1.0,
@@ -23482,6 +23487,7 @@
                     "legendSet": {
                         "id": "f1hWZIYCTzc"
                     },
+                    "metaData": {},
                     "method": 1,
                     "name": "MAL - ART stock coverage time",
                     "noSpaceBetweenColumns": false,
@@ -23634,6 +23640,7 @@
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
                     "layer": "orgUnit",
+                    "metaData": {},
                     "name": "vZPseTcpyev",
                     "noSpaceBetweenColumns": false,
                     "opacity": 1.0,
@@ -23762,6 +23769,7 @@
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "thematic",
+                    "metaData": {},
                     "method": 2,
                     "name": "MAL - Artesunate stock out days",
                     "noSpaceBetweenColumns": false,
@@ -23928,6 +23936,7 @@
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "thematic",
+                    "metaData": {},
                     "method": 2,
                     "name": "MAL - Confirmed malaria cases (micr + RDT)",
                     "noSpaceBetweenColumns": false,
@@ -24088,6 +24097,7 @@
                     "legendSet": {
                         "id": "JUG5nRDqRFl"
                     },
+                    "metaData": {},
                     "method": 1,
                     "name": "MAL - Annual malaria parasite incidence (API)",
                     "noDataColor": "#CCCCCC",
@@ -24235,6 +24245,7 @@
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "orgUnit",
+                    "metaData": {},
                     "name": "L2R80s6dHPH",
                     "noSpaceBetweenColumns": false,
                     "opacity": 1.0,
@@ -24362,6 +24373,7 @@
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "thematic",
+                    "metaData": {},
                     "method": 2,
                     "name": "MAL - Inpatient malaria mortality rate (Per 100,000)",
                     "noDataColor": "#CCCCCC",
@@ -24512,6 +24524,7 @@
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
                     "layer": "orgUnit",
+                    "metaData": {},
                     "name": "Km1on5F0dfp",
                     "noSpaceBetweenColumns": false,
                     "opacity": 1.0,
@@ -24644,6 +24657,7 @@
                     "legendSet": {
                         "id": "f1hWZIYCTzc"
                     },
+                    "metaData": {},
                     "method": 1,
                     "name": "MAL - LLIN stock coverage time",
                     "noSpaceBetweenColumns": false,
@@ -24796,6 +24810,7 @@
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
                     "layer": "orgUnit",
+                    "metaData": {},
                     "name": "dOajcSMBPEW",
                     "noSpaceBetweenColumns": false,
                     "opacity": 1.0,
@@ -24924,6 +24939,7 @@
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "thematic",
+                    "metaData": {},
                     "method": 2,
                     "name": "MAL - LLIN stock out days",
                     "noSpaceBetweenColumns": false,
@@ -25087,6 +25103,7 @@
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "thematic",
+                    "metaData": {},
                     "method": 2,
                     "name": "MAL - Malaria inpatient deaths",
                     "noDataColor": "#CCCCCC",
@@ -25255,6 +25272,7 @@
                     "legendSet": {
                         "id": "JUG5nRDqRFl"
                     },
+                    "metaData": {},
                     "method": 1,
                     "name": "MAL - Malaria test positivity rate (Micr+RDT) (%)",
                     "noSpaceBetweenColumns": false,
@@ -25415,6 +25433,7 @@
                     "legendSet": {
                         "id": "kZFJ670FpB6"
                     },
+                    "metaData": {},
                     "method": 1,
                     "name": "MAL - Suspected malaria cases tested (%)",
                     "noSpaceBetweenColumns": false,
@@ -25562,6 +25581,7 @@
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
                     "layer": "orgUnit",
+                    "metaData": {},
                     "name": "XBd4dWeXTcV",
                     "noSpaceBetweenColumns": false,
                     "opacity": 1.0,
@@ -25694,6 +25714,7 @@
                     "legendSet": {
                         "id": "f1hWZIYCTzc"
                     },
+                    "metaData": {},
                     "method": 1,
                     "name": "MAL - SX-PYR stock coverage time",
                     "noSpaceBetweenColumns": false,
@@ -25846,6 +25867,7 @@
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
                     "layer": "orgUnit",
+                    "metaData": {},
                     "name": "mSRR0fJFVBr",
                     "noSpaceBetweenColumns": false,
                     "opacity": 1.0,
@@ -25974,6 +25996,7 @@
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "thematic",
+                    "metaData": {},
                     "method": 2,
                     "name": "MAL - Primaquine stock out days",
                     "noSpaceBetweenColumns": false,
@@ -26124,6 +26147,7 @@
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "orgUnit",
+                    "metaData": {},
                     "name": "APRFmMnx3Rq",
                     "noSpaceBetweenColumns": false,
                     "opacity": 1.0,
@@ -26252,6 +26276,7 @@
                     "itemOrganisationUnitGroups": [],
                     "labels": false,
                     "layer": "thematic",
+                    "metaData": {},
                     "method": 2,
                     "name": "MAL - Reporting Completeness (%)",
                     "noDataColor": "#CCCCCC",
@@ -26403,6 +26428,7 @@
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
                     "layer": "orgUnit",
+                    "metaData": {},
                     "name": "hOhQtbdDLBL",
                     "noSpaceBetweenColumns": false,
                     "opacity": 1.0,
@@ -26535,6 +26561,7 @@
                     "legendSet": {
                         "id": "f1hWZIYCTzc"
                     },
+                    "metaData": {},
                     "method": 1,
                     "name": "MAL - RDT stock coverage time",
                     "noSpaceBetweenColumns": false,
@@ -26687,6 +26714,7 @@
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
                     "layer": "orgUnit",
+                    "metaData": {},
                     "name": "cjcM92dhkb7",
                     "noSpaceBetweenColumns": false,
                     "opacity": 1.0,
@@ -26815,6 +26843,7 @@
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "thematic",
+                    "metaData": {},
                     "method": 2,
                     "name": "MAL - ACT stock out days",
                     "noSpaceBetweenColumns": false,
@@ -26966,6 +26995,7 @@
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
                     "layer": "orgUnit",
+                    "metaData": {},
                     "name": "x6MglfvgwiH",
                     "noSpaceBetweenColumns": false,
                     "opacity": 1.0,
@@ -27098,6 +27128,7 @@
                     "legendSet": {
                         "id": "f1hWZIYCTzc"
                     },
+                    "metaData": {},
                     "method": 1,
                     "name": "MAL - SX-PYR stock coverage time",
                     "noSpaceBetweenColumns": false,
@@ -27250,6 +27281,7 @@
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
                     "layer": "orgUnit",
+                    "metaData": {},
                     "name": "MuqsWv4b4Yb",
                     "noSpaceBetweenColumns": false,
                     "opacity": 1.0,
@@ -27378,6 +27410,7 @@
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "thematic",
+                    "metaData": {},
                     "method": 2,
                     "name": "MAL - Sulfadoxine-pyrimethamine stock out days",
                     "noSpaceBetweenColumns": false,
@@ -27504,10 +27537,10 @@
             "name": "Functionality",
             "organisationUnitGroups": [
                 {
-                    "id": "HqIcIRasNLL"
+                    "id": "byomD9tzITG"
                 },
                 {
-                    "id": "byomD9tzITG"
+                    "id": "HqIcIRasNLL"
                 }
             ],
             "sharing": {
@@ -27977,15 +28010,15 @@
         }
     ],
     "package": {
-        "DHIS2Build": "6f7e169",
-        "DHIS2Version": "2.41.7",
+        "DHIS2Build": "86f1508",
+        "DHIS2Version": "2.42.3.1",
         "code": "MAL_AGG",
         "description": "Malaria HMIS (dashboard)",
         "healthAreaCode": "MAL",
         "healthAreaName": "Malaria",
-        "lastUpdated": "20260114T092755",
+        "lastUpdated": "20260114T143713",
         "locale": "en",
-        "name": "MAL_AGG_DSH_DHIS2.41.7-en",
+        "name": "MAL_AGG_DSH_DHIS2.42.3.1-en",
         "type": "DSH",
         "version": ""
     },
@@ -28094,35 +28127,6 @@
                 }
             ],
             "users": []
-        },
-        {
-            "attributeValues": [],
-            "code": "MAL_AGG_STK_DATA_CAPTURE",
-            "id": "s5MVdN5Ehkz",
-            "managedGroups": [],
-            "name": "Malaria stock data capture",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    },
-                    "vgxAJF9iDRX": {
-                        "access": "r-------",
-                        "id": "vgxAJF9iDRX"
-                    }
-                },
-                "users": {}
-            },
-            "translations": [],
-            "users": []
         }
     ],
     "userRoles": [
@@ -28177,6 +28181,7 @@
             "id": "vUeLeQMSwhN",
             "invitation": false,
             "lastLogin": "2020-04-23T09:17:46.912",
+            "name": "package admin",
             "organisationUnits": [],
             "passwordLastUpdated": "2022-08-17T12:56:38.395",
             "selfRegistered": false,
