@@ -4343,15 +4343,15 @@
         }
     ],
     "package": {
-        "DHIS2Build": "6f7e169",
-        "DHIS2Version": "2.41.7",
+        "DHIS2Build": "86f1508",
+        "DHIS2Version": "2.42.3.1",
         "code": "MAL_AGG_DQ",
         "description": "Malaria Data Quality (dashboard)",
         "healthAreaCode": "MAL",
         "healthAreaName": "Malaria",
-        "lastUpdated": "20260114T113812",
+        "lastUpdated": "20260114T150049",
         "locale": "en",
-        "name": "MAL_AGG_DQ_DSH_DHIS2.41.7-en",
+        "name": "MAL_AGG_DQ_DSH_DHIS2.42.3.1-en",
         "type": "DSH",
         "version": ""
     },
@@ -4514,6 +4514,7 @@
             "id": "vUeLeQMSwhN",
             "invitation": false,
             "lastLogin": "2020-04-23T09:17:46.912",
+            "name": "package admin",
             "organisationUnits": [],
             "passwordLastUpdated": "2022-08-17T12:56:38.395",
             "selfRegistered": false,
