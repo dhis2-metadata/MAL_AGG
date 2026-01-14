@@ -2384,10 +2384,10 @@
                     "id": "Ffi38WOC65w"
                 },
                 {
-                    "id": "acDxsQjnEof"
+                    "id": "vhyDSNQZKw3"
                 },
                 {
-                    "id": "vhyDSNQZKw3"
+                    "id": "acDxsQjnEof"
                 },
                 {
                     "id": "lRBSFNlbk3D"
@@ -2685,30 +2685,6 @@
                     "id": "tIWGvDkU6lb"
                 },
                 {
-                    "id": "dASLnPMS8L8"
-                },
-                {
-                    "id": "dKbHt6OB5x1"
-                },
-                {
-                    "id": "vK4qNvAtZsG"
-                },
-                {
-                    "id": "rPYLomUceL4"
-                },
-                {
-                    "id": "EEuvMCljxc9"
-                },
-                {
-                    "id": "A1o8U4zmzvA"
-                },
-                {
-                    "id": "blS3OjRXn0c"
-                },
-                {
-                    "id": "JZegZ4SDzDs"
-                },
-                {
                     "id": "hAAyWEh4Xf0"
                 },
                 {
@@ -2718,7 +2694,16 @@
                     "id": "VoN285Q7FQG"
                 },
                 {
+                    "id": "dASLnPMS8L8"
+                },
+                {
+                    "id": "dKbHt6OB5x1"
+                },
+                {
                     "id": "Uzmk0S9IwWn"
+                },
+                {
+                    "id": "vK4qNvAtZsG"
                 },
                 {
                     "id": "bZojnzkbvrZ"
@@ -2730,16 +2715,31 @@
                     "id": "yC9EwmnP8L0"
                 },
                 {
+                    "id": "rPYLomUceL4"
+                },
+                {
                     "id": "RLxhxT7sO0R"
                 },
                 {
                     "id": "fvSA2BtaTBX"
                 },
                 {
+                    "id": "EEuvMCljxc9"
+                },
+                {
                     "id": "npqu6fhBVpe"
                 },
                 {
                     "id": "bA6kgEyRkg0"
+                },
+                {
+                    "id": "A1o8U4zmzvA"
+                },
+                {
+                    "id": "blS3OjRXn0c"
+                },
+                {
+                    "id": "JZegZ4SDzDs"
                 }
             ],
             "name": "Malaria elimination",
@@ -3991,6 +3991,55 @@
             ]
         },
         {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_INPATIENT_CASE_INCIDENCE",
+            "denominator": -1,
+            "denominatorDescription": "Population at risk",
+            "description": "Number of malaria cases admitted to hospital as inpatients per 10 000 population",
+            "id": "GpjDncqiZRS",
+            "indicatorType": {
+                "id": "FWTvArgP0jt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL - Inpatient malaria case incidence (Per 10,000)",
+            "numerator": -1,
+            "numeratorDescription": "Inpatient malaria cases",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Inpatient malaria case incidence (Per 10,000)",
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "Obyvatelstvo v ohrožení"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "Population à risque"
+                }
+            ]
+        },
+        {
             "annualized": true,
             "attributeValues": [],
             "code": "MAL_IPD_MAL_CASE_INC_10K",
@@ -4051,55 +4100,6 @@
                     "locale": "fr",
                     "property": "DESCRIPTION",
                     "value": "Incidence des cas de paludisme chez les patients hospitalisés pour 10 000 habitants au cours d'une période donnée (nombre de cas hospitalisés avec un diagnostic de paludisme à la sortie x 10 000/nombre de personnes à risque d'infection par le paludisme au cours de l'année de référence)"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "MAL_INPATIENT_CASE_INCIDENCE",
-            "denominator": -1,
-            "denominatorDescription": "Population at risk",
-            "description": "Number of malaria cases admitted to hospital as inpatients per 10 000 population",
-            "id": "GpjDncqiZRS",
-            "indicatorType": {
-                "id": "FWTvArgP0jt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] MAL - Inpatient malaria case incidence (Per 10,000)",
-            "numerator": -1,
-            "numeratorDescription": "Inpatient malaria cases",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    },
-                    "vgxAJF9iDRX": {
-                        "access": "r-------",
-                        "id": "vgxAJF9iDRX"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Inpatient malaria case incidence (Per 10,000)",
-            "translations": [
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "Obyvatelstvo v ohrožení"
-                },
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "Population à risque"
                 }
             ]
         },
@@ -11840,22 +11840,6 @@
             "legends": [
                 {
                     "attributeValues": [],
-                    "color": "#FF0000",
-                    "endValue": 30.0,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "TsHFpCbmXxW",
-                    "name": "High",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 7.0,
-                    "translations": []
-                },
-                {
-                    "attributeValues": [],
                     "color": "#FFA500",
                     "endValue": 7.0,
                     "favorite": false,
@@ -11884,6 +11868,22 @@
                         "users": {}
                     },
                     "startValue": 0.0,
+                    "translations": []
+                },
+                {
+                    "attributeValues": [],
+                    "color": "#FF0000",
+                    "endValue": 30.0,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "TsHFpCbmXxW",
+                    "name": "High",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 7.0,
                     "translations": []
                 }
             ],
@@ -11932,22 +11932,6 @@
                 },
                 {
                     "attributeValues": [],
-                    "color": "#fdae61",
-                    "endValue": 40.0,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "kjjM7FWzhBS",
-                    "name": "20 - 40",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 20.0,
-                    "translations": []
-                },
-                {
-                    "attributeValues": [],
                     "color": "#ffffbf",
                     "endValue": 60.0,
                     "favorite": false,
@@ -11976,6 +11960,22 @@
                         "users": {}
                     },
                     "startValue": 60.0,
+                    "translations": []
+                },
+                {
+                    "attributeValues": [],
+                    "color": "#fdae61",
+                    "endValue": 40.0,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "kjjM7FWzhBS",
+                    "name": "20 - 40",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 20.0,
                     "translations": []
                 },
                 {
@@ -12398,6 +12398,22 @@
             "legends": [
                 {
                     "attributeValues": [],
+                    "color": "#FF0000",
+                    "endValue": 0.0,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "o6BTXK3KyMO",
+                    "name": "Low",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": -1000.0,
+                    "translations": []
+                },
+                {
+                    "attributeValues": [],
                     "color": "#FFFF00",
                     "endValue": 20.0,
                     "favorite": false,
@@ -12426,22 +12442,6 @@
                         "users": {}
                     },
                     "startValue": 20.0,
-                    "translations": []
-                },
-                {
-                    "attributeValues": [],
-                    "color": "#FF0000",
-                    "endValue": 0.0,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "o6BTXK3KyMO",
-                    "name": "Low",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": -1000.0,
                     "translations": []
                 }
             ],
@@ -12556,10 +12556,10 @@
             "name": "Functionality",
             "organisationUnitGroups": [
                 {
-                    "id": "HqIcIRasNLL"
+                    "id": "byomD9tzITG"
                 },
                 {
-                    "id": "byomD9tzITG"
+                    "id": "HqIcIRasNLL"
                 }
             ],
             "sharing": {
@@ -12645,15 +12645,15 @@
         }
     ],
     "package": {
-        "DHIS2Build": "6f7e169",
-        "DHIS2Version": "2.41.7",
+        "DHIS2Build": "86f1508",
+        "DHIS2Version": "2.42.3.1",
         "code": "MAL_AGG_BR",
         "description": "Malaria Burden Reduction and Elimination (dashboard)",
         "healthAreaCode": "MAL",
         "healthAreaName": "Malaria",
-        "lastUpdated": "20260114T113055",
+        "lastUpdated": "20260114T145345",
         "locale": "en",
-        "name": "MAL_AGG_BR_DSH_DHIS2.41.7-en",
+        "name": "MAL_AGG_BR_DSH_DHIS2.42.3.1-en",
         "type": "DSH",
         "version": ""
     },
@@ -12816,6 +12816,7 @@
             "id": "vUeLeQMSwhN",
             "invitation": false,
             "lastLogin": "2020-04-23T09:17:46.912",
+            "name": "package admin",
             "organisationUnits": [],
             "passwordLastUpdated": "2022-08-17T12:56:38.395",
             "selfRegistered": false,
