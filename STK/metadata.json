@@ -6026,71 +6026,7 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "KQvuAWwOPnE"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "x4A99GZbg5k"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "kk2ClooVm41"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "OpiuZiAzEwQ"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "CPBuuIiDnn8"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "C3vtx1aie2U"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "B3ItBcjVieC"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "U4kmpM14xhJ"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "GDBHGyXJI2T"
+                        "id": "oIi0Ybn06e2"
                     },
                     "dataSet": {
                         "id": "PRiItBuYx0e"
@@ -6106,183 +6042,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "CsJm4IsvXqg"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "RJkNUMqVTRC"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "DEasiq2eO60"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "HOEMlLX5SMC"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "f7z0IhHVWBT"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "F7L5jVrWnHi"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "ZnifKT2U88N"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Qv9b5QAOO0F"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "eCKSKNgHJqe"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "o3fW3Hgo9GO"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "To2fZcY5oUS"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "SldWQ0uCFA2"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "BdRI37FNDJs"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
                         "id": "twoxyChxlC3"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "VTunnWZqQCj"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "ImjPjbE2rFm"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "F7BWpIVSEpM"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "zM1vd2VeCss"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "iaQuylCoH3u"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "pNalmL0t0uk"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "mTR90t8ea5x"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "uFwkuqBgI29"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "GIhoITcc0jp"
                     },
                     "dataSet": {
                         "id": "PRiItBuYx0e"
@@ -6298,6 +6058,38 @@
                 },
                 {
                     "dataElement": {
+                        "id": "C3vtx1aie2U"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "eCKSKNgHJqe"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "VTunnWZqQCj"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "iaQuylCoH3u"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
                         "id": "YnKOG0WVtlq"
                     },
                     "dataSet": {
@@ -6306,7 +6098,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "RRA1O37nLn0"
+                        "id": "F7L5jVrWnHi"
                     },
                     "dataSet": {
                         "id": "PRiItBuYx0e"
@@ -6314,31 +6106,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "ZRUpLZ2HVEH"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "xysDfJ6oPMh"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "N6uAJQjkRQl"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "oIi0Ybn06e2"
+                        "id": "GDBHGyXJI2T"
                     },
                     "dataSet": {
                         "id": "PRiItBuYx0e"
@@ -6354,14 +6122,246 @@
                 },
                 {
                     "dataElement": {
+                        "id": "OpiuZiAzEwQ"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "B3ItBcjVieC"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "KQvuAWwOPnE"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "kk2ClooVm41"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "BdRI37FNDJs"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "GIhoITcc0jp"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "U4kmpM14xhJ"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "SldWQ0uCFA2"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
                         "id": "jynElcE3gF0"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "RJkNUMqVTRC"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "xysDfJ6oPMh"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "CsJm4IsvXqg"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "N6uAJQjkRQl"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Qv9b5QAOO0F"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "RRA1O37nLn0"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "HOEMlLX5SMC"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "ZnifKT2U88N"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "ImjPjbE2rFm"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "zM1vd2VeCss"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "mTR90t8ea5x"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "x4A99GZbg5k"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "To2fZcY5oUS"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "CPBuuIiDnn8"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "pNalmL0t0uk"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "F7BWpIVSEpM"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "DEasiq2eO60"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "o3fW3Hgo9GO"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "f7z0IhHVWBT"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "ZRUpLZ2HVEH"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "uFwkuqBgI29"
                     },
                     "dataSet": {
                         "id": "PRiItBuYx0e"
                     }
                 }
             ],
-            "expiryDays": 0,
+            "expiryDays": 0.0,
             "fieldCombinationRequired": false,
             "id": "PRiItBuYx0e",
             "indicators": [],
@@ -6372,6 +6372,7 @@
             "notifyCompletingUser": false,
             "openFuturePeriods": 0,
             "openPeriodsAfterCoEndDate": 0,
+            "organisationUnits": [],
             "periodType": "Monthly",
             "renderAsTabs": true,
             "renderHorizontally": false,
@@ -6441,7 +6442,7 @@
                 }
             ],
             "validCompleteOnly": false,
-            "version": 73
+            "version": 72
         }
     ],
     "documents": [],
@@ -6454,10 +6455,22 @@
             "id": "IHFoEstZjfl",
             "indicators": [
                 {
+                    "id": "zCXWGi6fEsw"
+                },
+                {
+                    "id": "eGISFgA3Cah"
+                },
+                {
                     "id": "s4n3zSyciLw"
                 },
                 {
+                    "id": "RBnVKphd48z"
+                },
+                {
                     "id": "RoeRc4k513l"
+                },
+                {
+                    "id": "OzpsrdzqZXp"
                 },
                 {
                     "id": "TkwXRuRQSYi"
@@ -6466,94 +6479,10 @@
                     "id": "HESD7pkLakc"
                 },
                 {
-                    "id": "mm9hChdAyl3"
-                },
-                {
-                    "id": "bmjvOFB90Se"
-                },
-                {
-                    "id": "tCFll2clsVs"
-                },
-                {
-                    "id": "LlI38w39pwW"
-                },
-                {
-                    "id": "hjdbr1rTKff"
-                },
-                {
-                    "id": "oXCc5MR3LLi"
-                },
-                {
-                    "id": "t7lgbT05u3k"
-                },
-                {
-                    "id": "xi2S1d7LJBc"
-                },
-                {
-                    "id": "DZTSUh1DFyX"
-                },
-                {
-                    "id": "sUuIRRJgHDl"
-                },
-                {
-                    "id": "fqkymAhfnbg"
-                },
-                {
-                    "id": "h0iRcZhDsLe"
-                },
-                {
-                    "id": "xiI6aQRNUVX"
-                },
-                {
-                    "id": "W34cMM4atBf"
-                },
-                {
-                    "id": "Dh4kab2L39R"
-                },
-                {
-                    "id": "fkSnzZMYE4F"
-                },
-                {
-                    "id": "iEUye81vR8U"
-                },
-                {
-                    "id": "DEURBGqN6fO"
-                },
-                {
-                    "id": "DpbZBWj6bLQ"
-                },
-                {
-                    "id": "WxXtpE1zdeJ"
-                },
-                {
-                    "id": "lCUNJpZTDQJ"
-                },
-                {
-                    "id": "hGNzrW1xbQN"
-                },
-                {
-                    "id": "p2s6iZcpke1"
-                },
-                {
-                    "id": "zKXBN1jGXIu"
-                },
-                {
-                    "id": "o3FTGfWDUpz"
-                },
-                {
-                    "id": "zCXWGi6fEsw"
-                },
-                {
-                    "id": "eGISFgA3Cah"
-                },
-                {
-                    "id": "RBnVKphd48z"
-                },
-                {
-                    "id": "OzpsrdzqZXp"
-                },
-                {
                     "id": "pDC6NBURuaz"
+                },
+                {
+                    "id": "mm9hChdAyl3"
                 },
                 {
                     "id": "tS54JH4t0KS"
@@ -6577,6 +6506,12 @@
                     "id": "Rf6DhpY8DeK"
                 },
                 {
+                    "id": "bmjvOFB90Se"
+                },
+                {
+                    "id": "tCFll2clsVs"
+                },
+                {
                     "id": "LboUZfKr9EP"
                 },
                 {
@@ -6589,13 +6524,37 @@
                     "id": "ClIrLxTeQgG"
                 },
                 {
+                    "id": "LlI38w39pwW"
+                },
+                {
+                    "id": "hjdbr1rTKff"
+                },
+                {
+                    "id": "oXCc5MR3LLi"
+                },
+                {
                     "id": "rL482g0s5JL"
                 },
                 {
                     "id": "vBNyVNLGZ5D"
                 },
                 {
+                    "id": "t7lgbT05u3k"
+                },
+                {
+                    "id": "xi2S1d7LJBc"
+                },
+                {
                     "id": "hCj9BqpyMvT"
+                },
+                {
+                    "id": "DZTSUh1DFyX"
+                },
+                {
+                    "id": "sUuIRRJgHDl"
+                },
+                {
+                    "id": "fqkymAhfnbg"
                 },
                 {
                     "id": "YX7dJbo7uTA"
@@ -6613,13 +6572,40 @@
                     "id": "UdyTo2oqzZO"
                 },
                 {
+                    "id": "h0iRcZhDsLe"
+                },
+                {
                     "id": "foz7nuOFMNR"
+                },
+                {
+                    "id": "xiI6aQRNUVX"
+                },
+                {
+                    "id": "W34cMM4atBf"
+                },
+                {
+                    "id": "Dh4kab2L39R"
+                },
+                {
+                    "id": "fkSnzZMYE4F"
+                },
+                {
+                    "id": "iEUye81vR8U"
+                },
+                {
+                    "id": "DEURBGqN6fO"
+                },
+                {
+                    "id": "DpbZBWj6bLQ"
                 },
                 {
                     "id": "sj3URzajB3C"
                 },
                 {
                     "id": "ajmJXVocM7a"
+                },
+                {
+                    "id": "WxXtpE1zdeJ"
                 },
                 {
                     "id": "J3UT51fnJjS"
@@ -6629,6 +6615,9 @@
                 },
                 {
                     "id": "x4CIsntvniz"
+                },
+                {
+                    "id": "lCUNJpZTDQJ"
                 },
                 {
                     "id": "psJy41rJsiE"
@@ -6655,6 +6644,9 @@
                     "id": "BI6l7Poo65o"
                 },
                 {
+                    "id": "hGNzrW1xbQN"
+                },
+                {
                     "id": "IeUbxBdwDTf"
                 },
                 {
@@ -6664,7 +6656,16 @@
                     "id": "GNvUj6KNaDM"
                 },
                 {
+                    "id": "p2s6iZcpke1"
+                },
+                {
+                    "id": "zKXBN1jGXIu"
+                },
+                {
                     "id": "Yf0KTxLcRPE"
+                },
+                {
+                    "id": "o3FTGfWDUpz"
                 },
                 {
                     "id": "wswCPFCyUG8"
@@ -13909,22 +13910,6 @@
             "legends": [
                 {
                     "attributeValues": [],
-                    "color": "#FF0000",
-                    "endValue": 30.0,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "TsHFpCbmXxW",
-                    "name": "High",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 7.0,
-                    "translations": []
-                },
-                {
-                    "attributeValues": [],
                     "color": "#FFA500",
                     "endValue": 7.0,
                     "favorite": false,
@@ -13953,6 +13938,22 @@
                         "users": {}
                     },
                     "startValue": 0.0,
+                    "translations": []
+                },
+                {
+                    "attributeValues": [],
+                    "color": "#FF0000",
+                    "endValue": 30.0,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "TsHFpCbmXxW",
+                    "name": "High",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 7.0,
                     "translations": []
                 }
             ],
@@ -14018,22 +14019,6 @@
                 },
                 {
                     "attributeValues": [],
-                    "color": "#EE391E",
-                    "endValue": 0.0001,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "fFBIEwglorN",
-                    "name": "Stock out",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 0.0,
-                    "translations": []
-                },
-                {
-                    "attributeValues": [],
                     "color": "#0BFF00",
                     "endValue": 3.0,
                     "favorite": false,
@@ -14046,6 +14031,22 @@
                         "users": {}
                     },
                     "startValue": 1.0,
+                    "translations": []
+                },
+                {
+                    "attributeValues": [],
+                    "color": "#EE391E",
+                    "endValue": 0.0001,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "fFBIEwglorN",
+                    "name": "Stock out",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 0.0,
                     "translations": []
                 },
                 {
@@ -14225,6 +14226,7 @@
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
                     "layer": "orgUnit",
+                    "metaData": {},
                     "name": "snng721RZje",
                     "noSpaceBetweenColumns": false,
                     "opacity": 1.0,
@@ -14357,6 +14359,7 @@
                     "legendSet": {
                         "id": "f1hWZIYCTzc"
                     },
+                    "metaData": {},
                     "method": 1,
                     "name": "MAL - ACT stock coverage time",
                     "noSpaceBetweenColumns": false,
@@ -14509,6 +14512,7 @@
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
                     "layer": "orgUnit",
+                    "metaData": {},
                     "name": "apQiFaiOrNV",
                     "noSpaceBetweenColumns": false,
                     "opacity": 1.0,
@@ -14637,6 +14641,7 @@
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "thematic",
+                    "metaData": {},
                     "method": 2,
                     "name": "MAL - ACT stock out days",
                     "noSpaceBetweenColumns": false,
@@ -14788,6 +14793,7 @@
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
                     "layer": "orgUnit",
+                    "metaData": {},
                     "name": "WwZAcac8qQF",
                     "noSpaceBetweenColumns": false,
                     "opacity": 1.0,
@@ -14920,6 +14926,7 @@
                     "legendSet": {
                         "id": "f1hWZIYCTzc"
                     },
+                    "metaData": {},
                     "method": 1,
                     "name": "MAL - ART stock coverage time",
                     "noSpaceBetweenColumns": false,
@@ -15072,6 +15079,7 @@
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
                     "layer": "orgUnit",
+                    "metaData": {},
                     "name": "vZPseTcpyev",
                     "noSpaceBetweenColumns": false,
                     "opacity": 1.0,
@@ -15200,6 +15208,7 @@
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "thematic",
+                    "metaData": {},
                     "method": 2,
                     "name": "MAL - Artesunate stock out days",
                     "noSpaceBetweenColumns": false,
@@ -15354,6 +15363,7 @@
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
                     "layer": "orgUnit",
+                    "metaData": {},
                     "name": "Km1on5F0dfp",
                     "noSpaceBetweenColumns": false,
                     "opacity": 1.0,
@@ -15486,6 +15496,7 @@
                     "legendSet": {
                         "id": "f1hWZIYCTzc"
                     },
+                    "metaData": {},
                     "method": 1,
                     "name": "MAL - LLIN stock coverage time",
                     "noSpaceBetweenColumns": false,
@@ -15638,6 +15649,7 @@
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
                     "layer": "orgUnit",
+                    "metaData": {},
                     "name": "dOajcSMBPEW",
                     "noSpaceBetweenColumns": false,
                     "opacity": 1.0,
@@ -15766,6 +15778,7 @@
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "thematic",
+                    "metaData": {},
                     "method": 2,
                     "name": "MAL - LLIN stock out days",
                     "noSpaceBetweenColumns": false,
@@ -15917,6 +15930,7 @@
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
                     "layer": "orgUnit",
+                    "metaData": {},
                     "name": "XBd4dWeXTcV",
                     "noSpaceBetweenColumns": false,
                     "opacity": 1.0,
@@ -16049,6 +16063,7 @@
                     "legendSet": {
                         "id": "f1hWZIYCTzc"
                     },
+                    "metaData": {},
                     "method": 1,
                     "name": "MAL - SX-PYR stock coverage time",
                     "noSpaceBetweenColumns": false,
@@ -16201,6 +16216,7 @@
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
                     "layer": "orgUnit",
+                    "metaData": {},
                     "name": "mSRR0fJFVBr",
                     "noSpaceBetweenColumns": false,
                     "opacity": 1.0,
@@ -16329,6 +16345,7 @@
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "thematic",
+                    "metaData": {},
                     "method": 2,
                     "name": "MAL - Primaquine stock out days",
                     "noSpaceBetweenColumns": false,
@@ -16480,6 +16497,7 @@
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
                     "layer": "orgUnit",
+                    "metaData": {},
                     "name": "hOhQtbdDLBL",
                     "noSpaceBetweenColumns": false,
                     "opacity": 1.0,
@@ -16612,6 +16630,7 @@
                     "legendSet": {
                         "id": "f1hWZIYCTzc"
                     },
+                    "metaData": {},
                     "method": 1,
                     "name": "MAL - RDT stock coverage time",
                     "noSpaceBetweenColumns": false,
@@ -16764,6 +16783,7 @@
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
                     "layer": "orgUnit",
+                    "metaData": {},
                     "name": "cjcM92dhkb7",
                     "noSpaceBetweenColumns": false,
                     "opacity": 1.0,
@@ -16892,6 +16912,7 @@
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "thematic",
+                    "metaData": {},
                     "method": 2,
                     "name": "MAL - ACT stock out days",
                     "noSpaceBetweenColumns": false,
@@ -17043,6 +17064,7 @@
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
                     "layer": "orgUnit",
+                    "metaData": {},
                     "name": "x6MglfvgwiH",
                     "noSpaceBetweenColumns": false,
                     "opacity": 1.0,
@@ -17175,6 +17197,7 @@
                     "legendSet": {
                         "id": "f1hWZIYCTzc"
                     },
+                    "metaData": {},
                     "method": 1,
                     "name": "MAL - SX-PYR stock coverage time",
                     "noSpaceBetweenColumns": false,
@@ -17327,6 +17350,7 @@
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
                     "layer": "orgUnit",
+                    "metaData": {},
                     "name": "MuqsWv4b4Yb",
                     "noSpaceBetweenColumns": false,
                     "opacity": 1.0,
@@ -17455,6 +17479,7 @@
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "thematic",
+                    "metaData": {},
                     "method": 2,
                     "name": "MAL - Sulfadoxine-pyrimethamine stock out days",
                     "noSpaceBetweenColumns": false,
@@ -17834,15 +17859,15 @@
         }
     ],
     "package": {
-        "DHIS2Build": "6f7e169",
-        "DHIS2Version": "2.41.7",
+        "DHIS2Build": "86f1508",
+        "DHIS2Version": "2.42.3.1",
         "code": "MAL_AGG_STK",
         "description": "Malaria Stock ",
         "healthAreaCode": "MAL",
         "healthAreaName": "Malaria",
-        "lastUpdated": "20260114T120045",
+        "lastUpdated": "20260114T200446",
         "locale": "en",
-        "name": "MAL_AGG_STK_AGG_DHIS2.41.7-en",
+        "name": "MAL_AGG_STK_AGG_DHIS2.42.3.1-en",
         "type": "AGG",
         "version": ""
     },
@@ -17854,6 +17879,12 @@
             "predictors": [
                 {
                     "id": "wmHxmTx2FZK"
+                },
+                {
+                    "id": "rvdcyWeZSTP"
+                },
+                {
+                    "id": "MUraSmIz6TK"
                 },
                 {
                     "id": "BWVDRQUSpXz"
@@ -17877,28 +17908,10 @@
                     "id": "Zz3axmqcaPT"
                 },
                 {
-                    "id": "DT6MpifpG2l"
-                },
-                {
-                    "id": "diIxP0dpmtd"
-                },
-                {
-                    "id": "Yj3VZ1ByrbZ"
-                },
-                {
-                    "id": "ADjBGB23mLr"
-                },
-                {
-                    "id": "uE66dpFP10h"
-                },
-                {
-                    "id": "rvdcyWeZSTP"
-                },
-                {
-                    "id": "MUraSmIz6TK"
-                },
-                {
                     "id": "q0sJHIRzhch"
+                },
+                {
+                    "id": "DT6MpifpG2l"
                 },
                 {
                     "id": "TOmKeDnDicG"
@@ -17907,7 +17920,19 @@
                     "id": "e2uM41wsazT"
                 },
                 {
+                    "id": "diIxP0dpmtd"
+                },
+                {
+                    "id": "Yj3VZ1ByrbZ"
+                },
+                {
                     "id": "mAzzLgXMSCO"
+                },
+                {
+                    "id": "ADjBGB23mLr"
+                },
+                {
+                    "id": "uE66dpFP10h"
                 },
                 {
                     "id": "HXvnsUOBbfX"
@@ -19256,6 +19281,7 @@
             "id": "vUeLeQMSwhN",
             "invitation": false,
             "lastLogin": "2020-04-23T09:17:46.912",
+            "name": "package admin",
             "organisationUnits": [],
             "passwordLastUpdated": "2022-08-17T12:56:38.395",
             "selfRegistered": false,
