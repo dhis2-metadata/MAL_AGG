@@ -9,7 +9,6 @@
                 {
                     "attributeValues": [],
                     "contentCount": 1,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "height": 20,
@@ -25,8 +24,6 @@
                     },
                     "translations": [],
                     "type": "VISUALIZATION",
-                    "userAccesses": [],
-                    "userGroupAccesses": [],
                     "users": [],
                     "visualization": {
                         "id": "dljYhsFPZV4"
@@ -38,7 +35,6 @@
                 {
                     "attributeValues": [],
                     "contentCount": 1,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "height": 20,
@@ -54,8 +50,6 @@
                     },
                     "translations": [],
                     "type": "VISUALIZATION",
-                    "userAccesses": [],
-                    "userGroupAccesses": [],
                     "users": [],
                     "visualization": {
                         "id": "dSsnA08uneS"
@@ -67,7 +61,6 @@
                 {
                     "attributeValues": [],
                     "contentCount": 1,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "height": 24,
@@ -84,8 +77,6 @@
                     "text": "*Definitions*\n\n*Report completeness (%)* \n\nNumerator = Actual health facilities reporting/\n\nDenominator = Expected health facilities to report\n\n*Report timeliness (%)* \n\nNumerator = Actual health facilities reporting on time\n\nDenominator = Actual health facilities reporting\n\n*Completeness by variables (%)* \n\nNumerator = Count of values reported for key data value that is representative of the data element\n\nDenominator = Expected reports from all health facilities assign the dataSet that reports the variable ",
                     "translations": [],
                     "type": "TEXT",
-                    "userAccesses": [],
-                    "userGroupAccesses": [],
                     "users": [],
                     "width": 14,
                     "x": 45,
@@ -94,7 +85,6 @@
                 {
                     "attributeValues": [],
                     "contentCount": 1,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "height": 4,
@@ -111,8 +101,6 @@
                     "text": "*Consistency and validity of variables*",
                     "translations": [],
                     "type": "TEXT",
-                    "userAccesses": [],
-                    "userGroupAccesses": [],
                     "users": [],
                     "width": 58,
                     "x": 1,
@@ -121,7 +109,6 @@
                 {
                     "attributeValues": [],
                     "contentCount": 1,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "height": 4,
@@ -138,8 +125,6 @@
                     "text": "*Completeness and timeliness of reporting*",
                     "translations": [],
                     "type": "TEXT",
-                    "userAccesses": [],
-                    "userGroupAccesses": [],
                     "users": [],
                     "width": 58,
                     "x": 1,
@@ -148,7 +133,6 @@
                 {
                     "attributeValues": [],
                     "contentCount": 1,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "height": 23,
@@ -164,8 +148,6 @@
                     },
                     "translations": [],
                     "type": "VISUALIZATION",
-                    "userAccesses": [],
-                    "userGroupAccesses": [],
                     "users": [],
                     "visualization": {
                         "id": "DAd7A9NksaK"
@@ -177,7 +159,6 @@
                 {
                     "attributeValues": [],
                     "contentCount": 1,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "height": 23,
@@ -193,8 +174,6 @@
                     },
                     "translations": [],
                     "type": "VISUALIZATION",
-                    "userAccesses": [],
-                    "userGroupAccesses": [],
                     "users": [],
                     "visualization": {
                         "id": "DI4aaAgIEvz"
@@ -206,7 +185,6 @@
                 {
                     "attributeValues": [],
                     "contentCount": 1,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "height": 23,
@@ -222,8 +200,6 @@
                     },
                     "translations": [],
                     "type": "VISUALIZATION",
-                    "userAccesses": [],
-                    "userGroupAccesses": [],
                     "users": [],
                     "visualization": {
                         "id": "s1kWmjSe5Ua"
@@ -235,7 +211,6 @@
                 {
                     "attributeValues": [],
                     "contentCount": 1,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "height": 23,
@@ -251,8 +226,6 @@
                     },
                     "translations": [],
                     "type": "VISUALIZATION",
-                    "userAccesses": [],
-                    "userGroupAccesses": [],
                     "users": [],
                     "visualization": {
                         "id": "YqGZyF9fyxj"
@@ -264,7 +237,6 @@
                 {
                     "attributeValues": [],
                     "contentCount": 1,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "height": 23,
@@ -280,8 +252,6 @@
                     },
                     "translations": [],
                     "type": "VISUALIZATION",
-                    "userAccesses": [],
-                    "userGroupAccesses": [],
                     "users": [],
                     "visualization": {
                         "id": "XHjBIRf1TDs"
@@ -293,7 +263,6 @@
                 {
                     "attributeValues": [],
                     "contentCount": 1,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "height": 23,
@@ -309,8 +278,6 @@
                     },
                     "translations": [],
                     "type": "VISUALIZATION",
-                    "userAccesses": [],
-                    "userGroupAccesses": [],
                     "users": [],
                     "visualization": {
                         "id": "CrjEwFa6BRR"
@@ -322,7 +289,6 @@
                 {
                     "attributeValues": [],
                     "contentCount": 1,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "height": 18,
@@ -338,8 +304,6 @@
                     },
                     "translations": [],
                     "type": "VISUALIZATION",
-                    "userAccesses": [],
-                    "userGroupAccesses": [],
                     "users": [],
                     "visualization": {
                         "id": "g6am8vrCpkm"
@@ -351,7 +315,6 @@
                 {
                     "attributeValues": [],
                     "contentCount": 1,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "height": 18,
@@ -367,8 +330,6 @@
                     },
                     "translations": [],
                     "type": "VISUALIZATION",
-                    "userAccesses": [],
-                    "userGroupAccesses": [],
                     "users": [],
                     "visualization": {
                         "id": "sgTE8MwRu38"
@@ -380,7 +341,6 @@
                 {
                     "attributeValues": [],
                     "contentCount": 1,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "height": 22,
@@ -396,8 +356,6 @@
                     },
                     "translations": [],
                     "type": "VISUALIZATION",
-                    "userAccesses": [],
-                    "userGroupAccesses": [],
                     "users": [],
                     "visualization": {
                         "id": "Nd1Vpv1eWuy"
@@ -409,7 +367,6 @@
                 {
                     "attributeValues": [],
                     "contentCount": 1,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "height": 22,
@@ -425,8 +382,6 @@
                     },
                     "translations": [],
                     "type": "VISUALIZATION",
-                    "userAccesses": [],
-                    "userGroupAccesses": [],
                     "users": [],
                     "visualization": {
                         "id": "uvzNDbkmNEp"
@@ -438,7 +393,6 @@
                 {
                     "attributeValues": [],
                     "contentCount": 1,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "height": 22,
@@ -454,8 +408,6 @@
                     },
                     "translations": [],
                     "type": "VISUALIZATION",
-                    "userAccesses": [],
-                    "userGroupAccesses": [],
                     "users": [],
                     "visualization": {
                         "id": "bmGtBDNFQUQ"
@@ -467,7 +419,6 @@
                 {
                     "attributeValues": [],
                     "contentCount": 1,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "height": 24,
@@ -483,8 +434,6 @@
                     },
                     "translations": [],
                     "type": "VISUALIZATION",
-                    "userAccesses": [],
-                    "userGroupAccesses": [],
                     "users": [],
                     "visualization": {
                         "id": "j8AshcRp31c"
@@ -496,7 +445,6 @@
                 {
                     "attributeValues": [],
                     "contentCount": 1,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "height": 24,
@@ -512,8 +460,6 @@
                     },
                     "translations": [],
                     "type": "VISUALIZATION",
-                    "userAccesses": [],
-                    "userGroupAccesses": [],
                     "users": [],
                     "visualization": {
                         "id": "wyHtEhO9WJx"
@@ -525,7 +471,6 @@
                 {
                     "attributeValues": [],
                     "contentCount": 1,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "height": 24,
@@ -541,8 +486,6 @@
                     },
                     "translations": [],
                     "type": "VISUALIZATION",
-                    "userAccesses": [],
-                    "userGroupAccesses": [],
                     "users": [],
                     "visualization": {
                         "id": "MqF4vunDaSH"
@@ -554,7 +497,6 @@
                 {
                     "attributeValues": [],
                     "contentCount": 1,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "height": 18,
@@ -570,8 +512,6 @@
                     },
                     "translations": [],
                     "type": "VISUALIZATION",
-                    "userAccesses": [],
-                    "userGroupAccesses": [],
                     "users": [],
                     "visualization": {
                         "id": "XHJUbmzHSK0"
@@ -583,7 +523,6 @@
                 {
                     "attributeValues": [],
                     "contentCount": 1,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "height": 22,
@@ -599,8 +538,6 @@
                     },
                     "translations": [],
                     "type": "VISUALIZATION",
-                    "userAccesses": [],
-                    "userGroupAccesses": [],
                     "users": [],
                     "visualization": {
                         "id": "uGfyrJEQAWx"
@@ -612,7 +549,6 @@
                 {
                     "attributeValues": [],
                     "contentCount": 1,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "height": 24,
@@ -629,8 +565,6 @@
                     },
                     "translations": [],
                     "type": "VISUALIZATION",
-                    "userAccesses": [],
-                    "userGroupAccesses": [],
                     "users": [],
                     "visualization": {
                         "id": "L6B1ookZQMW"
@@ -642,7 +576,6 @@
                 {
                     "attributeValues": [],
                     "contentCount": 1,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "height": 20,
@@ -659,8 +592,6 @@
                     },
                     "translations": [],
                     "type": "VISUALIZATION",
-                    "userAccesses": [],
-                    "userGroupAccesses": [],
                     "users": [],
                     "visualization": {
                         "id": "UCT3c9PPCQZ"
@@ -672,7 +603,6 @@
                 {
                     "attributeValues": [],
                     "contentCount": 1,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "height": 24,
@@ -689,8 +619,6 @@
                     },
                     "translations": [],
                     "type": "VISUALIZATION",
-                    "userAccesses": [],
-                    "userGroupAccesses": [],
                     "users": [],
                     "visualization": {
                         "id": "p29zcNGL0Aj"
@@ -702,7 +630,6 @@
                 {
                     "attributeValues": [],
                     "contentCount": 1,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "height": 22,
@@ -719,8 +646,6 @@
                     "text": "\n\n*Interpretations*\n\n\nConsistency between variables here is being measured by computing the difference between two related data elements that would typically be validated with validation rules.\n\n\nIn this case, inconsistencies between data elements are when the difference between these variables is negative or the value of the left-side variable is more than the right-side and this would be flagged red.",
                     "translations": [],
                     "type": "TEXT",
-                    "userAccesses": [],
-                    "userGroupAccesses": [],
                     "users": [],
                     "width": 19,
                     "x": 40,
@@ -804,13 +729,13 @@
                     "id": "yeQBWgHr3Wf"
                 },
                 {
-                    "id": "OS3CLHlk3HS"
-                },
-                {
                     "id": "ZlpqQCFLo2i"
                 },
                 {
                     "id": "KThZ4t55Q0A"
+                },
+                {
+                    "id": "OS3CLHlk3HS"
                 },
                 {
                     "id": "M9HIAa3Orvc"
@@ -1036,511 +961,6 @@
         }
     ],
     "indicators": [
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "ALL_RDT_POS_REPORTED_%",
-            "denominator": -1,
-            "denominatorDescription": "Actual report for malaria burden reduction",
-            "description": "Count of reports with the variable RDT positive reported (e.g not blank) divided by actual number of reports received multiplied by 100",
-            "id": "MwpGLM7V7vn",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [
-                {
-                    "id": "kqfOfmaaMVl"
-                }
-            ],
-            "name": "[CONFIG] MAL - % reports with RDT positive complete",
-            "numerator": -1,
-            "numeratorDescription": "RDT positive",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    },
-                    "vgxAJF9iDRX": {
-                        "access": "r-------",
-                        "id": "vgxAJF9iDRX"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "% reports with RDT positive complete",
-            "translations": [
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "Aktuální zpráva o snížení zátěže malárie"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "ALL_RDT_TESTED_REPORTED_%",
-            "denominator": -1,
-            "denominatorDescription": "Actual report for malaria burden reduction",
-            "description": "Count of reports with the variable RDT positive reported (e.g not blank) divided by actual number of reports received multiplied by 100",
-            "id": "ZlpqQCFLo2i",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [
-                {
-                    "id": "kqfOfmaaMVl"
-                }
-            ],
-            "name": "[CONFIG] MAL - % reports with RDT tested complete",
-            "numerator": -1,
-            "numeratorDescription": "RDT tested",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    },
-                    "vgxAJF9iDRX": {
-                        "access": "r-------",
-                        "id": "vgxAJF9iDRX"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "% reports with RDT tested complete",
-            "translations": [
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "Aktuální zpráva o snížení zátěže malárie"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "ALL_CAUSE_DTH_REPORTED_%",
-            "denominator": -1,
-            "denominatorDescription": "Actual report for malaria burden reduction",
-            "description": "Count of reports with the variable all-cause death reported (e.g not blank) divided by actual number of reports received multiplied by 100",
-            "id": "fr1H0xM09uP",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] MAL - % reports with all-cause death complete",
-            "numerator": -1,
-            "numeratorDescription": "All-cause death",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    },
-                    "vgxAJF9iDRX": {
-                        "access": "r-------",
-                        "id": "vgxAJF9iDRX"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "% reports with all-cause death complete",
-            "translations": [
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "Aktuální zpráva o snížení zátěže malárie"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "ALL_CAUSE_IPT_REPORTED_%",
-            "denominator": -1,
-            "denominatorDescription": "Actual report for malaria burden reduction",
-            "description": "Count of reports with the variable all-cause inpatients reported (e.g not blank) divided by actual number of reports received multiplied by 100",
-            "id": "DGfysK6msvW",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] MAL - % reports with all-cause inpatients complete",
-            "numerator": -1,
-            "numeratorDescription": "All-cause inpatients",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    },
-                    "vgxAJF9iDRX": {
-                        "access": "r-------",
-                        "id": "vgxAJF9iDRX"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "% reports with all-cause inpatients complete",
-            "translations": [
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "Aktuální zpráva o snížení zátěže malárie"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "ALL _CAUSE_OPD_REPORTED_%",
-            "denominator": -1,
-            "denominatorDescription": "Actual report for malaria burden reduction",
-            "description": "Count of reports with the variable all-cause outpatients reported (e.g not blank) divided by actual number of reports received multiplied by 100",
-            "id": "bBtpTPIvpNz",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] MAL - % reports with all-cause outpatients complete",
-            "numerator": -1,
-            "numeratorDescription": "All-cause outpatients",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    },
-                    "vgxAJF9iDRX": {
-                        "access": "r-------",
-                        "id": "vgxAJF9iDRX"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "% reports with all-cause outpatients complete",
-            "translations": [
-                {
-                    "locale": "cs",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "Všichni ambulantní pacienti"
-                },
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "Aktuální zpráva o snížení zátěže malárie"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "CONFIRMED_CASES_REPORTED_%",
-            "denominator": -1,
-            "denominatorDescription": "Actual report for malaria burden reduction",
-            "description": "Count of reports with the variable confirmed malaria cases reported (e.g not blank) divided by actual number of reports received multiplied by 100",
-            "id": "KThZ4t55Q0A",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] MAL - % reports with confirmed malaria cases complete",
-            "numerator": -1,
-            "numeratorDescription": "MAL- Confirmed malaria cases (reported)",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    },
-                    "vgxAJF9iDRX": {
-                        "access": "r-------",
-                        "id": "vgxAJF9iDRX"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "% reports with confirmed malaria cases complete",
-            "translations": [
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "Aktuální zpráva o snížení zátěže malárie"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "MAL_DTH_REPORTED_%",
-            "denominator": -1,
-            "denominatorDescription": "Actual report for malaria burden reduction",
-            "description": "Count of reports with the variable malaria deaths reported (e.g not blank) divided by actual number of reports received multiplied by 100",
-            "id": "uPuVP7vVv75",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] MAL - % reports with malaria deaths complete",
-            "numerator": -1,
-            "numeratorDescription": "Malaria deaths",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    },
-                    "vgxAJF9iDRX": {
-                        "access": "r-------",
-                        "id": "vgxAJF9iDRX"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "% Malaria deaths actual reported",
-            "translations": [
-                {
-                    "locale": "cs",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "Úmrtí na malárii"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "Décès dus au paludisme chez les patients hospitalisés"
-                },
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "Aktuální zpráva o snížení zátěže malárie"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "MAL_IPT_REPORTED_%",
-            "denominator": -1,
-            "denominatorDescription": "Actual report for malaria burden reduction",
-            "description": "Count of reports with the variable malaria inpatients reported (e.g not blank) divided by actual number of reports received multiplied by 100",
-            "id": "RgRkvZiQaSt",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] MAL - % reports with malaria inpatients complete",
-            "numerator": -1,
-            "numeratorDescription": "Inpatient malaria cases",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    },
-                    "vgxAJF9iDRX": {
-                        "access": "r-------",
-                        "id": "vgxAJF9iDRX"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "% reports with malaria inpatients complete",
-            "translations": [
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "Aktuální zpráva o snížení zátěže malárie"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "ALL_MICR_POS_REPORTED_%",
-            "denominator": -1,
-            "denominatorDescription": "Actual report for malaria burden reduction",
-            "description": "Count of reports with the variable microscopy positive reported (e.g not blank) divided by actual number of reports received multiplied by 100",
-            "id": "OCRFvqr1UkZ",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] MAL - % reports with microscopy positive complete",
-            "numerator": -1,
-            "numeratorDescription": "Microscopy positive",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    },
-                    "vgxAJF9iDRX": {
-                        "access": "r-------",
-                        "id": "vgxAJF9iDRX"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "% reports with microscopy positive complete",
-            "translations": [
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "Aktuální zpráva o snížení zátěže malárie"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "ALL_MICR_TESTED_REPORTED_%",
-            "denominator": -1,
-            "denominatorDescription": "Actual report for malaria burden reduction",
-            "description": "Count of reports with the variable microscopy tested reported (e.g not blank) divided by actual number of reports received multiplied by 100",
-            "id": "CgIjjRIEx9y",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] MAL - % reports with microscopy tested complete",
-            "numerator": -1,
-            "numeratorDescription": "Microscopy tested",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    },
-                    "vgxAJF9iDRX": {
-                        "access": "r-------",
-                        "id": "vgxAJF9iDRX"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "% reports with microscopy tested complete",
-            "translations": [
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "Aktuální zpráva o snížení zátěže malárie"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "SUSPECTED_REPORTED_%",
-            "denominator": -1,
-            "denominatorDescription": "Actual report for malaria burden reduction",
-            "description": "Count of reports with suspected malaria cases 15+ years, reported (e.g not blank) divided by actual number of reports received multiplied by 100",
-            "id": "M9HIAa3Orvc",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [
-                {
-                    "id": "kqfOfmaaMVl"
-                }
-            ],
-            "name": "[CONFIG] MAL - % reports with suspected complete",
-            "numerator": -1,
-            "numeratorDescription": "MAL - Suspected malaria cases 15+ years, Male",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    },
-                    "vgxAJF9iDRX": {
-                        "access": "r-------",
-                        "id": "vgxAJF9iDRX"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "% reports with suspected complete",
-            "translations": []
-        },
         {
             "annualized": false,
             "attributeValues": [],
@@ -2513,6 +1933,511 @@
         {
             "annualized": false,
             "attributeValues": [],
+            "code": "ALL_CAUSE_DTH_REPORTED_%",
+            "denominator": -1,
+            "denominatorDescription": "Actual report for malaria burden reduction",
+            "description": "Count of reports with the variable all-cause death reported (e.g not blank) divided by actual number of reports received multiplied by 100",
+            "id": "fr1H0xM09uP",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL - % reports with all-cause death complete",
+            "numerator": -1,
+            "numeratorDescription": "All-cause death",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "% reports with all-cause death complete",
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "Aktuální zpráva o snížení zátěže malárie"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "ALL_CAUSE_IPT_REPORTED_%",
+            "denominator": -1,
+            "denominatorDescription": "Actual report for malaria burden reduction",
+            "description": "Count of reports with the variable all-cause inpatients reported (e.g not blank) divided by actual number of reports received multiplied by 100",
+            "id": "DGfysK6msvW",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL - % reports with all-cause inpatients complete",
+            "numerator": -1,
+            "numeratorDescription": "All-cause inpatients",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "% reports with all-cause inpatients complete",
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "Aktuální zpráva o snížení zátěže malárie"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "ALL _CAUSE_OPD_REPORTED_%",
+            "denominator": -1,
+            "denominatorDescription": "Actual report for malaria burden reduction",
+            "description": "Count of reports with the variable all-cause outpatients reported (e.g not blank) divided by actual number of reports received multiplied by 100",
+            "id": "bBtpTPIvpNz",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL - % reports with all-cause outpatients complete",
+            "numerator": -1,
+            "numeratorDescription": "All-cause outpatients",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "% reports with all-cause outpatients complete",
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Všichni ambulantní pacienti"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "Aktuální zpráva o snížení zátěže malárie"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "CONFIRMED_CASES_REPORTED_%",
+            "denominator": -1,
+            "denominatorDescription": "Actual report for malaria burden reduction",
+            "description": "Count of reports with the variable confirmed malaria cases reported (e.g not blank) divided by actual number of reports received multiplied by 100",
+            "id": "KThZ4t55Q0A",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL - % reports with confirmed malaria cases complete",
+            "numerator": -1,
+            "numeratorDescription": "MAL- Confirmed malaria cases (reported)",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "% reports with confirmed malaria cases complete",
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "Aktuální zpráva o snížení zátěže malárie"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_DTH_REPORTED_%",
+            "denominator": -1,
+            "denominatorDescription": "Actual report for malaria burden reduction",
+            "description": "Count of reports with the variable malaria deaths reported (e.g not blank) divided by actual number of reports received multiplied by 100",
+            "id": "uPuVP7vVv75",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL - % reports with malaria deaths complete",
+            "numerator": -1,
+            "numeratorDescription": "Malaria deaths",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "% Malaria deaths actual reported",
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Úmrtí na malárii"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Décès dus au paludisme chez les patients hospitalisés"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "Aktuální zpráva o snížení zátěže malárie"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_IPT_REPORTED_%",
+            "denominator": -1,
+            "denominatorDescription": "Actual report for malaria burden reduction",
+            "description": "Count of reports with the variable malaria inpatients reported (e.g not blank) divided by actual number of reports received multiplied by 100",
+            "id": "RgRkvZiQaSt",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL - % reports with malaria inpatients complete",
+            "numerator": -1,
+            "numeratorDescription": "Inpatient malaria cases",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "% reports with malaria inpatients complete",
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "Aktuální zpráva o snížení zátěže malárie"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "ALL_MICR_POS_REPORTED_%",
+            "denominator": -1,
+            "denominatorDescription": "Actual report for malaria burden reduction",
+            "description": "Count of reports with the variable microscopy positive reported (e.g not blank) divided by actual number of reports received multiplied by 100",
+            "id": "OCRFvqr1UkZ",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL - % reports with microscopy positive complete",
+            "numerator": -1,
+            "numeratorDescription": "Microscopy positive",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "% reports with microscopy positive complete",
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "Aktuální zpráva o snížení zátěže malárie"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "ALL_MICR_TESTED_REPORTED_%",
+            "denominator": -1,
+            "denominatorDescription": "Actual report for malaria burden reduction",
+            "description": "Count of reports with the variable microscopy tested reported (e.g not blank) divided by actual number of reports received multiplied by 100",
+            "id": "CgIjjRIEx9y",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL - % reports with microscopy tested complete",
+            "numerator": -1,
+            "numeratorDescription": "Microscopy tested",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "% reports with microscopy tested complete",
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "Aktuální zpráva o snížení zátěže malárie"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "ALL_RDT_POS_REPORTED_%",
+            "denominator": -1,
+            "denominatorDescription": "Actual report for malaria burden reduction",
+            "description": "Count of reports with the variable RDT positive reported (e.g not blank) divided by actual number of reports received multiplied by 100",
+            "id": "MwpGLM7V7vn",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [
+                {
+                    "id": "kqfOfmaaMVl"
+                }
+            ],
+            "name": "[CONFIG] MAL - % reports with RDT positive complete",
+            "numerator": -1,
+            "numeratorDescription": "RDT positive",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "% reports with RDT positive complete",
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "Aktuální zpráva o snížení zátěže malárie"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "ALL_RDT_TESTED_REPORTED_%",
+            "denominator": -1,
+            "denominatorDescription": "Actual report for malaria burden reduction",
+            "description": "Count of reports with the variable RDT positive reported (e.g not blank) divided by actual number of reports received multiplied by 100",
+            "id": "ZlpqQCFLo2i",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [
+                {
+                    "id": "kqfOfmaaMVl"
+                }
+            ],
+            "name": "[CONFIG] MAL - % reports with RDT tested complete",
+            "numerator": -1,
+            "numeratorDescription": "RDT tested",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "% reports with RDT tested complete",
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "Aktuální zpráva o snížení zátěže malárie"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "SUSPECTED_REPORTED_%",
+            "denominator": -1,
+            "denominatorDescription": "Actual report for malaria burden reduction",
+            "description": "Count of reports with suspected malaria cases 15+ years, reported (e.g not blank) divided by actual number of reports received multiplied by 100",
+            "id": "M9HIAa3Orvc",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [
+                {
+                    "id": "kqfOfmaaMVl"
+                }
+            ],
+            "name": "[CONFIG] MAL - % reports with suspected complete",
+            "numerator": -1,
+            "numeratorDescription": "MAL - Suspected malaria cases 15+ years, Male",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "% reports with suspected complete",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
             "code": "MAL_SPR_MICR",
             "denominator": -1,
             "denominatorDescription": "Cases tested with microscopy",
@@ -2624,6 +2549,75 @@
                     "locale": "fr",
                     "property": "NAME",
                     "value": "PALU - % de cas suspectés testés"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_PER_ALL_DEATHS",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "description": "Number of all-cause deaths",
+            "id": "geVoFI4Sw7n",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL - All-cause deaths",
+            "numerator": -1,
+            "numeratorDescription": "All-cause death",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "All-cause deaths",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Décès-toutes causes"
+                },
+                {
+                    "locale": "ru",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
                 }
             ]
         },
@@ -2758,75 +2752,6 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "MAL_PER_ALL_DEATHS",
-            "denominator": -1,
-            "denominatorDescription": "1",
-            "description": "Number of all-cause deaths",
-            "id": "geVoFI4Sw7n",
-            "indicatorType": {
-                "id": "kHy61PbChXr"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] MAL - All-cause deaths",
-            "numerator": -1,
-            "numeratorDescription": "All-cause death",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    },
-                    "vgxAJF9iDRX": {
-                        "access": "r-------",
-                        "id": "vgxAJF9iDRX"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "All-cause deaths",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "es",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Décès-toutes causes"
-                },
-                {
-                    "locale": "ru",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
             "code": "MAL_TOT_MAL_CONF_CASES",
             "denominator": -1,
             "denominatorDescription": "1",
@@ -2935,125 +2860,6 @@
                     "locale": "fr",
                     "property": "NAME",
                     "value": "PALU - Cas de paludisme confirmés par microscopie et/ou TDR "
-                },
-                {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "MAL_CASES_TEST_RDT",
-            "denominator": -1,
-            "denominatorDescription": "1",
-            "description": "Suspected cases tested with malaria rapid diagnostic test (RDT)",
-            "id": "l0TE4LdzE8j",
-            "indicatorType": {
-                "id": "kHy61PbChXr"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] MAL - Malaria cases tested with RDT",
-            "numerator": -1,
-            "numeratorDescription": "Malaria cases tested with RDT",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    },
-                    "vgxAJF9iDRX": {
-                        "access": "r-------",
-                        "id": "vgxAJF9iDRX"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Tested (RDT)",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "es",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "cs",
-                    "property": "SHORT_NAME",
-                    "value": "Testováno (RDT)"
-                },
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ru",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "PALU - Cas suspects testés par TDR"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "fr",
-                    "property": "DESCRIPTION",
-                    "value": "Cas suspects testés avec le test de diagnostic rapide du paludisme (TDR)"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Cas suspects testés par TDR"
                 },
                 {
                     "locale": "nb",
@@ -3198,6 +3004,125 @@
                     "locale": "fr",
                     "property": "SHORT_NAME",
                     "value": "Cas suspects testés par microscopie"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_CASES_TEST_RDT",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "description": "Suspected cases tested with malaria rapid diagnostic test (RDT)",
+            "id": "l0TE4LdzE8j",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL - Malaria cases tested with RDT",
+            "numerator": -1,
+            "numeratorDescription": "Malaria cases tested with RDT",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Tested (RDT)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "Testováno (RDT)"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ru",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "PALU - Cas suspects testés par TDR"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Cas suspects testés avec le test de diagnostic rapide du paludisme (TDR)"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Cas suspects testés par TDR"
+                },
+                {
+                    "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
                 }
             ]
         },
@@ -3900,7 +3825,6 @@
                     "attributeValues": [],
                     "color": "#1a9641",
                     "endValue": 105.0,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "id": "FjujfNYokCd",
@@ -3911,15 +3835,12 @@
                         "users": {}
                     },
                     "startValue": 80.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
+                    "translations": []
                 },
                 {
                     "attributeValues": [],
                     "color": "#fdae61",
                     "endValue": 40.0,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "id": "kjjM7FWzhBS",
@@ -3930,15 +3851,12 @@
                         "users": {}
                     },
                     "startValue": 20.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
+                    "translations": []
                 },
                 {
                     "attributeValues": [],
                     "color": "#ffffbf",
                     "endValue": 60.0,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "id": "zAL9tOoVD88",
@@ -3949,15 +3867,12 @@
                         "users": {}
                     },
                     "startValue": 40.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
+                    "translations": []
                 },
                 {
                     "attributeValues": [],
                     "color": "#a6d96a",
                     "endValue": 80.0,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "id": "W0n5LCjmcSu",
@@ -3968,15 +3883,12 @@
                         "users": {}
                     },
                     "startValue": 60.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
+                    "translations": []
                 },
                 {
                     "attributeValues": [],
                     "color": "#d7191c",
                     "endValue": 20.0,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "id": "dF6vsiZO223",
@@ -3987,9 +3899,7 @@
                         "users": {}
                     },
                     "startValue": 0.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
+                    "translations": []
                 }
             ],
             "name": "Completeness and timeliness of reporting",
@@ -4023,7 +3933,6 @@
                     "attributeValues": [],
                     "color": "#FF0000",
                     "endValue": 0.0,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "id": "ZBXpxSNdjzG",
@@ -4034,15 +3943,12 @@
                         "users": {}
                     },
                     "startValue": -999999999.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
+                    "translations": []
                 },
                 {
                     "attributeValues": [],
                     "color": "#027E2F",
                     "endValue": 999999999.0,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "id": "v6Ah8nBTKzV",
@@ -4053,9 +3959,7 @@
                         "users": {}
                     },
                     "startValue": 0.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
+                    "translations": []
                 }
             ],
             "name": "Consistency between variables (>)",
@@ -4089,7 +3993,6 @@
                     "attributeValues": [],
                     "color": "#FF0000",
                     "endValue": -1.0,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "id": "PR55FXzZvWa",
@@ -4100,15 +4003,12 @@
                         "users": {}
                     },
                     "startValue": -999999999.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
+                    "translations": []
                 },
                 {
                     "attributeValues": [],
                     "color": "#027E2F",
                     "endValue": 999999999.0,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "id": "m8ThRKtM6gf",
@@ -4119,9 +4019,7 @@
                         "users": {}
                     },
                     "startValue": -1.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
+                    "translations": []
                 }
             ],
             "name": "Consistency between variables (>=)",
@@ -4155,7 +4053,6 @@
                     "attributeValues": [],
                     "color": "#EBBFA1",
                     "endValue": 40.0,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "id": "YzUpHZ2rmuf",
@@ -4166,15 +4063,12 @@
                         "users": {}
                     },
                     "startValue": 20.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
+                    "translations": []
                 },
                 {
                     "attributeValues": [],
                     "color": "#EDDBC4",
                     "endValue": 20.0,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "id": "BuOTVNarbyt",
@@ -4185,15 +4079,12 @@
                         "users": {}
                     },
                     "startValue": 10.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
+                    "translations": []
                 },
                 {
                     "attributeValues": [],
                     "color": "#D18C4D",
                     "endValue": 60.0,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "id": "ureY1y63dr5",
@@ -4204,15 +4095,12 @@
                         "users": {}
                     },
                     "startValue": 40.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
+                    "translations": []
                 },
                 {
                     "attributeValues": [],
                     "color": "#F2EBEB",
                     "endValue": 1.0,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "id": "WgH8MVAZ9p8",
@@ -4223,15 +4111,12 @@
                         "users": {}
                     },
                     "startValue": 0.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
+                    "translations": []
                 },
                 {
                     "attributeValues": [],
                     "color": "#A13300",
                     "endValue": 80.0,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "id": "LCN14FU1Qg1",
@@ -4242,15 +4127,12 @@
                         "users": {}
                     },
                     "startValue": 60.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
+                    "translations": []
                 },
                 {
                     "attributeValues": [],
                     "color": "#400000",
                     "endValue": 100.0,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "id": "LOaqcFHJu0y",
@@ -4261,15 +4143,12 @@
                         "users": {}
                     },
                     "startValue": 80.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
+                    "translations": []
                 },
                 {
                     "attributeValues": [],
                     "color": "#ffffff",
                     "endValue": 0.0,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "id": "htsd14BFeVx",
@@ -4280,15 +4159,12 @@
                         "users": {}
                     },
                     "startValue": 0.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
+                    "translations": []
                 },
                 {
                     "attributeValues": [],
                     "color": "#F0E0CD",
                     "endValue": 10.0,
-                    "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
                     "id": "NEnzok8vUpf",
@@ -4299,9 +4175,7 @@
                         "users": {}
                     },
                     "startValue": 1.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
+                    "translations": []
                 }
             ],
             "name": "Malaria confirmed incidence rate",
@@ -4391,6 +4265,7 @@
             "attributeValues": [],
             "id": "pubdYxdPL8f",
             "name": "Private",
+            "organisationUnits": [],
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -4430,6 +4305,7 @@
             "attributeValues": [],
             "id": "ltOchiGMdfn",
             "name": "Public",
+            "organisationUnits": [],
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -4467,15 +4343,15 @@
         }
     ],
     "package": {
-        "DHIS2Build": "db15b78",
-        "DHIS2Version": "2.40.2",
+        "DHIS2Build": "6f7e169",
+        "DHIS2Version": "2.41.7",
         "code": "MAL_AGG_DQ",
         "description": "Malaria Data Quality (dashboard)",
         "healthAreaCode": "MAL",
         "healthAreaName": "Malaria",
-        "lastUpdated": "20231206T151903",
+        "lastUpdated": "20260114T092755",
         "locale": "en",
-        "name": "MAL_AGG_DQ_DSH_DHIS2.40.2-en",
+        "name": "MAL_AGG_DQ_DSH_DHIS2.41.7-en",
         "type": "DSH",
         "version": ""
     },
@@ -4768,55 +4644,11 @@
             },
             "percentStackedValues": false,
             "periods": [],
+            "rawPeriods": [
+                "LAST_YEAR"
+            ],
             "regression": false,
             "regressionType": "NONE",
-            "relativePeriods": {
-                "biMonthsThisYear": false,
-                "last10FinancialYears": false,
-                "last10Years": false,
-                "last12Months": false,
-                "last12Weeks": false,
-                "last14Days": false,
-                "last180Days": false,
-                "last2SixMonths": false,
-                "last30Days": false,
-                "last3Days": false,
-                "last3Months": false,
-                "last4BiWeeks": false,
-                "last4Quarters": false,
-                "last4Weeks": false,
-                "last52Weeks": false,
-                "last5FinancialYears": false,
-                "last5Years": false,
-                "last60Days": false,
-                "last6BiMonths": false,
-                "last6Months": false,
-                "last7Days": false,
-                "last90Days": false,
-                "lastBiWeek": false,
-                "lastBimonth": false,
-                "lastFinancialYear": false,
-                "lastMonth": false,
-                "lastQuarter": false,
-                "lastSixMonth": false,
-                "lastWeek": false,
-                "lastYear": true,
-                "monthsLastYear": false,
-                "monthsThisYear": false,
-                "quartersLastYear": false,
-                "quartersThisYear": false,
-                "thisBiWeek": false,
-                "thisBimonth": false,
-                "thisDay": false,
-                "thisFinancialYear": false,
-                "thisMonth": false,
-                "thisQuarter": false,
-                "thisSixMonth": false,
-                "thisWeek": false,
-                "thisYear": false,
-                "weeksThisYear": false,
-                "yesterday": false
-            },
             "reportingParams": {
                 "grandParentOrganisationUnit": false,
                 "organisationUnit": false,
@@ -4866,6 +4698,7 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "sorting": [],
             "subscribers": [],
             "topLimit": 0,
             "translations": [],
@@ -4962,55 +4795,11 @@
             },
             "percentStackedValues": false,
             "periods": [],
+            "rawPeriods": [
+                "LAST_YEAR"
+            ],
             "regression": false,
             "regressionType": "NONE",
-            "relativePeriods": {
-                "biMonthsThisYear": false,
-                "last10FinancialYears": false,
-                "last10Years": false,
-                "last12Months": false,
-                "last12Weeks": false,
-                "last14Days": false,
-                "last180Days": false,
-                "last2SixMonths": false,
-                "last30Days": false,
-                "last3Days": false,
-                "last3Months": false,
-                "last4BiWeeks": false,
-                "last4Quarters": false,
-                "last4Weeks": false,
-                "last52Weeks": false,
-                "last5FinancialYears": false,
-                "last5Years": false,
-                "last60Days": false,
-                "last6BiMonths": false,
-                "last6Months": false,
-                "last7Days": false,
-                "last90Days": false,
-                "lastBiWeek": false,
-                "lastBimonth": false,
-                "lastFinancialYear": false,
-                "lastMonth": false,
-                "lastQuarter": false,
-                "lastSixMonth": false,
-                "lastWeek": false,
-                "lastYear": true,
-                "monthsLastYear": false,
-                "monthsThisYear": false,
-                "quartersLastYear": false,
-                "quartersThisYear": false,
-                "thisBiWeek": false,
-                "thisBimonth": false,
-                "thisDay": false,
-                "thisFinancialYear": false,
-                "thisMonth": false,
-                "thisQuarter": false,
-                "thisSixMonth": false,
-                "thisWeek": false,
-                "thisYear": false,
-                "weeksThisYear": false,
-                "yesterday": false
-            },
             "reportingParams": {
                 "grandParentOrganisationUnit": false,
                 "organisationUnit": false,
@@ -5060,6 +4849,7 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "sorting": [],
             "subscribers": [],
             "topLimit": 0,
             "translations": [],
@@ -5156,55 +4946,11 @@
             },
             "percentStackedValues": false,
             "periods": [],
+            "rawPeriods": [
+                "LAST_YEAR"
+            ],
             "regression": false,
             "regressionType": "NONE",
-            "relativePeriods": {
-                "biMonthsThisYear": false,
-                "last10FinancialYears": false,
-                "last10Years": false,
-                "last12Months": false,
-                "last12Weeks": false,
-                "last14Days": false,
-                "last180Days": false,
-                "last2SixMonths": false,
-                "last30Days": false,
-                "last3Days": false,
-                "last3Months": false,
-                "last4BiWeeks": false,
-                "last4Quarters": false,
-                "last4Weeks": false,
-                "last52Weeks": false,
-                "last5FinancialYears": false,
-                "last5Years": false,
-                "last60Days": false,
-                "last6BiMonths": false,
-                "last6Months": false,
-                "last7Days": false,
-                "last90Days": false,
-                "lastBiWeek": false,
-                "lastBimonth": false,
-                "lastFinancialYear": false,
-                "lastMonth": false,
-                "lastQuarter": false,
-                "lastSixMonth": false,
-                "lastWeek": false,
-                "lastYear": true,
-                "monthsLastYear": false,
-                "monthsThisYear": false,
-                "quartersLastYear": false,
-                "quartersThisYear": false,
-                "thisBiWeek": false,
-                "thisBimonth": false,
-                "thisDay": false,
-                "thisFinancialYear": false,
-                "thisMonth": false,
-                "thisQuarter": false,
-                "thisSixMonth": false,
-                "thisWeek": false,
-                "thisYear": false,
-                "weeksThisYear": false,
-                "yesterday": false
-            },
             "reportingParams": {
                 "grandParentOrganisationUnit": false,
                 "organisationUnit": false,
@@ -5254,376 +5000,7 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
-            "subscribers": [],
-            "topLimit": 0,
-            "translations": [],
-            "type": "SCATTER",
-            "userOrganisationUnit": false,
-            "userOrganisationUnitChildren": false,
-            "userOrganisationUnitGrandChildren": false,
-            "yearlySeries": []
-        },
-        {
-            "aggregationType": "DEFAULT",
-            "attributeValues": [],
-            "axes": [
-                {
-                    "index": 0,
-                    "title": {
-                        "text": "Microscopy tested"
-                    },
-                    "type": "RANGE"
-                },
-                {
-                    "index": 1,
-                    "title": {
-                        "text": "Microscopy positive"
-                    },
-                    "type": "RANGE"
-                }
-            ],
-            "categoryDimensions": [],
-            "categoryOptionGroupSetDimensions": [],
-            "colSubTotals": false,
-            "colTotals": false,
-            "colorSet": "DEFAULT",
-            "columnDimensions": [
-                "dx"
-            ],
-            "completedOnly": false,
-            "cumulativeValues": false,
-            "dataDimensionItems": [
-                {
-                    "dataDimensionItemType": "INDICATOR",
-                    "indicator": {
-                        "id": "KnoBf1YCOe2"
-                    }
-                },
-                {
-                    "dataDimensionItemType": "INDICATOR",
-                    "indicator": {
-                        "id": "w44M511O2yp"
-                    }
-                }
-            ],
-            "dataElementGroupSetDimensions": [],
-            "digitGroupSeparator": "SPACE",
-            "displayDensity": "NORMAL",
-            "filterDimensions": [
-                "pe"
-            ],
-            "fixColumnHeaders": false,
-            "fixRowHeaders": false,
-            "fontSize": "NORMAL",
-            "fontStyle": {},
-            "hideEmptyColumns": false,
-            "hideEmptyRowItems": "NONE",
-            "hideEmptyRows": false,
-            "hideLegend": false,
-            "hideSubtitle": false,
-            "hideTitle": false,
-            "icons": [],
-            "id": "DI4aaAgIEvz",
-            "itemOrganisationUnitGroups": [],
-            "legend": {
-                "showKey": false,
-                "strategy": "FIXED",
-                "style": "FILL"
-            },
-            "name": "MAL - Consistency between Microscopy tested and Microscopy positive",
-            "noSpaceBetweenColumns": false,
-            "numberType": "VALUE",
-            "optionalAxes": [],
-            "organisationUnitGroupSetDimensions": [],
-            "organisationUnitLevels": [
-                4
-            ],
-            "organisationUnits": [],
-            "outlierAnalysis": {
-                "enabled": true,
-                "extremeLines": {
-                    "enabled": true,
-                    "value": 1.0
-                },
-                "outlierMethod": "MODIFIED_Z_SCORE",
-                "thresholdFactor": 2.0
-            },
-            "percentStackedValues": false,
-            "periods": [],
-            "regression": false,
-            "regressionType": "NONE",
-            "relativePeriods": {
-                "biMonthsThisYear": false,
-                "last10FinancialYears": false,
-                "last10Years": false,
-                "last12Months": false,
-                "last12Weeks": false,
-                "last14Days": false,
-                "last180Days": false,
-                "last2SixMonths": false,
-                "last30Days": false,
-                "last3Days": false,
-                "last3Months": false,
-                "last4BiWeeks": false,
-                "last4Quarters": false,
-                "last4Weeks": false,
-                "last52Weeks": false,
-                "last5FinancialYears": false,
-                "last5Years": false,
-                "last60Days": false,
-                "last6BiMonths": false,
-                "last6Months": false,
-                "last7Days": false,
-                "last90Days": false,
-                "lastBiWeek": false,
-                "lastBimonth": false,
-                "lastFinancialYear": false,
-                "lastMonth": false,
-                "lastQuarter": false,
-                "lastSixMonth": false,
-                "lastWeek": false,
-                "lastYear": true,
-                "monthsLastYear": false,
-                "monthsThisYear": false,
-                "quartersLastYear": false,
-                "quartersThisYear": false,
-                "thisBiWeek": false,
-                "thisBimonth": false,
-                "thisDay": false,
-                "thisFinancialYear": false,
-                "thisMonth": false,
-                "thisQuarter": false,
-                "thisSixMonth": false,
-                "thisWeek": false,
-                "thisYear": false,
-                "weeksThisYear": false,
-                "yesterday": false
-            },
-            "reportingParams": {
-                "grandParentOrganisationUnit": false,
-                "organisationUnit": false,
-                "parentOrganisationUnit": false,
-                "reportingPeriod": false
-            },
-            "rowDimensions": [
-                "ou"
-            ],
-            "rowSubTotals": false,
-            "rowTotals": false,
-            "series": [],
-            "seriesKey": {
-                "hidden": false
-            },
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    },
-                    "vgxAJF9iDRX": {
-                        "access": "r-------",
-                        "id": "vgxAJF9iDRX"
-                    }
-                },
-                "users": {}
-            },
-            "showData": true,
-            "showDimensionLabels": false,
-            "showHierarchy": false,
-            "skipRounding": false,
-            "sortOrder": 0,
-            "subscribers": [],
-            "topLimit": 0,
-            "translations": [],
-            "type": "SCATTER",
-            "userOrganisationUnit": false,
-            "userOrganisationUnitChildren": false,
-            "userOrganisationUnitGrandChildren": false,
-            "yearlySeries": []
-        },
-        {
-            "aggregationType": "DEFAULT",
-            "attributeValues": [],
-            "axes": [
-                {
-                    "index": 0,
-                    "title": {
-                        "text": "RDT tested"
-                    },
-                    "type": "RANGE"
-                },
-                {
-                    "index": 1,
-                    "title": {
-                        "text": "RDT positive"
-                    },
-                    "type": "RANGE"
-                }
-            ],
-            "categoryDimensions": [],
-            "categoryOptionGroupSetDimensions": [],
-            "colSubTotals": false,
-            "colTotals": false,
-            "colorSet": "DEFAULT",
-            "columnDimensions": [
-                "dx"
-            ],
-            "completedOnly": false,
-            "cumulativeValues": false,
-            "dataDimensionItems": [
-                {
-                    "dataDimensionItemType": "INDICATOR",
-                    "indicator": {
-                        "id": "l0TE4LdzE8j"
-                    }
-                },
-                {
-                    "dataDimensionItemType": "INDICATOR",
-                    "indicator": {
-                        "id": "KReh953N60Q"
-                    }
-                }
-            ],
-            "dataElementGroupSetDimensions": [],
-            "digitGroupSeparator": "SPACE",
-            "displayDensity": "NORMAL",
-            "filterDimensions": [
-                "pe"
-            ],
-            "fixColumnHeaders": false,
-            "fixRowHeaders": false,
-            "fontSize": "NORMAL",
-            "fontStyle": {},
-            "hideEmptyColumns": false,
-            "hideEmptyRowItems": "NONE",
-            "hideEmptyRows": false,
-            "hideLegend": false,
-            "hideSubtitle": false,
-            "hideTitle": false,
-            "icons": [],
-            "id": "DAd7A9NksaK",
-            "itemOrganisationUnitGroups": [],
-            "legend": {
-                "showKey": false,
-                "strategy": "FIXED",
-                "style": "FILL"
-            },
-            "name": "MAL - Consistency between RDT tested and RDT positive",
-            "noSpaceBetweenColumns": false,
-            "numberType": "VALUE",
-            "optionalAxes": [],
-            "organisationUnitGroupSetDimensions": [],
-            "organisationUnitLevels": [
-                4
-            ],
-            "organisationUnits": [],
-            "outlierAnalysis": {
-                "enabled": true,
-                "extremeLines": {
-                    "enabled": true,
-                    "value": 1.0
-                },
-                "outlierMethod": "STANDARD_Z_SCORE",
-                "thresholdFactor": 2.0
-            },
-            "percentStackedValues": false,
-            "periods": [],
-            "regression": false,
-            "regressionType": "NONE",
-            "relativePeriods": {
-                "biMonthsThisYear": false,
-                "last10FinancialYears": false,
-                "last10Years": false,
-                "last12Months": false,
-                "last12Weeks": false,
-                "last14Days": false,
-                "last180Days": false,
-                "last2SixMonths": false,
-                "last30Days": false,
-                "last3Days": false,
-                "last3Months": false,
-                "last4BiWeeks": false,
-                "last4Quarters": false,
-                "last4Weeks": false,
-                "last52Weeks": false,
-                "last5FinancialYears": false,
-                "last5Years": false,
-                "last60Days": false,
-                "last6BiMonths": false,
-                "last6Months": false,
-                "last7Days": false,
-                "last90Days": false,
-                "lastBiWeek": false,
-                "lastBimonth": false,
-                "lastFinancialYear": false,
-                "lastMonth": false,
-                "lastQuarter": false,
-                "lastSixMonth": false,
-                "lastWeek": false,
-                "lastYear": true,
-                "monthsLastYear": false,
-                "monthsThisYear": false,
-                "quartersLastYear": false,
-                "quartersThisYear": false,
-                "thisBiWeek": false,
-                "thisBimonth": false,
-                "thisDay": false,
-                "thisFinancialYear": false,
-                "thisMonth": false,
-                "thisQuarter": false,
-                "thisSixMonth": false,
-                "thisWeek": false,
-                "thisYear": false,
-                "weeksThisYear": false,
-                "yesterday": false
-            },
-            "reportingParams": {
-                "grandParentOrganisationUnit": false,
-                "organisationUnit": false,
-                "parentOrganisationUnit": false,
-                "reportingPeriod": false
-            },
-            "rowDimensions": [
-                "ou"
-            ],
-            "rowSubTotals": false,
-            "rowTotals": false,
-            "series": [],
-            "seriesKey": {
-                "hidden": false
-            },
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    },
-                    "vgxAJF9iDRX": {
-                        "access": "r-------",
-                        "id": "vgxAJF9iDRX"
-                    }
-                },
-                "users": {}
-            },
-            "showData": true,
-            "showDimensionLabels": false,
-            "showHierarchy": false,
-            "skipRounding": false,
-            "sortOrder": 0,
+            "sorting": [],
             "subscribers": [],
             "topLimit": 0,
             "translations": [],
@@ -5720,55 +5097,11 @@
             },
             "percentStackedValues": false,
             "periods": [],
+            "rawPeriods": [
+                "LAST_YEAR"
+            ],
             "regression": false,
             "regressionType": "NONE",
-            "relativePeriods": {
-                "biMonthsThisYear": false,
-                "last10FinancialYears": false,
-                "last10Years": false,
-                "last12Months": false,
-                "last12Weeks": false,
-                "last14Days": false,
-                "last180Days": false,
-                "last2SixMonths": false,
-                "last30Days": false,
-                "last3Days": false,
-                "last3Months": false,
-                "last4BiWeeks": false,
-                "last4Quarters": false,
-                "last4Weeks": false,
-                "last52Weeks": false,
-                "last5FinancialYears": false,
-                "last5Years": false,
-                "last60Days": false,
-                "last6BiMonths": false,
-                "last6Months": false,
-                "last7Days": false,
-                "last90Days": false,
-                "lastBiWeek": false,
-                "lastBimonth": false,
-                "lastFinancialYear": false,
-                "lastMonth": false,
-                "lastQuarter": false,
-                "lastSixMonth": false,
-                "lastWeek": false,
-                "lastYear": true,
-                "monthsLastYear": false,
-                "monthsThisYear": false,
-                "quartersLastYear": false,
-                "quartersThisYear": false,
-                "thisBiWeek": false,
-                "thisBimonth": false,
-                "thisDay": false,
-                "thisFinancialYear": false,
-                "thisMonth": false,
-                "thisQuarter": false,
-                "thisSixMonth": false,
-                "thisWeek": false,
-                "thisYear": false,
-                "weeksThisYear": false,
-                "yesterday": false
-            },
             "reportingParams": {
                 "grandParentOrganisationUnit": false,
                 "organisationUnit": false,
@@ -5818,6 +5151,291 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "sorting": [],
+            "subscribers": [],
+            "topLimit": 0,
+            "translations": [],
+            "type": "SCATTER",
+            "userOrganisationUnit": false,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "axes": [
+                {
+                    "index": 0,
+                    "title": {
+                        "text": "Microscopy tested"
+                    },
+                    "type": "RANGE"
+                },
+                {
+                    "index": 1,
+                    "title": {
+                        "text": "Microscopy positive"
+                    },
+                    "type": "RANGE"
+                }
+            ],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "colorSet": "DEFAULT",
+            "columnDimensions": [
+                "dx"
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "KnoBf1YCOe2"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "w44M511O2yp"
+                    }
+                }
+            ],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "filterDimensions": [
+                "pe"
+            ],
+            "fixColumnHeaders": false,
+            "fixRowHeaders": false,
+            "fontSize": "NORMAL",
+            "fontStyle": {},
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": false,
+            "hideTitle": false,
+            "icons": [],
+            "id": "DI4aaAgIEvz",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "showKey": false,
+                "strategy": "FIXED",
+                "style": "FILL"
+            },
+            "name": "MAL - Consistency between Microscopy tested and Microscopy positive",
+            "noSpaceBetweenColumns": false,
+            "numberType": "VALUE",
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [
+                4
+            ],
+            "organisationUnits": [],
+            "outlierAnalysis": {
+                "enabled": true,
+                "extremeLines": {
+                    "enabled": true,
+                    "value": 1.0
+                },
+                "outlierMethod": "MODIFIED_Z_SCORE",
+                "thresholdFactor": 2.0
+            },
+            "percentStackedValues": false,
+            "periods": [],
+            "rawPeriods": [
+                "LAST_YEAR"
+            ],
+            "regression": false,
+            "regressionType": "NONE",
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [
+                "ou"
+            ],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "series": [],
+            "seriesKey": {
+                "hidden": false
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "sorting": [],
+            "subscribers": [],
+            "topLimit": 0,
+            "translations": [],
+            "type": "SCATTER",
+            "userOrganisationUnit": false,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "axes": [
+                {
+                    "index": 0,
+                    "title": {
+                        "text": "RDT tested"
+                    },
+                    "type": "RANGE"
+                },
+                {
+                    "index": 1,
+                    "title": {
+                        "text": "RDT positive"
+                    },
+                    "type": "RANGE"
+                }
+            ],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "colorSet": "DEFAULT",
+            "columnDimensions": [
+                "dx"
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "l0TE4LdzE8j"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "KReh953N60Q"
+                    }
+                }
+            ],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "filterDimensions": [
+                "pe"
+            ],
+            "fixColumnHeaders": false,
+            "fixRowHeaders": false,
+            "fontSize": "NORMAL",
+            "fontStyle": {},
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": false,
+            "hideTitle": false,
+            "icons": [],
+            "id": "DAd7A9NksaK",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "showKey": false,
+                "strategy": "FIXED",
+                "style": "FILL"
+            },
+            "name": "MAL - Consistency between RDT tested and RDT positive",
+            "noSpaceBetweenColumns": false,
+            "numberType": "VALUE",
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [
+                4
+            ],
+            "organisationUnits": [],
+            "outlierAnalysis": {
+                "enabled": true,
+                "extremeLines": {
+                    "enabled": true,
+                    "value": 1.0
+                },
+                "outlierMethod": "STANDARD_Z_SCORE",
+                "thresholdFactor": 2.0
+            },
+            "percentStackedValues": false,
+            "periods": [],
+            "rawPeriods": [
+                "LAST_YEAR"
+            ],
+            "regression": false,
+            "regressionType": "NONE",
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [
+                "ou"
+            ],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "series": [],
+            "seriesKey": {
+                "hidden": false
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    },
+                    "vgxAJF9iDRX": {
+                        "access": "r-------",
+                        "id": "vgxAJF9iDRX"
+                    }
+                },
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "sorting": [],
             "subscribers": [],
             "topLimit": 0,
             "translations": [],
@@ -5913,55 +5531,11 @@
             "organisationUnits": [],
             "percentStackedValues": false,
             "periods": [],
+            "rawPeriods": [
+                "LAST_6_MONTHS"
+            ],
             "regression": false,
             "regressionType": "NONE",
-            "relativePeriods": {
-                "biMonthsThisYear": false,
-                "last10FinancialYears": false,
-                "last10Years": false,
-                "last12Months": false,
-                "last12Weeks": false,
-                "last14Days": false,
-                "last180Days": false,
-                "last2SixMonths": false,
-                "last30Days": false,
-                "last3Days": false,
-                "last3Months": false,
-                "last4BiWeeks": false,
-                "last4Quarters": false,
-                "last4Weeks": false,
-                "last52Weeks": false,
-                "last5FinancialYears": false,
-                "last5Years": false,
-                "last60Days": false,
-                "last6BiMonths": false,
-                "last6Months": true,
-                "last7Days": false,
-                "last90Days": false,
-                "lastBiWeek": false,
-                "lastBimonth": false,
-                "lastFinancialYear": false,
-                "lastMonth": false,
-                "lastQuarter": false,
-                "lastSixMonth": false,
-                "lastWeek": false,
-                "lastYear": false,
-                "monthsLastYear": false,
-                "monthsThisYear": false,
-                "quartersLastYear": false,
-                "quartersThisYear": false,
-                "thisBiWeek": false,
-                "thisBimonth": false,
-                "thisDay": false,
-                "thisFinancialYear": false,
-                "thisMonth": false,
-                "thisQuarter": false,
-                "thisSixMonth": false,
-                "thisWeek": false,
-                "thisYear": false,
-                "weeksThisYear": false,
-                "yesterday": false
-            },
             "reportingParams": {
                 "grandParentOrganisationUnit": false,
                 "organisationUnit": false,
@@ -5980,6 +5554,7 @@
             },
             "sharing": {
                 "external": false,
+                "owner": "vUeLeQMSwhN",
                 "public": "r-------",
                 "userGroups": {
                     "WyU2lGUPLBv": {
@@ -6002,6 +5577,7 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "sorting": [],
             "subscribers": [],
             "topLimit": 0,
             "translations": [],
@@ -6089,7 +5665,6 @@
                 }
             ],
             "dataElementGroupSetDimensions": [],
-            "description": "",
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
             "filterDimensions": [],
@@ -6123,55 +5698,12 @@
             "organisationUnits": [],
             "percentStackedValues": false,
             "periods": [],
+            "rawPeriods": [
+                "LAST_MONTH",
+                "LAST_6_MONTHS"
+            ],
             "regression": false,
             "regressionType": "NONE",
-            "relativePeriods": {
-                "biMonthsThisYear": false,
-                "last10FinancialYears": false,
-                "last10Years": false,
-                "last12Months": false,
-                "last12Weeks": false,
-                "last14Days": false,
-                "last180Days": false,
-                "last2SixMonths": false,
-                "last30Days": false,
-                "last3Days": false,
-                "last3Months": false,
-                "last4BiWeeks": false,
-                "last4Quarters": false,
-                "last4Weeks": false,
-                "last52Weeks": false,
-                "last5FinancialYears": false,
-                "last5Years": false,
-                "last60Days": false,
-                "last6BiMonths": false,
-                "last6Months": true,
-                "last7Days": false,
-                "last90Days": false,
-                "lastBiWeek": false,
-                "lastBimonth": false,
-                "lastFinancialYear": false,
-                "lastMonth": true,
-                "lastQuarter": false,
-                "lastSixMonth": false,
-                "lastWeek": false,
-                "lastYear": false,
-                "monthsLastYear": false,
-                "monthsThisYear": false,
-                "quartersLastYear": false,
-                "quartersThisYear": false,
-                "thisBiWeek": false,
-                "thisBimonth": false,
-                "thisDay": false,
-                "thisFinancialYear": false,
-                "thisMonth": false,
-                "thisQuarter": false,
-                "thisSixMonth": false,
-                "thisWeek": false,
-                "thisYear": false,
-                "weeksThisYear": false,
-                "yesterday": false
-            },
             "reportingParams": {
                 "grandParentOrganisationUnit": false,
                 "organisationUnit": false,
@@ -6212,6 +5744,7 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "sorting": [],
             "subscribers": [],
             "title": "Completeness of variables in reports received",
             "topLimit": 0,
@@ -6225,6 +5758,7 @@
         {
             "aggregationType": "DEFAULT",
             "attributeValues": [],
+            "axes": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -6243,7 +5777,6 @@
                 }
             ],
             "dataElementGroupSetDimensions": [],
-            "description": "",
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
             "filterDimensions": [
@@ -6272,55 +5805,11 @@
             "organisationUnits": [],
             "percentStackedValues": false,
             "periods": [],
+            "rawPeriods": [
+                "LAST_12_MONTHS"
+            ],
             "regression": false,
             "regressionType": "NONE",
-            "relativePeriods": {
-                "biMonthsThisYear": false,
-                "last10FinancialYears": false,
-                "last10Years": false,
-                "last12Months": true,
-                "last12Weeks": false,
-                "last14Days": false,
-                "last180Days": false,
-                "last2SixMonths": false,
-                "last30Days": false,
-                "last3Days": false,
-                "last3Months": false,
-                "last4BiWeeks": false,
-                "last4Quarters": false,
-                "last4Weeks": false,
-                "last52Weeks": false,
-                "last5FinancialYears": false,
-                "last5Years": false,
-                "last60Days": false,
-                "last6BiMonths": false,
-                "last6Months": false,
-                "last7Days": false,
-                "last90Days": false,
-                "lastBiWeek": false,
-                "lastBimonth": false,
-                "lastFinancialYear": false,
-                "lastMonth": false,
-                "lastQuarter": false,
-                "lastSixMonth": false,
-                "lastWeek": false,
-                "lastYear": false,
-                "monthsLastYear": false,
-                "monthsThisYear": false,
-                "quartersLastYear": false,
-                "quartersThisYear": false,
-                "thisBiWeek": false,
-                "thisBimonth": false,
-                "thisDay": false,
-                "thisFinancialYear": false,
-                "thisMonth": false,
-                "thisQuarter": false,
-                "thisSixMonth": false,
-                "thisWeek": false,
-                "thisYear": false,
-                "weeksThisYear": false,
-                "yesterday": false
-            },
             "reportingParams": {
                 "grandParentOrganisationUnit": false,
                 "organisationUnit": false,
@@ -6332,6 +5821,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "series": [],
             "seriesKey": {
                 "hidden": false
             },
@@ -6360,6 +5850,7 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "sorting": [],
             "subscribers": [],
             "topLimit": 0,
             "translations": [],
@@ -6372,6 +5863,7 @@
         {
             "aggregationType": "DEFAULT",
             "attributeValues": [],
+            "axes": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -6390,7 +5882,6 @@
                 }
             ],
             "dataElementGroupSetDimensions": [],
-            "description": "",
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
             "filterDimensions": [
@@ -6419,55 +5910,11 @@
             "organisationUnits": [],
             "percentStackedValues": false,
             "periods": [],
+            "rawPeriods": [
+                "LAST_12_MONTHS"
+            ],
             "regression": false,
             "regressionType": "NONE",
-            "relativePeriods": {
-                "biMonthsThisYear": false,
-                "last10FinancialYears": false,
-                "last10Years": false,
-                "last12Months": true,
-                "last12Weeks": false,
-                "last14Days": false,
-                "last180Days": false,
-                "last2SixMonths": false,
-                "last30Days": false,
-                "last3Days": false,
-                "last3Months": false,
-                "last4BiWeeks": false,
-                "last4Quarters": false,
-                "last4Weeks": false,
-                "last52Weeks": false,
-                "last5FinancialYears": false,
-                "last5Years": false,
-                "last60Days": false,
-                "last6BiMonths": false,
-                "last6Months": false,
-                "last7Days": false,
-                "last90Days": false,
-                "lastBiWeek": false,
-                "lastBimonth": false,
-                "lastFinancialYear": false,
-                "lastMonth": false,
-                "lastQuarter": false,
-                "lastSixMonth": false,
-                "lastWeek": false,
-                "lastYear": false,
-                "monthsLastYear": false,
-                "monthsThisYear": false,
-                "quartersLastYear": false,
-                "quartersThisYear": false,
-                "thisBiWeek": false,
-                "thisBimonth": false,
-                "thisDay": false,
-                "thisFinancialYear": false,
-                "thisMonth": false,
-                "thisQuarter": false,
-                "thisSixMonth": false,
-                "thisWeek": false,
-                "thisYear": false,
-                "weeksThisYear": false,
-                "yesterday": false
-            },
             "reportingParams": {
                 "grandParentOrganisationUnit": false,
                 "organisationUnit": false,
@@ -6479,6 +5926,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "series": [],
             "seriesKey": {
                 "hidden": false
             },
@@ -6507,6 +5955,7 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "sorting": [],
             "subscribers": [],
             "topLimit": 0,
             "translations": [
@@ -6576,55 +6025,11 @@
             "organisationUnits": [],
             "percentStackedValues": false,
             "periods": [],
+            "rawPeriods": [
+                "MONTHS_THIS_YEAR"
+            ],
             "regression": false,
             "regressionType": "NONE",
-            "relativePeriods": {
-                "biMonthsThisYear": false,
-                "last10FinancialYears": false,
-                "last10Years": false,
-                "last12Months": false,
-                "last12Weeks": false,
-                "last14Days": false,
-                "last180Days": false,
-                "last2SixMonths": false,
-                "last30Days": false,
-                "last3Days": false,
-                "last3Months": false,
-                "last4BiWeeks": false,
-                "last4Quarters": false,
-                "last4Weeks": false,
-                "last52Weeks": false,
-                "last5FinancialYears": false,
-                "last5Years": false,
-                "last60Days": false,
-                "last6BiMonths": false,
-                "last6Months": false,
-                "last7Days": false,
-                "last90Days": false,
-                "lastBiWeek": false,
-                "lastBimonth": false,
-                "lastFinancialYear": false,
-                "lastMonth": false,
-                "lastQuarter": false,
-                "lastSixMonth": false,
-                "lastWeek": false,
-                "lastYear": false,
-                "monthsLastYear": false,
-                "monthsThisYear": true,
-                "quartersLastYear": false,
-                "quartersThisYear": false,
-                "thisBiWeek": false,
-                "thisBimonth": false,
-                "thisDay": false,
-                "thisFinancialYear": false,
-                "thisMonth": false,
-                "thisQuarter": false,
-                "thisSixMonth": false,
-                "thisWeek": false,
-                "thisYear": false,
-                "weeksThisYear": false,
-                "yesterday": false
-            },
             "reportingParams": {
                 "grandParentOrganisationUnit": false,
                 "organisationUnit": false,
@@ -6665,6 +6070,7 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "sorting": [],
             "subscribers": [],
             "topLimit": 0,
             "translations": [],
@@ -6680,6 +6086,7 @@
         {
             "aggregationType": "DEFAULT",
             "attributeValues": [],
+            "axes": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -6726,55 +6133,11 @@
             "organisationUnits": [],
             "percentStackedValues": false,
             "periods": [],
+            "rawPeriods": [
+                "LAST_12_MONTHS"
+            ],
             "regression": false,
             "regressionType": "NONE",
-            "relativePeriods": {
-                "biMonthsThisYear": false,
-                "last10FinancialYears": false,
-                "last10Years": false,
-                "last12Months": true,
-                "last12Weeks": false,
-                "last14Days": false,
-                "last180Days": false,
-                "last2SixMonths": false,
-                "last30Days": false,
-                "last3Days": false,
-                "last3Months": false,
-                "last4BiWeeks": false,
-                "last4Quarters": false,
-                "last4Weeks": false,
-                "last52Weeks": false,
-                "last5FinancialYears": false,
-                "last5Years": false,
-                "last60Days": false,
-                "last6BiMonths": false,
-                "last6Months": false,
-                "last7Days": false,
-                "last90Days": false,
-                "lastBiWeek": false,
-                "lastBimonth": false,
-                "lastFinancialYear": false,
-                "lastMonth": false,
-                "lastQuarter": false,
-                "lastSixMonth": false,
-                "lastWeek": false,
-                "lastYear": false,
-                "monthsLastYear": false,
-                "monthsThisYear": false,
-                "quartersLastYear": false,
-                "quartersThisYear": false,
-                "thisBiWeek": false,
-                "thisBimonth": false,
-                "thisDay": false,
-                "thisFinancialYear": false,
-                "thisMonth": false,
-                "thisQuarter": false,
-                "thisSixMonth": false,
-                "thisWeek": false,
-                "thisYear": false,
-                "weeksThisYear": false,
-                "yesterday": false
-            },
             "reportingParams": {
                 "grandParentOrganisationUnit": false,
                 "organisationUnit": false,
@@ -6786,6 +6149,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "series": [],
             "seriesKey": {
                 "hidden": false
             },
@@ -6814,6 +6178,7 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "sorting": [],
             "subscribers": [],
             "topLimit": 0,
             "translations": [],
@@ -6826,6 +6191,7 @@
         {
             "aggregationType": "DEFAULT",
             "attributeValues": [],
+            "axes": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -6872,55 +6238,11 @@
             "organisationUnits": [],
             "percentStackedValues": false,
             "periods": [],
+            "rawPeriods": [
+                "LAST_12_MONTHS"
+            ],
             "regression": false,
             "regressionType": "NONE",
-            "relativePeriods": {
-                "biMonthsThisYear": false,
-                "last10FinancialYears": false,
-                "last10Years": false,
-                "last12Months": true,
-                "last12Weeks": false,
-                "last14Days": false,
-                "last180Days": false,
-                "last2SixMonths": false,
-                "last30Days": false,
-                "last3Days": false,
-                "last3Months": false,
-                "last4BiWeeks": false,
-                "last4Quarters": false,
-                "last4Weeks": false,
-                "last52Weeks": false,
-                "last5FinancialYears": false,
-                "last5Years": false,
-                "last60Days": false,
-                "last6BiMonths": false,
-                "last6Months": false,
-                "last7Days": false,
-                "last90Days": false,
-                "lastBiWeek": false,
-                "lastBimonth": false,
-                "lastFinancialYear": false,
-                "lastMonth": false,
-                "lastQuarter": false,
-                "lastSixMonth": false,
-                "lastWeek": false,
-                "lastYear": false,
-                "monthsLastYear": false,
-                "monthsThisYear": false,
-                "quartersLastYear": false,
-                "quartersThisYear": false,
-                "thisBiWeek": false,
-                "thisBimonth": false,
-                "thisDay": false,
-                "thisFinancialYear": false,
-                "thisMonth": false,
-                "thisQuarter": false,
-                "thisSixMonth": false,
-                "thisWeek": false,
-                "thisYear": false,
-                "weeksThisYear": false,
-                "yesterday": false
-            },
             "reportingParams": {
                 "grandParentOrganisationUnit": false,
                 "organisationUnit": false,
@@ -6932,6 +6254,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "series": [],
             "seriesKey": {
                 "hidden": false
             },
@@ -6960,6 +6283,7 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "sorting": [],
             "subscribers": [],
             "topLimit": 0,
             "translations": [],
@@ -6972,6 +6296,7 @@
         {
             "aggregationType": "DEFAULT",
             "attributeValues": [],
+            "axes": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -7018,55 +6343,11 @@
             "organisationUnits": [],
             "percentStackedValues": false,
             "periods": [],
+            "rawPeriods": [
+                "LAST_12_MONTHS"
+            ],
             "regression": false,
             "regressionType": "NONE",
-            "relativePeriods": {
-                "biMonthsThisYear": false,
-                "last10FinancialYears": false,
-                "last10Years": false,
-                "last12Months": true,
-                "last12Weeks": false,
-                "last14Days": false,
-                "last180Days": false,
-                "last2SixMonths": false,
-                "last30Days": false,
-                "last3Days": false,
-                "last3Months": false,
-                "last4BiWeeks": false,
-                "last4Quarters": false,
-                "last4Weeks": false,
-                "last52Weeks": false,
-                "last5FinancialYears": false,
-                "last5Years": false,
-                "last60Days": false,
-                "last6BiMonths": false,
-                "last6Months": false,
-                "last7Days": false,
-                "last90Days": false,
-                "lastBiWeek": false,
-                "lastBimonth": false,
-                "lastFinancialYear": false,
-                "lastMonth": false,
-                "lastQuarter": false,
-                "lastSixMonth": false,
-                "lastWeek": false,
-                "lastYear": false,
-                "monthsLastYear": false,
-                "monthsThisYear": false,
-                "quartersLastYear": false,
-                "quartersThisYear": false,
-                "thisBiWeek": false,
-                "thisBimonth": false,
-                "thisDay": false,
-                "thisFinancialYear": false,
-                "thisMonth": false,
-                "thisQuarter": false,
-                "thisSixMonth": false,
-                "thisWeek": false,
-                "thisYear": false,
-                "weeksThisYear": false,
-                "yesterday": false
-            },
             "reportingParams": {
                 "grandParentOrganisationUnit": false,
                 "organisationUnit": false,
@@ -7078,6 +6359,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "series": [],
             "seriesKey": {
                 "hidden": false
             },
@@ -7106,6 +6388,7 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "sorting": [],
             "subscribers": [],
             "topLimit": 0,
             "translations": [],
@@ -7118,6 +6401,7 @@
         {
             "aggregationType": "DEFAULT",
             "attributeValues": [],
+            "axes": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -7164,55 +6448,11 @@
             "organisationUnits": [],
             "percentStackedValues": false,
             "periods": [],
+            "rawPeriods": [
+                "LAST_12_MONTHS"
+            ],
             "regression": false,
             "regressionType": "NONE",
-            "relativePeriods": {
-                "biMonthsThisYear": false,
-                "last10FinancialYears": false,
-                "last10Years": false,
-                "last12Months": true,
-                "last12Weeks": false,
-                "last14Days": false,
-                "last180Days": false,
-                "last2SixMonths": false,
-                "last30Days": false,
-                "last3Days": false,
-                "last3Months": false,
-                "last4BiWeeks": false,
-                "last4Quarters": false,
-                "last4Weeks": false,
-                "last52Weeks": false,
-                "last5FinancialYears": false,
-                "last5Years": false,
-                "last60Days": false,
-                "last6BiMonths": false,
-                "last6Months": false,
-                "last7Days": false,
-                "last90Days": false,
-                "lastBiWeek": false,
-                "lastBimonth": false,
-                "lastFinancialYear": false,
-                "lastMonth": false,
-                "lastQuarter": false,
-                "lastSixMonth": false,
-                "lastWeek": false,
-                "lastYear": false,
-                "monthsLastYear": false,
-                "monthsThisYear": false,
-                "quartersLastYear": false,
-                "quartersThisYear": false,
-                "thisBiWeek": false,
-                "thisBimonth": false,
-                "thisDay": false,
-                "thisFinancialYear": false,
-                "thisMonth": false,
-                "thisQuarter": false,
-                "thisSixMonth": false,
-                "thisWeek": false,
-                "thisYear": false,
-                "weeksThisYear": false,
-                "yesterday": false
-            },
             "reportingParams": {
                 "grandParentOrganisationUnit": false,
                 "organisationUnit": false,
@@ -7224,6 +6464,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "series": [],
             "seriesKey": {
                 "hidden": false
             },
@@ -7252,6 +6493,7 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "sorting": [],
             "subscribers": [],
             "topLimit": 0,
             "translations": [],
@@ -7264,6 +6506,7 @@
         {
             "aggregationType": "DEFAULT",
             "attributeValues": [],
+            "axes": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": true,
@@ -7290,6 +6533,7 @@
             "fixRowHeaders": false,
             "fontSize": "NORMAL",
             "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
             "hideEmptyRows": true,
             "hideLegend": false,
             "hideSubtitle": false,
@@ -7328,54 +6572,11 @@
             "organisationUnits": [],
             "percentStackedValues": false,
             "periods": [],
+            "rawPeriods": [
+                "LAST_5_YEARS"
+            ],
             "regression": false,
-            "relativePeriods": {
-                "biMonthsThisYear": false,
-                "last10FinancialYears": false,
-                "last10Years": false,
-                "last12Months": false,
-                "last12Weeks": false,
-                "last14Days": false,
-                "last180Days": false,
-                "last2SixMonths": false,
-                "last30Days": false,
-                "last3Days": false,
-                "last3Months": false,
-                "last4BiWeeks": false,
-                "last4Quarters": false,
-                "last4Weeks": false,
-                "last52Weeks": false,
-                "last5FinancialYears": false,
-                "last5Years": true,
-                "last60Days": false,
-                "last6BiMonths": false,
-                "last6Months": false,
-                "last7Days": false,
-                "last90Days": false,
-                "lastBiWeek": false,
-                "lastBimonth": false,
-                "lastFinancialYear": false,
-                "lastMonth": false,
-                "lastQuarter": false,
-                "lastSixMonth": false,
-                "lastWeek": false,
-                "lastYear": false,
-                "monthsLastYear": false,
-                "monthsThisYear": false,
-                "quartersLastYear": false,
-                "quartersThisYear": false,
-                "thisBiWeek": false,
-                "thisBimonth": false,
-                "thisDay": false,
-                "thisFinancialYear": false,
-                "thisMonth": false,
-                "thisQuarter": false,
-                "thisSixMonth": false,
-                "thisWeek": false,
-                "thisYear": false,
-                "weeksThisYear": false,
-                "yesterday": false
-            },
+            "regressionType": "NONE",
             "reportingParams": {
                 "grandParentOrganisationUnit": false,
                 "organisationUnit": false,
@@ -7388,6 +6589,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "series": [],
             "seriesKey": {
                 "hidden": false
             },
@@ -7416,6 +6618,7 @@
             "showHierarchy": true,
             "skipRounding": false,
             "sortOrder": 0,
+            "sorting": [],
             "subscribers": [],
             "topLimit": 0,
             "translations": [],
@@ -7428,6 +6631,7 @@
         {
             "aggregationType": "DEFAULT",
             "attributeValues": [],
+            "axes": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -7475,55 +6679,11 @@
             "organisationUnits": [],
             "percentStackedValues": false,
             "periods": [],
+            "rawPeriods": [
+                "LAST_12_MONTHS"
+            ],
             "regression": false,
             "regressionType": "NONE",
-            "relativePeriods": {
-                "biMonthsThisYear": false,
-                "last10FinancialYears": false,
-                "last10Years": false,
-                "last12Months": true,
-                "last12Weeks": false,
-                "last14Days": false,
-                "last180Days": false,
-                "last2SixMonths": false,
-                "last30Days": false,
-                "last3Days": false,
-                "last3Months": false,
-                "last4BiWeeks": false,
-                "last4Quarters": false,
-                "last4Weeks": false,
-                "last52Weeks": false,
-                "last5FinancialYears": false,
-                "last5Years": false,
-                "last60Days": false,
-                "last6BiMonths": false,
-                "last6Months": false,
-                "last7Days": false,
-                "last90Days": false,
-                "lastBiWeek": false,
-                "lastBimonth": false,
-                "lastFinancialYear": false,
-                "lastMonth": false,
-                "lastQuarter": false,
-                "lastSixMonth": false,
-                "lastWeek": false,
-                "lastYear": false,
-                "monthsLastYear": false,
-                "monthsThisYear": false,
-                "quartersLastYear": false,
-                "quartersThisYear": false,
-                "thisBiWeek": false,
-                "thisBimonth": false,
-                "thisDay": false,
-                "thisFinancialYear": false,
-                "thisMonth": false,
-                "thisQuarter": false,
-                "thisSixMonth": false,
-                "thisWeek": false,
-                "thisYear": false,
-                "weeksThisYear": false,
-                "yesterday": false
-            },
             "reportingParams": {
                 "grandParentOrganisationUnit": false,
                 "organisationUnit": false,
@@ -7535,6 +6695,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "series": [],
             "seriesKey": {
                 "hidden": false
             },
@@ -7563,6 +6724,7 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "sorting": [],
             "subscribers": [],
             "topLimit": 0,
             "translations": [
@@ -7581,6 +6743,7 @@
         {
             "aggregationType": "DEFAULT",
             "attributeValues": [],
+            "axes": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": true,
@@ -7607,6 +6770,7 @@
             "fixRowHeaders": false,
             "fontSize": "NORMAL",
             "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
             "hideEmptyRows": true,
             "hideLegend": false,
             "hideSubtitle": false,
@@ -7645,54 +6809,11 @@
             "organisationUnits": [],
             "percentStackedValues": false,
             "periods": [],
+            "rawPeriods": [
+                "LAST_5_YEARS"
+            ],
             "regression": false,
-            "relativePeriods": {
-                "biMonthsThisYear": false,
-                "last10FinancialYears": false,
-                "last10Years": false,
-                "last12Months": false,
-                "last12Weeks": false,
-                "last14Days": false,
-                "last180Days": false,
-                "last2SixMonths": false,
-                "last30Days": false,
-                "last3Days": false,
-                "last3Months": false,
-                "last4BiWeeks": false,
-                "last4Quarters": false,
-                "last4Weeks": false,
-                "last52Weeks": false,
-                "last5FinancialYears": false,
-                "last5Years": true,
-                "last60Days": false,
-                "last6BiMonths": false,
-                "last6Months": false,
-                "last7Days": false,
-                "last90Days": false,
-                "lastBiWeek": false,
-                "lastBimonth": false,
-                "lastFinancialYear": false,
-                "lastMonth": false,
-                "lastQuarter": false,
-                "lastSixMonth": false,
-                "lastWeek": false,
-                "lastYear": false,
-                "monthsLastYear": false,
-                "monthsThisYear": false,
-                "quartersLastYear": false,
-                "quartersThisYear": false,
-                "thisBiWeek": false,
-                "thisBimonth": false,
-                "thisDay": false,
-                "thisFinancialYear": false,
-                "thisMonth": false,
-                "thisQuarter": false,
-                "thisSixMonth": false,
-                "thisWeek": false,
-                "thisYear": false,
-                "weeksThisYear": false,
-                "yesterday": false
-            },
+            "regressionType": "NONE",
             "reportingParams": {
                 "grandParentOrganisationUnit": false,
                 "organisationUnit": false,
@@ -7705,6 +6826,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "series": [],
             "seriesKey": {
                 "hidden": false
             },
@@ -7733,6 +6855,7 @@
             "showHierarchy": true,
             "skipRounding": false,
             "sortOrder": 0,
+            "sorting": [],
             "subscribers": [],
             "topLimit": 0,
             "translations": [],
@@ -7745,6 +6868,7 @@
         {
             "aggregationType": "DEFAULT",
             "attributeValues": [],
+            "axes": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -7791,55 +6915,11 @@
             "organisationUnits": [],
             "percentStackedValues": false,
             "periods": [],
+            "rawPeriods": [
+                "LAST_12_MONTHS"
+            ],
             "regression": false,
             "regressionType": "NONE",
-            "relativePeriods": {
-                "biMonthsThisYear": false,
-                "last10FinancialYears": false,
-                "last10Years": false,
-                "last12Months": true,
-                "last12Weeks": false,
-                "last14Days": false,
-                "last180Days": false,
-                "last2SixMonths": false,
-                "last30Days": false,
-                "last3Days": false,
-                "last3Months": false,
-                "last4BiWeeks": false,
-                "last4Quarters": false,
-                "last4Weeks": false,
-                "last52Weeks": false,
-                "last5FinancialYears": false,
-                "last5Years": false,
-                "last60Days": false,
-                "last6BiMonths": false,
-                "last6Months": false,
-                "last7Days": false,
-                "last90Days": false,
-                "lastBiWeek": false,
-                "lastBimonth": false,
-                "lastFinancialYear": false,
-                "lastMonth": false,
-                "lastQuarter": false,
-                "lastSixMonth": false,
-                "lastWeek": false,
-                "lastYear": false,
-                "monthsLastYear": false,
-                "monthsThisYear": false,
-                "quartersLastYear": false,
-                "quartersThisYear": false,
-                "thisBiWeek": false,
-                "thisBimonth": false,
-                "thisDay": false,
-                "thisFinancialYear": false,
-                "thisMonth": false,
-                "thisQuarter": false,
-                "thisSixMonth": false,
-                "thisWeek": false,
-                "thisYear": false,
-                "weeksThisYear": false,
-                "yesterday": false
-            },
             "reportingParams": {
                 "grandParentOrganisationUnit": false,
                 "organisationUnit": false,
@@ -7851,6 +6931,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "series": [],
             "seriesKey": {
                 "hidden": false
             },
@@ -7879,6 +6960,7 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "sorting": [],
             "subscribers": [],
             "topLimit": 0,
             "translations": [],
@@ -7891,6 +6973,7 @@
         {
             "aggregationType": "DEFAULT",
             "attributeValues": [],
+            "axes": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -7937,55 +7020,11 @@
             "organisationUnits": [],
             "percentStackedValues": false,
             "periods": [],
+            "rawPeriods": [
+                "LAST_12_MONTHS"
+            ],
             "regression": false,
             "regressionType": "NONE",
-            "relativePeriods": {
-                "biMonthsThisYear": false,
-                "last10FinancialYears": false,
-                "last10Years": false,
-                "last12Months": true,
-                "last12Weeks": false,
-                "last14Days": false,
-                "last180Days": false,
-                "last2SixMonths": false,
-                "last30Days": false,
-                "last3Days": false,
-                "last3Months": false,
-                "last4BiWeeks": false,
-                "last4Quarters": false,
-                "last4Weeks": false,
-                "last52Weeks": false,
-                "last5FinancialYears": false,
-                "last5Years": false,
-                "last60Days": false,
-                "last6BiMonths": false,
-                "last6Months": false,
-                "last7Days": false,
-                "last90Days": false,
-                "lastBiWeek": false,
-                "lastBimonth": false,
-                "lastFinancialYear": false,
-                "lastMonth": false,
-                "lastQuarter": false,
-                "lastSixMonth": false,
-                "lastWeek": false,
-                "lastYear": false,
-                "monthsLastYear": false,
-                "monthsThisYear": false,
-                "quartersLastYear": false,
-                "quartersThisYear": false,
-                "thisBiWeek": false,
-                "thisBimonth": false,
-                "thisDay": false,
-                "thisFinancialYear": false,
-                "thisMonth": false,
-                "thisQuarter": false,
-                "thisSixMonth": false,
-                "thisWeek": false,
-                "thisYear": false,
-                "weeksThisYear": false,
-                "yesterday": false
-            },
             "reportingParams": {
                 "grandParentOrganisationUnit": false,
                 "organisationUnit": false,
@@ -7997,6 +7036,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "series": [],
             "seriesKey": {
                 "hidden": false
             },
@@ -8025,6 +7065,7 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "sorting": [],
             "subscribers": [],
             "topLimit": 0,
             "translations": [
@@ -8094,55 +7135,11 @@
             "organisationUnits": [],
             "percentStackedValues": false,
             "periods": [],
+            "rawPeriods": [
+                "MONTHS_THIS_YEAR"
+            ],
             "regression": false,
             "regressionType": "NONE",
-            "relativePeriods": {
-                "biMonthsThisYear": false,
-                "last10FinancialYears": false,
-                "last10Years": false,
-                "last12Months": false,
-                "last12Weeks": false,
-                "last14Days": false,
-                "last180Days": false,
-                "last2SixMonths": false,
-                "last30Days": false,
-                "last3Days": false,
-                "last3Months": false,
-                "last4BiWeeks": false,
-                "last4Quarters": false,
-                "last4Weeks": false,
-                "last52Weeks": false,
-                "last5FinancialYears": false,
-                "last5Years": false,
-                "last60Days": false,
-                "last6BiMonths": false,
-                "last6Months": false,
-                "last7Days": false,
-                "last90Days": false,
-                "lastBiWeek": false,
-                "lastBimonth": false,
-                "lastFinancialYear": false,
-                "lastMonth": false,
-                "lastQuarter": false,
-                "lastSixMonth": false,
-                "lastWeek": false,
-                "lastYear": false,
-                "monthsLastYear": false,
-                "monthsThisYear": true,
-                "quartersLastYear": false,
-                "quartersThisYear": false,
-                "thisBiWeek": false,
-                "thisBimonth": false,
-                "thisDay": false,
-                "thisFinancialYear": false,
-                "thisMonth": false,
-                "thisQuarter": false,
-                "thisSixMonth": false,
-                "thisWeek": false,
-                "thisYear": false,
-                "weeksThisYear": false,
-                "yesterday": false
-            },
             "reportingParams": {
                 "grandParentOrganisationUnit": false,
                 "organisationUnit": false,
@@ -8183,6 +7180,7 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "sorting": [],
             "subscribers": [],
             "topLimit": 0,
             "translations": [],
