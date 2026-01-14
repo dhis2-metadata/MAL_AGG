@@ -3839,22 +3839,6 @@
                 },
                 {
                     "attributeValues": [],
-                    "color": "#fdae61",
-                    "endValue": 40.0,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "kjjM7FWzhBS",
-                    "name": "20 - 40",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 20.0,
-                    "translations": []
-                },
-                {
-                    "attributeValues": [],
                     "color": "#ffffbf",
                     "endValue": 60.0,
                     "favorite": false,
@@ -3883,6 +3867,22 @@
                         "users": {}
                     },
                     "startValue": 60.0,
+                    "translations": []
+                },
+                {
+                    "attributeValues": [],
+                    "color": "#fdae61",
+                    "endValue": 40.0,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "kjjM7FWzhBS",
+                    "name": "20 - 40",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 20.0,
                     "translations": []
                 },
                 {
@@ -3991,22 +3991,6 @@
             "legends": [
                 {
                     "attributeValues": [],
-                    "color": "#FF0000",
-                    "endValue": -1.0,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "PR55FXzZvWa",
-                    "name": "Negative",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": -999999999.0,
-                    "translations": []
-                },
-                {
-                    "attributeValues": [],
                     "color": "#027E2F",
                     "endValue": 999999999.0,
                     "favorite": false,
@@ -4019,6 +4003,22 @@
                         "users": {}
                     },
                     "startValue": -1.0,
+                    "translations": []
+                },
+                {
+                    "attributeValues": [],
+                    "color": "#FF0000",
+                    "endValue": -1.0,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "PR55FXzZvWa",
+                    "name": "Negative",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": -999999999.0,
                     "translations": []
                 }
             ],
@@ -4349,7 +4349,7 @@
         "description": "Malaria Data Quality (dashboard)",
         "healthAreaCode": "MAL",
         "healthAreaName": "Malaria",
-        "lastUpdated": "20260114T092755",
+        "lastUpdated": "20260114T113812",
         "locale": "en",
         "name": "MAL_AGG_DQ_DSH_DHIS2.41.7-en",
         "type": "DSH",
@@ -4358,7 +4358,7 @@
     "userGroups": [
         {
             "attributeValues": [],
-            "code": "MAL_AGG_ACCESS",
+            "code": "MAL_AGG_DQ_ACCESS",
             "id": "fNt8hFGEo9d",
             "managedGroups": [],
             "name": "Malaria access",
@@ -4393,7 +4393,7 @@
         },
         {
             "attributeValues": [],
-            "code": "MAL_AGG_ADMIN",
+            "code": "MAL_AGG_DQ_ADMIN",
             "id": "WyU2lGUPLBv",
             "managedGroups": [],
             "name": "Malaria admin",
@@ -4428,7 +4428,7 @@
         },
         {
             "attributeValues": [],
-            "code": "MAL_AGG_DATA_CAPTURE",
+            "code": "MAL_AGG_DQ_DATA_CAPTURE",
             "id": "vgxAJF9iDRX",
             "managedGroups": [],
             "name": "Malaria data capture",
@@ -4459,35 +4459,6 @@
                     "value": "Saisie des données Paludisme"
                 }
             ],
-            "users": []
-        },
-        {
-            "attributeValues": [],
-            "code": "MAL_AGG_STK_DATA_CAPTURE",
-            "id": "s5MVdN5Ehkz",
-            "managedGroups": [],
-            "name": "Malaria stock data capture",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    },
-                    "vgxAJF9iDRX": {
-                        "access": "r-------",
-                        "id": "vgxAJF9iDRX"
-                    }
-                },
-                "users": {}
-            },
-            "translations": [],
             "users": []
         }
     ],
