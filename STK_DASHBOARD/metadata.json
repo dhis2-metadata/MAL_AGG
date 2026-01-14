@@ -895,10 +895,22 @@
             "id": "IHFoEstZjfl",
             "indicators": [
                 {
+                    "id": "zCXWGi6fEsw"
+                },
+                {
+                    "id": "eGISFgA3Cah"
+                },
+                {
                     "id": "s4n3zSyciLw"
                 },
                 {
+                    "id": "RBnVKphd48z"
+                },
+                {
                     "id": "RoeRc4k513l"
+                },
+                {
+                    "id": "OzpsrdzqZXp"
                 },
                 {
                     "id": "TkwXRuRQSYi"
@@ -907,94 +919,10 @@
                     "id": "HESD7pkLakc"
                 },
                 {
-                    "id": "mm9hChdAyl3"
-                },
-                {
-                    "id": "bmjvOFB90Se"
-                },
-                {
-                    "id": "tCFll2clsVs"
-                },
-                {
-                    "id": "LlI38w39pwW"
-                },
-                {
-                    "id": "hjdbr1rTKff"
-                },
-                {
-                    "id": "oXCc5MR3LLi"
-                },
-                {
-                    "id": "t7lgbT05u3k"
-                },
-                {
-                    "id": "xi2S1d7LJBc"
-                },
-                {
-                    "id": "DZTSUh1DFyX"
-                },
-                {
-                    "id": "sUuIRRJgHDl"
-                },
-                {
-                    "id": "fqkymAhfnbg"
-                },
-                {
-                    "id": "h0iRcZhDsLe"
-                },
-                {
-                    "id": "xiI6aQRNUVX"
-                },
-                {
-                    "id": "W34cMM4atBf"
-                },
-                {
-                    "id": "Dh4kab2L39R"
-                },
-                {
-                    "id": "fkSnzZMYE4F"
-                },
-                {
-                    "id": "iEUye81vR8U"
-                },
-                {
-                    "id": "DEURBGqN6fO"
-                },
-                {
-                    "id": "DpbZBWj6bLQ"
-                },
-                {
-                    "id": "WxXtpE1zdeJ"
-                },
-                {
-                    "id": "lCUNJpZTDQJ"
-                },
-                {
-                    "id": "hGNzrW1xbQN"
-                },
-                {
-                    "id": "p2s6iZcpke1"
-                },
-                {
-                    "id": "zKXBN1jGXIu"
-                },
-                {
-                    "id": "o3FTGfWDUpz"
-                },
-                {
-                    "id": "zCXWGi6fEsw"
-                },
-                {
-                    "id": "eGISFgA3Cah"
-                },
-                {
-                    "id": "RBnVKphd48z"
-                },
-                {
-                    "id": "OzpsrdzqZXp"
-                },
-                {
                     "id": "pDC6NBURuaz"
+                },
+                {
+                    "id": "mm9hChdAyl3"
                 },
                 {
                     "id": "tS54JH4t0KS"
@@ -1018,6 +946,12 @@
                     "id": "Rf6DhpY8DeK"
                 },
                 {
+                    "id": "bmjvOFB90Se"
+                },
+                {
+                    "id": "tCFll2clsVs"
+                },
+                {
                     "id": "LboUZfKr9EP"
                 },
                 {
@@ -1030,13 +964,37 @@
                     "id": "ClIrLxTeQgG"
                 },
                 {
+                    "id": "LlI38w39pwW"
+                },
+                {
+                    "id": "hjdbr1rTKff"
+                },
+                {
+                    "id": "oXCc5MR3LLi"
+                },
+                {
                     "id": "rL482g0s5JL"
                 },
                 {
                     "id": "vBNyVNLGZ5D"
                 },
                 {
+                    "id": "t7lgbT05u3k"
+                },
+                {
+                    "id": "xi2S1d7LJBc"
+                },
+                {
                     "id": "hCj9BqpyMvT"
+                },
+                {
+                    "id": "DZTSUh1DFyX"
+                },
+                {
+                    "id": "sUuIRRJgHDl"
+                },
+                {
+                    "id": "fqkymAhfnbg"
                 },
                 {
                     "id": "YX7dJbo7uTA"
@@ -1054,13 +1012,40 @@
                     "id": "UdyTo2oqzZO"
                 },
                 {
+                    "id": "h0iRcZhDsLe"
+                },
+                {
                     "id": "foz7nuOFMNR"
+                },
+                {
+                    "id": "xiI6aQRNUVX"
+                },
+                {
+                    "id": "W34cMM4atBf"
+                },
+                {
+                    "id": "Dh4kab2L39R"
+                },
+                {
+                    "id": "fkSnzZMYE4F"
+                },
+                {
+                    "id": "iEUye81vR8U"
+                },
+                {
+                    "id": "DEURBGqN6fO"
+                },
+                {
+                    "id": "DpbZBWj6bLQ"
                 },
                 {
                     "id": "sj3URzajB3C"
                 },
                 {
                     "id": "ajmJXVocM7a"
+                },
+                {
+                    "id": "WxXtpE1zdeJ"
                 },
                 {
                     "id": "J3UT51fnJjS"
@@ -1070,6 +1055,9 @@
                 },
                 {
                     "id": "x4CIsntvniz"
+                },
+                {
+                    "id": "lCUNJpZTDQJ"
                 },
                 {
                     "id": "psJy41rJsiE"
@@ -1096,6 +1084,9 @@
                     "id": "BI6l7Poo65o"
                 },
                 {
+                    "id": "hGNzrW1xbQN"
+                },
+                {
                     "id": "IeUbxBdwDTf"
                 },
                 {
@@ -1105,7 +1096,16 @@
                     "id": "GNvUj6KNaDM"
                 },
                 {
+                    "id": "p2s6iZcpke1"
+                },
+                {
+                    "id": "zKXBN1jGXIu"
+                },
+                {
                     "id": "Yf0KTxLcRPE"
+                },
+                {
+                    "id": "o3FTGfWDUpz"
                 },
                 {
                     "id": "wswCPFCyUG8"
@@ -8665,6 +8665,7 @@
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
                     "layer": "orgUnit",
+                    "metaData": {},
                     "name": "snng721RZje",
                     "noSpaceBetweenColumns": false,
                     "opacity": 1.0,
@@ -8797,6 +8798,7 @@
                     "legendSet": {
                         "id": "f1hWZIYCTzc"
                     },
+                    "metaData": {},
                     "method": 1,
                     "name": "MAL - ACT stock coverage time",
                     "noSpaceBetweenColumns": false,
@@ -8949,6 +8951,7 @@
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
                     "layer": "orgUnit",
+                    "metaData": {},
                     "name": "apQiFaiOrNV",
                     "noSpaceBetweenColumns": false,
                     "opacity": 1.0,
@@ -9077,6 +9080,7 @@
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "thematic",
+                    "metaData": {},
                     "method": 2,
                     "name": "MAL - ACT stock out days",
                     "noSpaceBetweenColumns": false,
@@ -9228,6 +9232,7 @@
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
                     "layer": "orgUnit",
+                    "metaData": {},
                     "name": "WwZAcac8qQF",
                     "noSpaceBetweenColumns": false,
                     "opacity": 1.0,
@@ -9360,6 +9365,7 @@
                     "legendSet": {
                         "id": "f1hWZIYCTzc"
                     },
+                    "metaData": {},
                     "method": 1,
                     "name": "MAL - ART stock coverage time",
                     "noSpaceBetweenColumns": false,
@@ -9512,6 +9518,7 @@
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
                     "layer": "orgUnit",
+                    "metaData": {},
                     "name": "vZPseTcpyev",
                     "noSpaceBetweenColumns": false,
                     "opacity": 1.0,
@@ -9640,6 +9647,7 @@
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "thematic",
+                    "metaData": {},
                     "method": 2,
                     "name": "MAL - Artesunate stock out days",
                     "noSpaceBetweenColumns": false,
@@ -9794,6 +9802,7 @@
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
                     "layer": "orgUnit",
+                    "metaData": {},
                     "name": "Km1on5F0dfp",
                     "noSpaceBetweenColumns": false,
                     "opacity": 1.0,
@@ -9926,6 +9935,7 @@
                     "legendSet": {
                         "id": "f1hWZIYCTzc"
                     },
+                    "metaData": {},
                     "method": 1,
                     "name": "MAL - LLIN stock coverage time",
                     "noSpaceBetweenColumns": false,
@@ -10078,6 +10088,7 @@
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
                     "layer": "orgUnit",
+                    "metaData": {},
                     "name": "dOajcSMBPEW",
                     "noSpaceBetweenColumns": false,
                     "opacity": 1.0,
@@ -10206,6 +10217,7 @@
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "thematic",
+                    "metaData": {},
                     "method": 2,
                     "name": "MAL - LLIN stock out days",
                     "noSpaceBetweenColumns": false,
@@ -10357,6 +10369,7 @@
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
                     "layer": "orgUnit",
+                    "metaData": {},
                     "name": "XBd4dWeXTcV",
                     "noSpaceBetweenColumns": false,
                     "opacity": 1.0,
@@ -10489,6 +10502,7 @@
                     "legendSet": {
                         "id": "f1hWZIYCTzc"
                     },
+                    "metaData": {},
                     "method": 1,
                     "name": "MAL - SX-PYR stock coverage time",
                     "noSpaceBetweenColumns": false,
@@ -10641,6 +10655,7 @@
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
                     "layer": "orgUnit",
+                    "metaData": {},
                     "name": "mSRR0fJFVBr",
                     "noSpaceBetweenColumns": false,
                     "opacity": 1.0,
@@ -10769,6 +10784,7 @@
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "thematic",
+                    "metaData": {},
                     "method": 2,
                     "name": "MAL - Primaquine stock out days",
                     "noSpaceBetweenColumns": false,
@@ -10920,6 +10936,7 @@
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
                     "layer": "orgUnit",
+                    "metaData": {},
                     "name": "hOhQtbdDLBL",
                     "noSpaceBetweenColumns": false,
                     "opacity": 1.0,
@@ -11052,6 +11069,7 @@
                     "legendSet": {
                         "id": "f1hWZIYCTzc"
                     },
+                    "metaData": {},
                     "method": 1,
                     "name": "MAL - RDT stock coverage time",
                     "noSpaceBetweenColumns": false,
@@ -11204,6 +11222,7 @@
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
                     "layer": "orgUnit",
+                    "metaData": {},
                     "name": "cjcM92dhkb7",
                     "noSpaceBetweenColumns": false,
                     "opacity": 1.0,
@@ -11332,6 +11351,7 @@
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "thematic",
+                    "metaData": {},
                     "method": 2,
                     "name": "MAL - ACT stock out days",
                     "noSpaceBetweenColumns": false,
@@ -11483,6 +11503,7 @@
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
                     "layer": "orgUnit",
+                    "metaData": {},
                     "name": "x6MglfvgwiH",
                     "noSpaceBetweenColumns": false,
                     "opacity": 1.0,
@@ -11615,6 +11636,7 @@
                     "legendSet": {
                         "id": "f1hWZIYCTzc"
                     },
+                    "metaData": {},
                     "method": 1,
                     "name": "MAL - SX-PYR stock coverage time",
                     "noSpaceBetweenColumns": false,
@@ -11767,6 +11789,7 @@
                     "itemOrganisationUnitGroups": [],
                     "labels": true,
                     "layer": "orgUnit",
+                    "metaData": {},
                     "name": "MuqsWv4b4Yb",
                     "noSpaceBetweenColumns": false,
                     "opacity": 1.0,
@@ -11895,6 +11918,7 @@
                     "interpretations": [],
                     "itemOrganisationUnitGroups": [],
                     "layer": "thematic",
+                    "metaData": {},
                     "method": 2,
                     "name": "MAL - Sulfadoxine-pyrimethamine stock out days",
                     "noSpaceBetweenColumns": false,
@@ -12271,15 +12295,15 @@
         }
     ],
     "package": {
-        "DHIS2Build": "6f7e169",
-        "DHIS2Version": "2.41.7",
+        "DHIS2Build": "86f1508",
+        "DHIS2Version": "2.42.3.1",
         "code": "MAL_AGG_STK",
         "description": "Malaria Stock (dashboard)",
         "healthAreaCode": "MAL",
         "healthAreaName": "Malaria",
-        "lastUpdated": "20260114T120045",
+        "lastUpdated": "20260114T200446",
         "locale": "en",
-        "name": "MAL_AGG_STK_DSH_DHIS2.41.7-en",
+        "name": "MAL_AGG_STK_DSH_DHIS2.42.3.1-en",
         "type": "DSH",
         "version": ""
     },
@@ -12442,6 +12466,7 @@
             "id": "vUeLeQMSwhN",
             "invitation": false,
             "lastLogin": "2020-04-23T09:17:46.912",
+            "name": "package admin",
             "organisationUnits": [],
             "passwordLastUpdated": "2022-08-17T12:56:38.395",
             "selfRegistered": false,
