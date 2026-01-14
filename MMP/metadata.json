@@ -658,10 +658,10 @@
                     "id": "UwaQ0MJzXBz"
                 },
                 {
-                    "id": "kdMT3AuDzj1"
+                    "id": "CWHBMa4nC9J"
                 },
                 {
-                    "id": "CWHBMa4nC9J"
+                    "id": "kdMT3AuDzj1"
                 }
             ],
             "id": "dNNpRuO7kbn",
@@ -1093,17 +1093,6 @@
             "dataSetElements": [
                 {
                     "categoryCombo": {
-                        "id": "VkQPxB6VdoG"
-                    },
-                    "dataElement": {
-                        "id": "CxI1FHE4oEh"
-                    },
-                    "dataSet": {
-                        "id": "e8BAh6eGcNE"
-                    }
-                },
-                {
-                    "categoryCombo": {
                         "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
@@ -1129,17 +1118,6 @@
                         "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
-                        "id": "CWHBMa4nC9J"
-                    },
-                    "dataSet": {
-                        "id": "e8BAh6eGcNE"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
-                    "dataElement": {
                         "id": "S3AqkeU4DET"
                     },
                     "dataSet": {
@@ -1152,6 +1130,28 @@
                     },
                     "dataElement": {
                         "id": "wAHUeGPbH9A"
+                    },
+                    "dataSet": {
+                        "id": "e8BAh6eGcNE"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "VkQPxB6VdoG"
+                    },
+                    "dataElement": {
+                        "id": "CxI1FHE4oEh"
+                    },
+                    "dataSet": {
+                        "id": "e8BAh6eGcNE"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "bjDvmb4bfuf"
+                    },
+                    "dataElement": {
+                        "id": "CWHBMa4nC9J"
                     },
                     "dataSet": {
                         "id": "e8BAh6eGcNE"
@@ -1248,7 +1248,7 @@
         "description": "Malaria Mobile and Migrant Populations ",
         "healthAreaCode": "MAL",
         "healthAreaName": "Malaria",
-        "lastUpdated": "20260114T092845",
+        "lastUpdated": "20260114T114434",
         "locale": "en",
         "name": "MAL_AGG_MMP_AGG_DHIS2.41.7-en",
         "type": "AGG",
@@ -1315,7 +1315,7 @@
     "userGroups": [
         {
             "attributeValues": [],
-            "code": "MAL_AGG_ACCESS",
+            "code": "MAL_AGG_MMP_ACCESS",
             "id": "fNt8hFGEo9d",
             "managedGroups": [],
             "name": "Malaria access",
@@ -1350,7 +1350,7 @@
         },
         {
             "attributeValues": [],
-            "code": "MAL_AGG_ADMIN",
+            "code": "MAL_AGG_MMP_ADMIN",
             "id": "WyU2lGUPLBv",
             "managedGroups": [],
             "name": "Malaria admin",
@@ -1385,7 +1385,7 @@
         },
         {
             "attributeValues": [],
-            "code": "MAL_AGG_DATA_CAPTURE",
+            "code": "MAL_AGG_MMP_DATA_CAPTURE",
             "id": "vgxAJF9iDRX",
             "managedGroups": [],
             "name": "Malaria data capture",
@@ -1416,35 +1416,6 @@
                     "value": "Saisie des données Paludisme"
                 }
             ],
-            "users": []
-        },
-        {
-            "attributeValues": [],
-            "code": "MAL_AGG_STK_DATA_CAPTURE",
-            "id": "s5MVdN5Ehkz",
-            "managedGroups": [],
-            "name": "Malaria stock data capture",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    },
-                    "vgxAJF9iDRX": {
-                        "access": "r-------",
-                        "id": "vgxAJF9iDRX"
-                    }
-                },
-                "users": {}
-            },
-            "translations": [],
             "users": []
         }
     ],
