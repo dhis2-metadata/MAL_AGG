@@ -5,6 +5,28 @@
             "attributeValues": [],
             "categoryOptions": [
                 {
+                    "id": "xYerKDKCefk"
+                }
+            ],
+            "code": "default",
+            "dataDimension": false,
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "GLevLNI9wkl",
+            "name": "default",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "default",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryOptions": [
+                {
                     "id": "MP15bHaQh2x"
                 },
                 {
@@ -99,182 +121,28 @@
                     "value": "Sexo"
                 }
             ]
-        },
+        }
+    ],
+    "categoryCombos": [
         {
-            "attributeValues": [],
-            "categoryOptions": [
+            "categories": [
                 {
-                    "id": "xYerKDKCefk"
+                    "id": "GLevLNI9wkl"
                 }
             ],
             "code": "default",
-            "dataDimension": false,
             "dataDimensionType": "DISAGGREGATION",
-            "id": "GLevLNI9wkl",
+            "id": "bjDvmb4bfuf",
             "name": "default",
             "sharing": {
                 "external": false,
-                "owner": "vUeLeQMSwhN",
                 "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
-            "shortName": "default",
-            "translations": [
-                {
-                    "locale": "uz",
-                    "property": "NAME",
-                    "value": "Стандарт"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "SHORT_NAME",
-                    "value": "default"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "défaut"
-                },
-                {
-                    "locale": "id",
-                    "property": "SHORT_NAME",
-                    "value": "Putus berobat/default"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "výchozí"
-                },
-                {
-                    "locale": "nb",
-                    "property": "SHORT_NAME",
-                    "value": "standard"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "default"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "SHORT_NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Padrão"
-                },
-                {
-                    "locale": "ar",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "uz",
-                    "property": "SHORT_NAME",
-                    "value": "Стандарт"
-                },
-                {
-                    "locale": "ar",
-                    "property": "SHORT_NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "SHORT_NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "défaut"
-                },
-                {
-                    "locale": "es",
-                    "property": "SHORT_NAME",
-                    "value": "default"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "SHORT_NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "SHORT_NAME",
-                    "value": "Padrão"
-                },
-                {
-                    "locale": "ru",
-                    "property": "NAME",
-                    "value": "по умолчанию"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "Padrao"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "standart"
-                },
-                {
-                    "locale": "id",
-                    "property": "NAME",
-                    "value": "Putus berobat/default"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "NAME",
-                    "value": "default"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "SHORT_NAME",
-                    "value": "standart"
-                },
-                {
-                    "locale": "cs",
-                    "property": "SHORT_NAME",
-                    "value": "výchozí"
-                },
-                {
-                    "locale": "ru",
-                    "property": "SHORT_NAME",
-                    "value": "по умолчанию"
-                },
-                {
-                    "locale": "pt",
-                    "property": "SHORT_NAME",
-                    "value": "Padrao"
-                },
-                {
-                    "locale": "nb",
-                    "property": "NAME",
-                    "value": "standard"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                }
-            ]
-        }
-    ],
-    "categoryCombos": [
+            "skipTotal": false,
+            "translations": []
+        },
         {
             "categories": [
                 {
@@ -387,105 +255,25 @@
                     "value": "Sexo"
                 }
             ]
-        },
-        {
-            "categories": [
-                {
-                    "id": "GLevLNI9wkl"
-                }
-            ],
-            "code": "default",
-            "dataDimensionType": "DISAGGREGATION",
-            "id": "bjDvmb4bfuf",
-            "name": "default",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {},
-                "users": {}
-            },
-            "skipTotal": false,
-            "translations": [
-                {
-                    "locale": "uz",
-                    "property": "NAME",
-                    "value": "Стандарт"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "výchozí"
-                },
-                {
-                    "locale": "ru",
-                    "property": "NAME",
-                    "value": "по умолчанию"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "Padrao"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "default"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Padrão"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "standart"
-                },
-                {
-                    "locale": "ar",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "id",
-                    "property": "NAME",
-                    "value": "Putus berobat/default"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "NAME",
-                    "value": "default"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "défaut"
-                },
-                {
-                    "locale": "nb",
-                    "property": "NAME",
-                    "value": "standard"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                }
-            ]
         }
     ],
     "categoryOptionCombos": [
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "categoryOptions": [
+                {
+                    "id": "xYerKDKCefk"
+                }
+            ],
+            "code": "default",
+            "id": "HllvX50cXC0",
+            "ignoreApproval": false,
+            "name": "default",
+            "translations": []
+        },
         {
             "attributeValues": [],
             "categoryCombo": {
@@ -669,963 +457,26 @@
                     "value": "Mann"
                 }
             ]
-        },
+        }
+    ],
+    "categoryOptionGroupSets": [],
+    "categoryOptionGroups": [],
+    "categoryOptions": [
         {
             "attributeValues": [],
-            "categoryCombo": {
-                "id": "bjDvmb4bfuf"
-            },
-            "categoryOptions": [
-                {
-                    "id": "xYerKDKCefk"
-                }
-            ],
-            "code": "DEFAULT",
-            "id": "HllvX50cXC0",
-            "ignoreApproval": false,
+            "code": "default",
+            "id": "xYerKDKCefk",
             "name": "default",
-            "translations": [
-                {
-                    "locale": "uz",
-                    "property": "NAME",
-                    "value": "Стандарт"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "výchozí"
-                },
-                {
-                    "locale": "ru",
-                    "property": "NAME",
-                    "value": "по умолчанию"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "Padrao"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "default"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Padrão"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "standart"
-                },
-                {
-                    "locale": "ar",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "id",
-                    "property": "NAME",
-                    "value": "Putus berobat/default"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "NAME",
-                    "value": "default"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "défaut"
-                },
-                {
-                    "locale": "nb",
-                    "property": "NAME",
-                    "value": "standard"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                }
-            ]
-        }
-    ],
-    "categoryOptionGroupSets": [
-        {
-            "attributeValues": [],
-            "categoryOptionGroups": [
-                {
-                    "id": "bqoVhX2RfG4"
-                },
-                {
-                    "id": "EVYKU2fIc6G"
-                }
-            ],
-            "dataDimension": true,
-            "dataDimensionType": "DISAGGREGATION",
-            "description": "Sex (Male/Female)",
-            "id": "CMrvZp5rmoC",
-            "name": "Sex (Male/Female)",
+            "organisationUnits": [],
             "sharing": {
                 "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    },
-                    "vgxAJF9iDRX": {
-                        "access": "r-------",
-                        "id": "vgxAJF9iDRX"
-                    }
-                },
+                "public": "r-rw----",
+                "userGroups": {},
                 "users": {}
             },
-            "shortName": "Sex (Male/Female)",
-            "translations": [
-                {
-                    "locale": "pt",
-                    "property": "DESCRIPTION",
-                    "value": "Sexo (Masculino/Feminino)"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "Sexo (Masculino/Feminino)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Sexe (Masculin/Féminin)"
-                },
-                {
-                    "locale": "ru",
-                    "property": "NAME",
-                    "value": "Пол (мужчина / женщина)"
-                },
-                {
-                    "locale": "ru",
-                    "property": "DESCRIPTION",
-                    "value": "Пол (мужчина / женщина)"
-                },
-                {
-                    "locale": "ar",
-                    "property": "SHORT_NAME",
-                    "value": "الجنس (ذكور/إناث)"
-                },
-                {
-                    "locale": "es",
-                    "property": "SHORT_NAME",
-                    "value": "Sexo (Masculino/Femenino)"
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "Sexo (Masculino/Femenino)"
-                },
-                {
-                    "locale": "es",
-                    "property": "DESCRIPTION",
-                    "value": "Sexo (Masculino/Femenino)"
-                },
-                {
-                    "locale": "pt",
-                    "property": "SHORT_NAME",
-                    "value": "Sexo (Masculino/Feminino)"
-                },
-                {
-                    "locale": "ru",
-                    "property": "SHORT_NAME",
-                    "value": "Пол (мужчина / женщина)"
-                },
-                {
-                    "locale": "ar",
-                    "property": "DESCRIPTION",
-                    "value": "الجنس (ذكور/إناث)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "DESCRIPTION",
-                    "value": "Sexe (Masculin/Féminin)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Sexe (Masculin/Féminin)"
-                },
-                {
-                    "locale": "ar",
-                    "property": "NAME",
-                    "value": "الجنس (ذكور/إناث)"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "categoryOptionGroups": [
-                {
-                    "id": "bqoVhX2RfG4"
-                },
-                {
-                    "id": "EVYKU2fIc6G"
-                }
-            ],
-            "dataDimension": true,
-            "dataDimensionType": "DISAGGREGATION",
-            "description": "Sex (Other/Unk)",
-            "id": "Ek6bXFaXjoe",
-            "name": "Sex (Other/Unk)",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    },
-                    "vgxAJF9iDRX": {
-                        "access": "r-------",
-                        "id": "vgxAJF9iDRX"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Sex (Other/Unk)",
-            "translations": [
-                {
-                    "locale": "pt",
-                    "property": "DESCRIPTION",
-                    "value": "Sexo (Outro/Desconhecido)"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "Sexo (Outro/Desconhecido)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Sexe (Autre/Inconnu)"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Sexo (Outro/Desconhecido)"
-                },
-                {
-                    "locale": "cs",
-                    "property": "DESCRIPTION",
-                    "value": "Pohlaví (jiné / neznámé)"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "Pohlaví (jiné / neznámé)"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "DESCRIPTION",
-                    "value": "Sexo (Outro/Desconhecido)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "DESCRIPTION",
-                    "value": "Sexe (Autre/Inconnu)"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "categoryOptionGroups": [
-                {
-                    "id": "bqoVhX2RfG4"
-                },
-                {
-                    "id": "EVYKU2fIc6G"
-                }
-            ],
-            "dataDimension": true,
-            "dataDimensionType": "DISAGGREGATION",
-            "description": "Sex (with unknown)",
-            "id": "XxEFGdwxOJ0",
-            "name": "Sex (with unknown)",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    },
-                    "vgxAJF9iDRX": {
-                        "access": "r-------",
-                        "id": "vgxAJF9iDRX"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Sex (with unknown)",
-            "translations": [
-                {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "الجنس (مع المجهول)"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "DESCRIPTION",
-                    "value": "Жинси (ноаниқ билан бирга)"
-                },
-                {
-                    "locale": "ru",
-                    "property": "NAME",
-                    "value": "Пол (вкл. неизвестно)"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "NAME",
-                    "value": "Sexo (con desconocido)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "DESCRIPTION",
-                    "value": "Sexe (avec inconnu)"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NAME",
-                    "value": "الجنس (مع المجهول)"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "Sexo (com desconhecido)"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Sexo (com desconhecido)"
-                },
-                {
-                    "locale": "uz",
-                    "property": "DESCRIPTION",
-                    "value": "Жинси (ноаниқ билан бирга)"
-                },
-                {
-                    "locale": "es",
-                    "property": "DESCRIPTION",
-                    "value": "Sexo (con desconocido)"
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "Sexo (con desconocido)"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "DESCRIPTION",
-                    "value": "Sexo (com desconhecido)"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "الجنس (مع المجهول)"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "Pohlaví (s neznámým)"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "DESCRIPTION",
-                    "value": "الجنس (مع المجهول)"
-                },
-                {
-                    "locale": "cs",
-                    "property": "DESCRIPTION",
-                    "value": "Pohlaví (s neznámým)"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "DESCRIPTION",
-                    "value": "الجنس (مع المجهول)"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "Жинси (ноаниқ билан бирга)"
-                },
-                {
-                    "locale": "ru",
-                    "property": "DESCRIPTION",
-                    "value": "Пол (вкл. неизвестно)"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "DESCRIPTION",
-                    "value": "Sexo (con desconocido)"
-                },
-                {
-                    "locale": "uz",
-                    "property": "NAME",
-                    "value": "Жинси (ноаниқ билан бирга)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Sexe (avec inconnu)"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "DESCRIPTION",
-                    "value": "الجنس (مع المجهول)"
-                },
-                {
-                    "locale": "pt",
-                    "property": "DESCRIPTION",
-                    "value": "Sexo (com desconhecido)"
-                },
-                {
-                    "locale": "ar",
-                    "property": "DESCRIPTION",
-                    "value": "الجنس (مع المجهول)"
-                },
-                {
-                    "locale": "ar",
-                    "property": "NAME",
-                    "value": "الجنس (مع المجهول)"
-                }
-            ]
-        }
-    ],
-    "categoryOptionGroups": [
-        {
-            "attributeValues": [],
-            "categoryOptions": [
-                {
-                    "id": "FFA9e1yIXCT"
-                }
-            ],
-            "code": "F",
-            "dataDimensionType": "DISAGGREGATION",
-            "id": "bqoVhX2RfG4",
-            "name": "Female",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    },
-                    "vgxAJF9iDRX": {
-                        "access": "r-------",
-                        "id": "vgxAJF9iDRX"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Female",
-            "translations": [
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "Femenino"
-                },
-                {
-                    "locale": "pt",
-                    "property": "SHORT_NAME",
-                    "value": "Feminino"
-                },
-                {
-                    "locale": "ru",
-                    "property": "SHORT_NAME",
-                    "value": "Женский"
-                },
-                {
-                    "locale": "es",
-                    "property": "SHORT_NAME",
-                    "value": "Femenino"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Féminin"
-                },
-                {
-                    "locale": "ar",
-                    "property": "NAME",
-                    "value": "أنثى"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "Feminino"
-                },
-                {
-                    "locale": "ru",
-                    "property": "NAME",
-                    "value": "Женский"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Féminin"
-                },
-                {
-                    "locale": "ar",
-                    "property": "SHORT_NAME",
-                    "value": "أنثى"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "categoryOptions": [
-                {
-                    "id": "FFA9e1yIXCT"
-                },
-                {
-                    "id": "MP15bHaQh2x"
-                }
-            ],
-            "code": "GEN_LIB_AGG",
-            "id": "O2MSX2uAySC",
-            "name": "GEN - Category Options",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    },
-                    "vgxAJF9iDRX": {
-                        "access": "r-------",
-                        "id": "vgxAJF9iDRX"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Category Options",
+            "shortName": "default",
             "translations": []
         },
-        {
-            "attributeValues": [],
-            "categoryOptions": [
-                {
-                    "id": "MP15bHaQh2x"
-                }
-            ],
-            "code": "M",
-            "dataDimensionType": "DISAGGREGATION",
-            "id": "EVYKU2fIc6G",
-            "name": "Male",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    },
-                    "vgxAJF9iDRX": {
-                        "access": "r-------",
-                        "id": "vgxAJF9iDRX"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Male",
-            "translations": [
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "Masculino"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "Masculino"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Masculin"
-                },
-                {
-                    "locale": "ru",
-                    "property": "SHORT_NAME",
-                    "value": "мужской"
-                },
-                {
-                    "locale": "ar",
-                    "property": "NAME",
-                    "value": "ذكر"
-                },
-                {
-                    "locale": "ar",
-                    "property": "SHORT_NAME",
-                    "value": "ذكر"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Masculin"
-                },
-                {
-                    "locale": "ru",
-                    "property": "NAME",
-                    "value": "мужской"
-                },
-                {
-                    "locale": "es",
-                    "property": "SHORT_NAME",
-                    "value": "Masculino"
-                },
-                {
-                    "locale": "pt",
-                    "property": "SHORT_NAME",
-                    "value": "Masculino"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "code": "OTHER",
-            "dataDimensionType": "ATTRIBUTE",
-            "id": "KODd9zpxeVK",
-            "name": "Other",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    },
-                    "vgxAJF9iDRX": {
-                        "access": "r-------",
-                        "id": "vgxAJF9iDRX"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Other",
-            "translations": [
-                {
-                    "locale": "es_US",
-                    "property": "NAME",
-                    "value": "Otro"
-                },
-                {
-                    "locale": "uz",
-                    "property": "NAME",
-                    "value": "Бошқалар"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "SHORT_NAME",
-                    "value": "أخرى"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "أخرى"
-                },
-                {
-                    "locale": "cs",
-                    "property": "SHORT_NAME",
-                    "value": "Ostatní"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "SHORT_NAME",
-                    "value": "أخرى"
-                },
-                {
-                    "locale": "ar",
-                    "property": "SHORT_NAME",
-                    "value": "أخرى"
-                },
-                {
-                    "locale": "id",
-                    "property": "NAME",
-                    "value": "Lain-lain"
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "Otro"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "SHORT_NAME",
-                    "value": "Otro"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "SHORT_NAME",
-                    "value": "Boshqalar"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Outros"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "أخرى"
-                },
-                {
-                    "locale": "ru",
-                    "property": "NAME",
-                    "value": "Другой"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Autre"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NAME",
-                    "value": "أخرى"
-                },
-                {
-                    "locale": "ru",
-                    "property": "SHORT_NAME",
-                    "value": "Другой"
-                },
-                {
-                    "locale": "ar",
-                    "property": "NAME",
-                    "value": "أخرى"
-                },
-                {
-                    "locale": "es",
-                    "property": "SHORT_NAME",
-                    "value": "Otro"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "Outros"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "SHORT_NAME",
-                    "value": "أخرى"
-                },
-                {
-                    "locale": "pt",
-                    "property": "SHORT_NAME",
-                    "value": "Outros"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "Ostatní"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Autre"
-                },
-                {
-                    "locale": "nb",
-                    "property": "SHORT_NAME",
-                    "value": "Andre"
-                },
-                {
-                    "locale": "nb",
-                    "property": "NAME",
-                    "value": "Andre"
-                },
-                {
-                    "locale": "uz",
-                    "property": "SHORT_NAME",
-                    "value": "Бошқалар"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "Boshqalar"
-                },
-                {
-                    "locale": "id",
-                    "property": "SHORT_NAME",
-                    "value": "Lain-lain"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "SHORT_NAME",
-                    "value": "Outros"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "code": "UNK_SEX",
-            "dataDimensionType": "DISAGGREGATION",
-            "id": "SZJNeRyrh22",
-            "name": "Unknown Sex",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    },
-                    "vgxAJF9iDRX": {
-                        "access": "r-------",
-                        "id": "vgxAJF9iDRX"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Unk Sex",
-            "translations": [
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "Sexo Desconhecido"
-                },
-                {
-                    "locale": "cs",
-                    "property": "SHORT_NAME",
-                    "value": "Nezn. pohlaví"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "SHORT_NAME",
-                    "value": "الجنس مجهول"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Sexo Desconhecido"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NAME",
-                    "value": "الجنس مجهول"
-                },
-                {
-                    "locale": "ar",
-                    "property": "SHORT_NAME",
-                    "value": "الجنس مجهول"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "الجنس مجهول"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "SHORT_NAME",
-                    "value": "الجنس مجهول"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Autre/sexe non connu"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "SHORT_NAME",
-                    "value": "Sexo desconhecido"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "Neznámé pohlaví"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "SHORT_NAME",
-                    "value": "الجنس مجهول"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "الجنس مجهول"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Autre/sexe non connu"
-                },
-                {
-                    "locale": "pt",
-                    "property": "SHORT_NAME",
-                    "value": "Sexo desconhecido"
-                },
-                {
-                    "locale": "ar",
-                    "property": "NAME",
-                    "value": "الجنس مجهول"
-                }
-            ]
-        }
-    ],
-    "categoryOptions": [
         {
             "attributeValues": [],
             "code": "F",
@@ -1642,11 +493,11 @@
                         "id": "WyU2lGUPLBv"
                     },
                     "fNt8hFGEo9d": {
-                        "access": "r-------",
+                        "access": "r-r-----",
                         "id": "fNt8hFGEo9d"
                     },
                     "vgxAJF9iDRX": {
-                        "access": "r-------",
+                        "access": "r-rw----",
                         "id": "vgxAJF9iDRX"
                     }
                 },
@@ -1722,11 +573,11 @@
                         "id": "WyU2lGUPLBv"
                     },
                     "fNt8hFGEo9d": {
-                        "access": "r-------",
+                        "access": "r-r-----",
                         "id": "fNt8hFGEo9d"
                     },
                     "vgxAJF9iDRX": {
-                        "access": "r-------",
+                        "access": "r-rw----",
                         "id": "vgxAJF9iDRX"
                     }
                 },
@@ -1785,173 +636,6 @@
                     "value": "Masculino"
                 }
             ]
-        },
-        {
-            "attributeValues": [],
-            "code": "DEFAULT",
-            "id": "xYerKDKCefk",
-            "name": "default",
-            "organisationUnits": [],
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-rw----",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "default",
-            "translations": [
-                {
-                    "locale": "uz",
-                    "property": "NAME",
-                    "value": "Стандарт"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "SHORT_NAME",
-                    "value": "default"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "défaut"
-                },
-                {
-                    "locale": "id",
-                    "property": "SHORT_NAME",
-                    "value": "Putus berobat/default"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "výchozí"
-                },
-                {
-                    "locale": "nb",
-                    "property": "SHORT_NAME",
-                    "value": "standard"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "default"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "SHORT_NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Padrão"
-                },
-                {
-                    "locale": "ar",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "uz",
-                    "property": "SHORT_NAME",
-                    "value": "Стандарт"
-                },
-                {
-                    "locale": "ar",
-                    "property": "SHORT_NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "SHORT_NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "défaut"
-                },
-                {
-                    "locale": "es",
-                    "property": "SHORT_NAME",
-                    "value": "default"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "SHORT_NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "SHORT_NAME",
-                    "value": "Padrão"
-                },
-                {
-                    "locale": "ru",
-                    "property": "NAME",
-                    "value": "по умолчанию"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "Padrao"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "standart"
-                },
-                {
-                    "locale": "id",
-                    "property": "NAME",
-                    "value": "Putus berobat/default"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "NAME",
-                    "value": "default"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "SHORT_NAME",
-                    "value": "standart"
-                },
-                {
-                    "locale": "cs",
-                    "property": "SHORT_NAME",
-                    "value": "výchozí"
-                },
-                {
-                    "locale": "ru",
-                    "property": "SHORT_NAME",
-                    "value": "по умолчанию"
-                },
-                {
-                    "locale": "pt",
-                    "property": "SHORT_NAME",
-                    "value": "Padrao"
-                },
-                {
-                    "locale": "nb",
-                    "property": "NAME",
-                    "value": "standard"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                }
-            ]
         }
     ],
     "constants": [],
@@ -1974,10 +658,10 @@
                     "id": "UwaQ0MJzXBz"
                 },
                 {
-                    "id": "CWHBMa4nC9J"
+                    "id": "kdMT3AuDzj1"
                 },
                 {
-                    "id": "kdMT3AuDzj1"
+                    "id": "CWHBMa4nC9J"
                 }
             ],
             "id": "dNNpRuO7kbn",
@@ -2409,32 +1093,21 @@
             "dataSetElements": [
                 {
                     "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
-                    "dataElement": {
-                        "id": "S3AqkeU4DET"
-                    },
-                    "dataSet": {
-                        "id": "e8BAh6eGcNE"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
-                    "dataElement": {
-                        "id": "wAHUeGPbH9A"
-                    },
-                    "dataSet": {
-                        "id": "e8BAh6eGcNE"
-                    }
-                },
-                {
-                    "categoryCombo": {
                         "id": "VkQPxB6VdoG"
                     },
                     "dataElement": {
                         "id": "CxI1FHE4oEh"
+                    },
+                    "dataSet": {
+                        "id": "e8BAh6eGcNE"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "bjDvmb4bfuf"
+                    },
+                    "dataElement": {
+                        "id": "kdMT3AuDzj1"
                     },
                     "dataSet": {
                         "id": "e8BAh6eGcNE"
@@ -2467,7 +1140,18 @@
                         "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
-                        "id": "kdMT3AuDzj1"
+                        "id": "S3AqkeU4DET"
+                    },
+                    "dataSet": {
+                        "id": "e8BAh6eGcNE"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "bjDvmb4bfuf"
+                    },
+                    "dataElement": {
+                        "id": "wAHUeGPbH9A"
                     },
                     "dataSet": {
                         "id": "e8BAh6eGcNE"
@@ -2499,11 +1183,11 @@
                         "id": "WyU2lGUPLBv"
                     },
                     "fNt8hFGEo9d": {
-                        "access": "r-------",
+                        "access": "r-r-----",
                         "id": "fNt8hFGEo9d"
                     },
                     "vgxAJF9iDRX": {
-                        "access": "r-------",
+                        "access": "r-rw----",
                         "id": "vgxAJF9iDRX"
                     }
                 },
@@ -2511,7 +1195,7 @@
             },
             "shortName": "Malaria cross borders and MMP",
             "skipOffline": false,
-            "timelyDays": 15,
+            "timelyDays": 15.0,
             "translations": [
                 {
                     "locale": "fr",
@@ -2540,7 +1224,7 @@
                 }
             ],
             "validCompleteOnly": false,
-            "version": 20
+            "version": 23
         }
     ],
     "documents": [],
@@ -2558,15 +1242,15 @@
     "organisationUnitGroupSets": [],
     "organisationUnitGroups": [],
     "package": {
-        "DHIS2Build": "db15b78",
-        "DHIS2Version": "2.40.2",
+        "DHIS2Build": "6f7e169",
+        "DHIS2Version": "2.41.7",
         "code": "MAL_AGG_MMP",
         "description": "Malaria Mobile and Migrant Populations ",
         "healthAreaCode": "MAL",
         "healthAreaName": "Malaria",
-        "lastUpdated": "20231208T024834",
+        "lastUpdated": "20260114T092845",
         "locale": "en",
-        "name": "MAL_AGG_MMP_AGG_DHIS2.40.2-en",
+        "name": "MAL_AGG_MMP_AGG_DHIS2.41.7-en",
         "type": "AGG",
         "version": ""
     },
